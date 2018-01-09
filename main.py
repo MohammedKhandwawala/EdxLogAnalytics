@@ -50,10 +50,11 @@ df_beta = df_beta.drop(df_beta.context)
 df_beta = df_beta.drop(df_beta.host)
 df_beta = df_beta.drop(df_beta.accept_language)
 
-unique_courses = [i.course_id for i in df_beta.select('course_id').distinct().collect()]
 
-df_beta = df_beta.groupBy("course_id").count()
-
+df_temp = df_beta.groupBy("course_id").count()
+df_temp = df_temp[df_temp["count"] >= 50000]
+unique_courses = [i.course_id for i in df_temp.select('course_id').distinct().collect()]
+ 
 df_gamma = df_beta.where(df_beta.course_id == unique_courses[2]) 
 
 df_gamma = df_gamma.toPandas()
@@ -95,19 +96,23 @@ for user in users:
 		if row["name"] != "seek_video" : 	
 			start = row["event"].find("currentTime")
 			stop = row["event"][start:].find("}")
-			time = float(row["event"][start+14:start+stop])
+			try:
+				time = float(row["event"][start+14:start+stop])
+			except ValueError:
+				print row["event"]
 		if time<TIME and row["name"] != "seek_video" :
 			if row["name"] == "pause_video" or  row["name"] == "edx.video.paused":
 				VIEW_COUNT-=1
-				print 1
 			if row["name"] == "play_video" or row["name"] == "edx.video.played" :
 				time = 0
 				VIEW_COUNT+=1
-				print 1
 		elif row["name"] == "seek_video" :
 			start = row["event"].find("new_time")
 			stop = row["event"][start:].find(",")
-			TIME = float(row["event"][start+11:start+stop])
+			try:
+				TIME = float(row["event"][start+11:start+stop])
+			except ValueError :
+				print row["event"]
 			time = TIME
 		else:
 			TIME = time
@@ -122,7 +127,6 @@ for user in users:
 	test_score.append(GRADE_COUNT)
 	test_views_deroll.append(VIEW_COUNT_DENROLL)
 	test_score_deroll.append(GRADE_COUNT_DENROLL)
-	
 
 
 pyplot.scatter(test_views ,test_score ,marker='o')
