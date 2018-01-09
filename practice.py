@@ -10,7 +10,7 @@ import re, sys, os, pandas
 from pyspark.sql.functions import when , lit
 from matplotlib import pyplot
 
-log_file_path = '/home/mohammed/log/log_new/'
+log_file_path = '/home/mohammed/log/files/'
 
 file_path_list = []
 for i in range(1,32):
@@ -51,6 +51,8 @@ df_beta = df_beta.drop(df_beta.host)
 df_beta = df_beta.drop(df_beta.accept_language)
 
 unique_courses = [i.course_id for i in df_beta.select('course_id').distinct().collect()]
+
+df_beta = df_beta.groupBy("course_id").count()
 
 df_gamma = df_beta.where(df_beta.course_id == unique_courses[2]) 
 
