@@ -1,0 +1,9 @@
+<problem display_name="Problem 12" markdown="Isentropic Process is represented by a _______ on Mollier diagram.&#10;&#10; (x)Vertical line&#10; ( )Horizontal line&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Isentropic Process is represented by a _______ on Mollier diagram.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Vertical line</choice>
+      <choice correct="false">Horizontal line</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

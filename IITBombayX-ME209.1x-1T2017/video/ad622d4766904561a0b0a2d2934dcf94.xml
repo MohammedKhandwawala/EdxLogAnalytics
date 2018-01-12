@@ -1,0 +1,10 @@
+<video youtube="1.00:eXtXsyuVwF8" url_name="ad622d4766904561a0b0a2d2934dcf94" display_name="Subcooled or Compressed Liquid Approximation" download_track="true" download_video="true" edx_video_id="IITME2092014-V011300" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011300_DTH.mp4&quot;]" sub="IITME2092014-V011300_DTH" youtube_id_0_75="" youtube_id_1_0="eXtXsyuVwF8" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011300_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S421_Subcooled_or_Compressed_Liquid_Approximation_IIT_Bombay" duration="647.0">
+    <encoded_video bitrate="144" file_size="11683302" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011300_MB2.mp4"/>
+    <encoded_video bitrate="234" file_size="18959690" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011300_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="44502632" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011300_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="87205093" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011300_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011300_AUD.mp3"/>
+  </video_asset>
+</video>

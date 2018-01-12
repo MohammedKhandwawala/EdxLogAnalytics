@@ -1,0 +1,10 @@
+<video youtube="1.00:prCg4o71MTo" url_name="e75f11a198b3425ab93f97ea1c6a0cf2" display_name="Quality of a Mixture- Dryness Fraction" download_track="true" download_video="true" edx_video_id="IITME2092014-V011500" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011500_DTH.mp4&quot;]" sub="IITME2092014-V011500_DTH" youtube_id_0_75="" youtube_id_1_0="prCg4o71MTo" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011500_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S423_Quality_of_a_Mixture_Dryness_Fraction_IIT_Bombay" duration="508.25">
+    <encoded_video bitrate="133" file_size="8489879" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011500_MB2.mp4"/>
+    <encoded_video bitrate="197" file_size="12535341" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011500_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="25500013" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011500_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="68465310" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011500_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011500_AUD.mp3"/>
+  </video_asset>
+</video>

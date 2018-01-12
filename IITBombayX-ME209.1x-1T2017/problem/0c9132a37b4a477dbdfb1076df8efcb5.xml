@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown="___________ serves as a reference point for u and s values for water/steam.&#10;&#10;(x) Triple point&#10;( ) Critical point&#10;( ) Triple Line&#10;( ) Critical Line&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>___________ serves as a reference point for u and s values for water/steam.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Triple point</choice>
+      <choice correct="false">Critical point</choice>
+      <choice correct="false">Triple Line</choice>
+      <choice correct="false">Critical Line</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

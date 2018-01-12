@@ -1,0 +1,11 @@
+<problem display_name="Problem 5" markdown="In C2-05 (b), if a  piston is used to compress the gas, work done by the piston is:&#10;&#10;(x) Positive &#10;( ) Negative&#10;( ) Zero&#10;( ) Cannot be determined from the information provided&#10;&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In C2-05 (b), if a  piston is used to compress the gas, work done by the piston is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Positive</choice>
+      <choice correct="false">Negative</choice>
+      <choice correct="false">Zero</choice>
+      <choice correct="false">Cannot be determined from the information provided</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

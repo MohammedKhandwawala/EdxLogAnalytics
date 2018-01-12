@@ -1,0 +1,12 @@
+<problem display_name="Problem 2" markdown="A system has just one two-way work mode possible. Such a system is called as &#10;&#10;     ( ) complex system &#10;     (x) simple system &#10;     ( ) rudimentary system&#10;    &#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A system has just one two-way work mode possible. Such a system is called as </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">complex system</choice>
+      <choice correct="true">simple system</choice>
+      <choice correct="false">rudimentary system</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>     </p>
+</problem>

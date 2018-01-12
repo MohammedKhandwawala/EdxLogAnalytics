@@ -1,0 +1,17 @@
+<problem display_name="Problem 1" markdown="Which of the following are the characteristics of any reversible process?&#10;&#10;[x] It is a quasi static process.&#10;[ ] It may involve some one-way mode of work.&#10;[ ] It is an adiabatic process.&#10;[ ] Heat transfer to the system may take place from another system which is at a different temperature&#10;[explanation]&#10;B and D prevent reversibility, C is not necessary.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following are the characteristics of any reversible process?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">It is a quasi static process.</choice>
+      <choice correct="false">It may involve some one-way mode of work.</choice>
+      <choice correct="false">It is an adiabatic process.</choice>
+      <choice correct="false">Heat transfer to the system may take place from another system which is at a different temperature</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>B and D prevent reversibility, C is not necessary.</p>
+    </div>
+  </solution>
+</problem>

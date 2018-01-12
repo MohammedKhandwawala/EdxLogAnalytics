@@ -1,0 +1,17 @@
+<problem display_name="Problem 3" markdown="&gt;&gt; Which of the following is a closed system?  (Select one or more) &lt;&lt;&#10;     [x] A bottle with cap on&#10;     [ ] An imaginary 10x10x10cm cube directly in front of you&#10;     [ ] A test tube containing water&#10;     [ ] The Earth&#10;     &#10;[explanation]&#10;Only ‘A’ prevents the flow of mass in and out of the system. In the rest of the systems it is possible for mass to go in or go out of the system across the boundaries.&#10;[explanation]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p> Which of the following is a closed system?  (Select one or more) </p>
+  <choiceresponse>
+    <checkboxgroup label=" Which of the following is a closed system?  (Select one or more) " direction="vertical">
+      <choice correct="true">A bottle with cap on</choice>
+      <choice correct="false">An imaginary 10x10x10cm cube directly in front of you</choice>
+      <choice correct="false">A test tube containing water</choice>
+      <choice correct="false">The Earth</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Only ‘A’ prevents the flow of mass in and out of the system. In the rest of the systems it is possible for mass to go in or go out of the system across the boundaries.</p>
+    </div>
+  </solution>
+</problem>

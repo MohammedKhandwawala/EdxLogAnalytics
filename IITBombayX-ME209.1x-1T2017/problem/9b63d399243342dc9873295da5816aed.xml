@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown="Through one state on the [mathjaxinline]T-s[/mathjaxinline] diagram of an ideal gas([mathjaxinline]s[/mathjaxinline] on the [mathjaxinline]x[/mathjaxinline]-axis), a constant volume line is plotted, and a constant pressure line plotted. Which line has a higher slope?&#10;&#10;( ) The constant pressure line&#10;(x) The constant volume line&#10;( ) The answer depends on the state.&#10;&#10; " max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Through one state on the [mathjaxinline]T-s[/mathjaxinline] diagram of an ideal gas([mathjaxinline]s[/mathjaxinline] on the [mathjaxinline]x[/mathjaxinline]-axis), a constant volume line is plotted, and a constant pressure line plotted. Which line has a higher slope?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">The constant pressure line</choice>
+      <choice correct="true">The constant volume line</choice>
+      <choice correct="false">The answer depends on the state.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+</problem>

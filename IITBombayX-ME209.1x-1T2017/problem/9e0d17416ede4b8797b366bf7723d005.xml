@@ -1,0 +1,17 @@
+<problem display_name="Problem 2" markdown="A person wants to test whether an interaction is a work interaction. He designs a contraption C which will reduce the interaction to the lifting of a weight. Which of the following are acceptable properties of C ? &#10;&#10;[x] There is no friction, and the components are massless.&#10;&#10;[ ] The volume of C increases for each additional unit of height the mass is raised.&#10;&#10;[ ] The contraption C contains a thermodynamic heat engine.&#10;[ ] The contraption C contains a hypothetical element Y, whose internal workings are not known and are not specified.&#10;&#10;[explanation]&#10;Idealizations like assuming something is frictionless, massless is allowed. The state of C cannot change. It can undergo a complete cycle, or not undergo any process, but a change in volume is a change in the state of C. C cannot contain something defined in thermodynamics, only something defined in other branches of physics. C cannot contain any black box elements, the working and design of everything must be known and completely specified.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A person wants to test whether an interaction is a work interaction. He designs a contraption C which will reduce the interaction to the lifting of a weight. Which of the following are acceptable properties of C ? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">There is no friction, and the components are massless.</choice>
+      <choice correct="false">The volume of C increases for each additional unit of height the mass is raised.</choice>
+      <choice correct="false">The contraption C contains a thermodynamic heat engine.</choice>
+      <choice correct="false">The contraption C contains a hypothetical element Y, whose internal workings are not known and are not specified.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Idealizations like assuming something is frictionless, massless is allowed. The state of C cannot change. It can undergo a complete cycle, or not undergo any process, but a change in volume is a change in the state of C. C cannot contain something defined in thermodynamics, only something defined in other branches of physics. C cannot contain any black box elements, the working and design of everything must be known and completely specified.</p>
+    </div>
+  </solution>
+</problem>

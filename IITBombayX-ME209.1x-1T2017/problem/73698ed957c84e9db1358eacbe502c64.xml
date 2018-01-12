@@ -1,0 +1,11 @@
+<problem display_name="Problem 2" markdown="For water or steam lying in __________ region at a given temperature, the pressure is less than p[mathjaxinline]_{sat}[/mathjaxinline](T)&#10;&#10;( ) Subcooled&#10;(x) Superheated&#10;( ) Supercritical&#10;( ) Liquid + Vapour&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>For water or steam lying in __________ region at a given temperature, the pressure is less than p[mathjaxinline]_{sat}[/mathjaxinline](T)</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Subcooled</choice>
+      <choice correct="true">Superheated</choice>
+      <choice correct="false">Supercritical</choice>
+      <choice correct="false">Liquid + Vapour</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

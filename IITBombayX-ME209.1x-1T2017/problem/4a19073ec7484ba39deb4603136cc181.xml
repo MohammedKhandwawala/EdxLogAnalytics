@@ -1,0 +1,11 @@
+<problem display_name="Problem 5" markdown="Consider a 2 T heat engine. Which of the following are true?&#10;[x] The entropy change of the engine is zero over one cycle.&#10;[ ] The entropy of the high-temperature reservoir increases.&#10;[x] The entropy of the high-temperature reservoir decreases.&#10;[ ] The entropy of the low-temperature reservoir decreases.&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Consider a 2 T heat engine. Which of the following are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">The entropy change of the engine is zero over one cycle.</choice>
+      <choice correct="false">The entropy of the high-temperature reservoir increases.</choice>
+      <choice correct="true">The entropy of the high-temperature reservoir decreases.</choice>
+      <choice correct="false">The entropy of the low-temperature reservoir decreases.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

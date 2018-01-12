@@ -1,0 +1,10 @@
+<video youtube="1.00:mE_zX386CRM" url_name="c6391514441b4cc88788ffa6d8931686" display_name="Exercise 11 – Heat Exchanger" download_track="true" download_video="true" edx_video_id="IITME2092014-V022700" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022700_DTH.mp4&quot;]" sub="IITME2092014-V022700_DTH" youtube_id_0_75="" youtube_id_1_0="mE_zX386CRM" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022700_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S331_Exercise_11_Heat_Exchanger_IIT_Bombay" duration="855.53">
+    <encoded_video bitrate="131" file_size="14037568" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022700_MB2.mp4"/>
+    <encoded_video bitrate="203" file_size="21812900" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022700_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="50619223" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022700_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="108102032" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022700_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022700_AUD.mp3"/>
+  </video_asset>
+</video>

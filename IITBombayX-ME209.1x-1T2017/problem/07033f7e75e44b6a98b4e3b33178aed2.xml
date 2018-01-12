@@ -1,0 +1,15 @@
+<problem display_name="Problem 2" markdown="&gt;&gt;All physical processes are quasi-static processes&lt;&lt;&#10;     ( ) True&#10;     (x) False&#10;     &#10;     &#10;[explanation]&#10;No physical process is perfectly quasi-static. In fact only very few can be approximated as such.&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>All physical processes are quasi-static processes</p>
+  <multiplechoiceresponse>
+    <choicegroup label="All physical processes are quasi-static processes" type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>No physical process is perfectly quasi-static. In fact only very few can be approximated as such.</p>
+    </div>
+  </solution>
+</problem>

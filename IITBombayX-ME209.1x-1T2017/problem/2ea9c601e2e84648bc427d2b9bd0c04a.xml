@@ -1,0 +1,9 @@
+<problem display_name="Problem 8" markdown="In adiabatic compressors working at steady state, enthalpy flow rate at the outlet is greater than the enthalpy flow rate at inlet. &#10;(x) True&#10;( ) False" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>In adiabatic compressors working at steady state, enthalpy flow rate at the outlet is greater than the enthalpy flow rate at inlet. </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

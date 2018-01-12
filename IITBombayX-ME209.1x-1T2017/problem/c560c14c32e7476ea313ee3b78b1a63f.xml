@@ -1,0 +1,17 @@
+<problem display_name="Problem 6" markdown="&gt;&gt;Which of the following is true for a thermodynamic process?&#9;[select one or more]&lt;&lt;&#10;&#10;[ ] It can always be represented by a curve on the state space.&#10;[x] The initial and final states in the process may be same.&#10;[x] The net change in all the properties of the system may be zero.&#10;[x] In a 2D state space, points representing the initial and final states may lie on the same horizontal line.&#10;&#10;[explanation]&#10;A process can be represented as a curve only if it is quasi-static. Cyclic processes have zero net change in each property.The initial and final states of a general process are arbitrary.&#10;[explanation]&#10;" max_attempts="3" showanswer="past_due" weight="1.0">
+  <p>Which of the following is true for a thermodynamic process?	[select one or more]</p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following is true for a thermodynamic process? [select one or more]" direction="vertical">
+      <choice correct="false">It can always be represented by a curve on the state space.</choice>
+      <choice correct="true">The initial and final states in the process may be same.</choice>
+      <choice correct="true">The net change in all the properties of the system may be zero.</choice>
+      <choice correct="true">In a 2D state space, points representing the initial and final states may lie on the same horizontal line.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A process can be represented as a curve only if it is quasi-static. Cyclic processes have zero net change in each property.The initial and final states of a general process are arbitrary.</p>
+    </div>
+  </solution>
+</problem>

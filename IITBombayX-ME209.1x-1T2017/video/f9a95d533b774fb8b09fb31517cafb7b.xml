@@ -1,0 +1,10 @@
+<video youtube="1.00:X9KJfJxoWl8" url_name="f9a95d533b774fb8b09fb31517cafb7b" display_name="State Postulate 2 " download_track="true" download_video="true" edx_video_id="IITME2092014-V006500" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006500_100.mp4&quot;]" sub="IITME2092014-V006500_100" youtube_id_0_75="" youtube_id_1_0="X9KJfJxoWl8" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006500_100.mp4"/>
+  <video_asset client_video_id="ME209x_S037_State_Postulate_2_IIT_Bombay" duration="243.35">
+    <encoded_video bitrate="522" file_size="15883765" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006500_MB2.mp4"/>
+    <encoded_video bitrate="729" file_size="22199833" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006500_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="34353259" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006500_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="30528904" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006500_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006500_100.mp3"/>
+  </video_asset>
+</video>

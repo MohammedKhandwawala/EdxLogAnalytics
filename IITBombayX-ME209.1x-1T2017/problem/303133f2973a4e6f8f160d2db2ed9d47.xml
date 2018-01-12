@@ -1,0 +1,17 @@
+<problem display_name="Problem 6" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A closed system executes two different processes from a fixed initial state 1 to another fixed final state 2. Process A is reversible, and process B is irreversible. Which of the following is/are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">[mathjaxinline]\Delta S_A = 0[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]\Delta S_A &gt; \Delta S_B[/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]\Delta S_A = \Delta S_B[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]\Delta S_A &lt; \Delta S_B[/mathjaxinline]</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The change in entropy depends only on the end states. </p>
+    </div>
+  </solution>
+</problem>

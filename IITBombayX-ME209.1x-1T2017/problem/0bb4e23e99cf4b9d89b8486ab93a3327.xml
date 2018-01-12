@@ -1,0 +1,17 @@
+<problem display_name="Problem 7" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What’s the final temperature?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">120 [mathjaxinline]^\circ[/mathjaxinline]C</choice>
+      <choice correct="false">100 [mathjaxinline]^\circ[/mathjaxinline]C</choice>
+      <choice correct="true">133.55 [mathjaxinline]^\circ[/mathjaxinline]C</choice>
+      <choice correct="false">150 [mathjaxinline]^\circ[/mathjaxinline]C</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>From steam tables -Table 3, T[mathjaxinline]_2[/mathjaxinline] = T[mathjaxinline]_{sat}[/mathjaxinline](0.3 MPa) = 133.55 [mathjaxinline]^\circ[/mathjaxinline]C</p>
+    </div>
+  </solution>
+</problem>

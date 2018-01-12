@@ -1,0 +1,14 @@
+<problem display_name="Problem 7" markdown="Refer A-03 from Exercises Set A. &#10;Compute the stirrer work done by the system, in MJ (megajoule). Enter your answer below with appropriate sign.&#10;&#10;&#10;= -26.6 +- 2&#10;&#10;[explanation]&#10;The absolute value of the stirrer work is calculated using Torque (τ)*Speed (Ω)*Time (t), when the torque and speed are constant.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Refer A-03 from Exercises Set A. </p>
+  <p>Compute the stirrer work done by the system, in MJ (megajoule). Enter your answer below with appropriate sign.</p>
+  <numericalresponse answer="-26.6">
+    <responseparam type="tolerance" default="2"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The absolute value of the stirrer work is calculated using Torque (τ)*Speed (Ω)*Time (t), when the torque and speed are constant.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Problem 6" markdown="Which of the following systems can be considered incompressible for many practical purposes?&#10;[x] A bottle completely filled with water, and sealed.&#10;[x] A piece of solid gold.&#10;[ ] A balloon containing nitrogen.&#10;[ ] A cylinder-piston arrangement containing carbon dioxide." max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following systems can be considered incompressible for many practical purposes?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">A bottle completely filled with water, and sealed.</choice>
+      <choice correct="true">A piece of solid gold.</choice>
+      <choice correct="false">A balloon containing nitrogen.</choice>
+      <choice correct="false">A cylinder-piston arrangement containing carbon dioxide.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

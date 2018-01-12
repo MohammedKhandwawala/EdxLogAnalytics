@@ -1,0 +1,11 @@
+<problem display_name="Problem 4" markdown="Accurate property data for water can be obtained from&#10;&#10;( ) Mollier Chart&#10;( ) 2-D Phase Diagram&#10;(x) Steam Tables&#10;( ) 3-D Phase Diagram&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Accurate property data for water can be obtained from</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Mollier Chart</choice>
+      <choice correct="false">2-D Phase Diagram</choice>
+      <choice correct="true">Steam Tables</choice>
+      <choice correct="false">3-D Phase Diagram</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

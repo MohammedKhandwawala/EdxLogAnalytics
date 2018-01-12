@@ -1,0 +1,12 @@
+<problem display_name="Problem 4" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Select which of the following conditions are true for a state of water lying in a subcooled
+  or compressed liquid zone </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">P &gt; P[mathjaxinline]_{sat}[/mathjaxinline] (T), T &lt; T[mathjaxinline]_{sat}[/mathjaxinline](P)</choice>
+      <choice correct="false">P &lt; P[mathjaxinline]_{sat}[/mathjaxinline] (T), T &gt; T[mathjaxinline]_{sat}[/mathjaxinline](P)</choice>
+      <choice correct="false">P &gt; P[mathjaxinline]_{sat}[/mathjaxinline] (T), T &gt; T[mathjaxinline]_{critical}[/mathjaxinline]</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+</problem>

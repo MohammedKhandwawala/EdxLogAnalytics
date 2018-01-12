@@ -1,0 +1,11 @@
+<video youtube="1.00:y-ynSv1W4sM" url_name="040155d96bac424aad33e3f0e3e5cefc" display_name="Simple and Complex Systems " download_track="true" download_video="true" edx_video_id="IITME2092014-V000500" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000500_100.mp4&quot;]" sub="IITME2092014-V000500_100" track="https://s3.amazonaws.com/ME209x/ME209x_S027_Simpl_and_Complex_System_IIT_Bombay.srt" youtube_id_0_75="" youtube_id_1_0="y-ynSv1W4sM" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000500_100.mp4"/>
+  <track src="https://s3.amazonaws.com/ME209x/ME209x_S027_Simpl_and_Complex_System_IIT_Bombay.srt"/>
+  <video_asset client_video_id="ME209x_S027_Simpl_and_Complex_System_IIT_Bombay" duration="353.54">
+    <encoded_video bitrate="444" file_size="19643551" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000500_MB1.mp4"/>
+    <encoded_video bitrate="316" file_size="13992576" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000500_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="26640694" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000500_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="40922886" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000500_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000500_100.mp3"/>
+  </video_asset>
+</video>

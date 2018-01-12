@@ -1,0 +1,17 @@
+<problem display_name="Problem 7" markdown="Predict the nature of change in entropy (positive or negative) with increase in enthalpy at constant pressure.&#10;&#10;(x) Positive&#10;( ) Negative&#10;( ) Zero&#10;( ) Insufficient data&#10;&#10;     &#10;[explanation]&#10;Slope is positive at constant pressure&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Predict the nature of change in entropy (positive or negative) with increase in enthalpy at constant pressure.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Positive</choice>
+      <choice correct="false">Negative</choice>
+      <choice correct="false">Zero</choice>
+      <choice correct="false">Insufficient data</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Slope is positive at constant pressure</p>
+    </div>
+  </solution>
+</problem>

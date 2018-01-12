@@ -1,0 +1,10 @@
+<video youtube="1.00:-rZe5y_G4-g" url_name="b2d93bbc01c84a1fba45dc34694b5664" display_name="Entropy Change of a Reservoir " download_track="true" download_video="true" edx_video_id="IITME2092014-V017800" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017800_DTH.mp4&quot;]" sub="IITME2092014-V017800_DTH" youtube_id_0_75="" youtube_id_1_0="-rZe5y_G4-g" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017800_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S148_Entropy_Change_of_a_Reservoir_IIT_Bombay" duration="301.44">
+    <encoded_video bitrate="318" file_size="11984138" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017800_MB1.mp4"/>
+    <encoded_video bitrate="175" file_size="6595958" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017800_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="32011824" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017800_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="26022739" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017800_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017800_AUD.mp3"/>
+  </video_asset>
+</video>

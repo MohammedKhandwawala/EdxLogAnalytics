@@ -1,0 +1,8 @@
+<problem display_name="Problem 7" markdown="Refer B-01 from Exercises Set B&#10;&#10;What is the work done by the system during the second process, in kJ? Enter the number with the proper sign:&#10;= -57.5 +- 3&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Refer B-01 from Exercises Set B</p>
+  <p>What is the work done by the system during the second process, in kJ? Enter the number with the proper sign:</p>
+  <numericalresponse answer="-57.5">
+    <responseparam type="tolerance" default="3"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

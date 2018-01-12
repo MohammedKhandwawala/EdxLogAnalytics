@@ -1,0 +1,15 @@
+<problem display_name="Problem 12" markdown="The efficiency of this process will be 1 (100%), hence this process violates the Kelvin-Planck Statement.&#10;&#10;     ( ) True&#10;     (x) False&#10;     &#10;[explanation]&#10;The Kelvin-Planck Statement is applicable only to cyclic processes.&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>The efficiency of this process will be 1 (100%), hence this process violates the Kelvin-Planck Statement.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The Kelvin-Planck Statement is applicable only to cyclic processes.</p>
+    </div>
+  </solution>
+</problem>

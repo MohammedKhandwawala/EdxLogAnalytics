@@ -1,0 +1,11 @@
+<problem display_name="Problem 4" markdown="For a turbine:&#10;[x] The magnitude of [mathjaxinline]\Delta h*[/mathjaxinline] is greater than that of [mathjaxinline]\Delta h[/mathjaxinline].&#10;[x] Entropy produced is greater than or equal to zero for the actual process.&#10;[ ] [mathjaxinline]\dot{W_s}[/mathjaxinline] is greater than [mathjaxinline]\dot{W_s*}[/mathjaxinline]&#10;[x] Power Output is greater than zero&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>For a turbine:</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">The magnitude of [mathjaxinline]\Delta h*[/mathjaxinline] is greater than that of [mathjaxinline]\Delta h[/mathjaxinline].</choice>
+      <choice correct="true">Entropy produced is greater than or equal to zero for the actual process.</choice>
+      <choice correct="false">[mathjaxinline]\dot{W_s}[/mathjaxinline] is greater than [mathjaxinline]\dot{W_s*}[/mathjaxinline]</choice>
+      <choice correct="true">Power Output is greater than zero</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

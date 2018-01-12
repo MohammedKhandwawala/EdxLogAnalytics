@@ -1,0 +1,17 @@
+<problem display_name="Problem 5" markdown="Which of the following is true for all gases? &#10;[x][mathjaxinline]H=U +  p V [/mathjaxinline]&#10;[ ][mathjaxinline]u[/mathjaxinline] is a function only of [mathjaxinline]T[/mathjaxinline] and hence [mathjaxinline]h[/mathjaxinline] is a function only of [mathjaxinline]T[/mathjaxinline].&#10;[ ][mathjaxinline]C_p – C_v = R [/mathjaxinline] &#10;[ ][mathjaxinline]C_p[/mathjaxinline]  is independent of temperature.&#10;&#10;[explanation]&#10;The others hold only for an ideal gas.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following is true for all gases? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">[mathjaxinline]H=U +  p V [/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]u[/mathjaxinline] is a function only of [mathjaxinline]T[/mathjaxinline] and hence [mathjaxinline]h[/mathjaxinline] is a function only of [mathjaxinline]T[/mathjaxinline].</choice>
+      <choice correct="false">[mathjaxinline]C_p – C_v = R [/mathjaxinline] </choice>
+      <choice correct="false">[mathjaxinline]C_p[/mathjaxinline]  is independent of temperature.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The others hold only for an ideal gas.</p>
+    </div>
+  </solution>
+</problem>

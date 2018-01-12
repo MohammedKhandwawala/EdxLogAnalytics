@@ -1,0 +1,12 @@
+<problem display_name="Problem 4" markdown="null" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>What will be the isentropic efficiency of a turbine and compressor for actual steady state operation in the figure below? (Figure out yourself which one is the turbine and which one is the compressor)</p>
+  <img src="/static/Prob4.bmp"/>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">For turbine 0.80 and for compressor 0.90</choice>
+      <choice correct="false">For turbine 0.90 and for compressor 0.80</choice>
+      <choice correct="false">For turbine 1.25 and for compressor 0.90</choice>
+      <choice correct="false">For turbine 0.80 and for compressor 1.22</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,15 @@
+<problem display_name="Problem 7" markdown="For an open system, the inlet mass flow rate and exit flow rate are always equal. &#10;( ) True&#10;(x) False &#10;&#10;[explanation]&#10;True only in case of steady state.&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>For an open system, the inlet mass flow rate and exit flow rate are always equal. </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>True only in case of steady state.</p>
+    </div>
+  </solution>
+</problem>

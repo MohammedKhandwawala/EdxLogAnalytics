@@ -1,0 +1,11 @@
+<problem display_name="Problem 9" markdown="A thermal energy reservoir&#10;[ ] is a system from which one may extract any amount of heat.&#10;[x] is a system, the temperature of which will not undergo a change when a finite amount of heat is exchanged with it.&#10;[ ] is a tank full of some hot fluid. &#10;[ ] is impossible to be set up&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A thermal energy reservoir</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">is a system from which one may extract any amount of heat.</choice>
+      <choice correct="true">is a system, the temperature of which will not undergo a change when a finite amount of heat is exchanged with it.</choice>
+      <choice correct="false">is a tank full of some hot fluid. </choice>
+      <choice correct="false">is impossible to be set up</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

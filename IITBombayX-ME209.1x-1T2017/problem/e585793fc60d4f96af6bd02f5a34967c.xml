@@ -1,0 +1,10 @@
+<problem display_name="Problem 2" markdown="A system contains an ideal gas, and is at rest. It expands isothermally. In the process, all heat absorbed is converted into work. Which of the following statements are true?&#10;[ ] The process violates the Kelvin-Planck statement of the Second Law.&#10;[x] This process will satisfy the First Law.&#10;[x] The Kelvin-Planck statement is not applicable in this case because the process is not a cyclic process.&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A system contains an ideal gas, and is at rest. It expands isothermally. In the process, all heat absorbed is converted into work. Which of the following statements are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">The process violates the Kelvin-Planck statement of the Second Law.</choice>
+      <choice correct="true">This process will satisfy the First Law.</choice>
+      <choice correct="true">The Kelvin-Planck statement is not applicable in this case because the process is not a cyclic process.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

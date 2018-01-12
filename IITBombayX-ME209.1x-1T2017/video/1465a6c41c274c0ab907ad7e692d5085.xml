@@ -1,0 +1,10 @@
+<video youtube="1.00:1cj5zetqszM" url_name="1465a6c41c274c0ab907ad7e692d5085" display_name="The Ideal Gas Scales of Temperature " download_track="true" download_video="true" edx_video_id="IITME2092014-V007300" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007300_100.mp4&quot;]" sub="1cj5zetqszM" youtube_id_0_75="" youtube_id_1_0="1cj5zetqszM" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007300_100.mp4"/>
+  <video_asset client_video_id="ME209x_S045_The_Ideal_Gas_Scale_IIT_Bombay" duration="443.35">
+    <encoded_video bitrate="529" file_size="29372516" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007300_MB2.mp4"/>
+    <encoded_video bitrate="729" file_size="40443984" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007300_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="62611471" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007300_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="59887660" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007300_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007300_100.mp3"/>
+  </video_asset>
+</video>

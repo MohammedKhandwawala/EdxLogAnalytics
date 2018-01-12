@@ -1,0 +1,18 @@
+<problem display_name="Problem 5" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Two interacting systems are shown below.  Mark all the correct options: </p>
+  <img src="/static/Quiz2a.png"/>
+  <choiceresponse>
+    <checkboxgroup label="Two interacting systems are shown below.Mark all the correct options:" direction="vertical">
+      <choice correct="false">A is the primary system and B is the surrounding system</choice>
+      <choice correct="true">B should have well defined boundaries</choice>
+      <choice correct="false">B is the primary system </choice>
+      <choice correct="true">Either of A and B can be the primary system</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>No sufficient information is provided to decide the primary system.</p>
+    </div>
+  </solution>
+</problem>

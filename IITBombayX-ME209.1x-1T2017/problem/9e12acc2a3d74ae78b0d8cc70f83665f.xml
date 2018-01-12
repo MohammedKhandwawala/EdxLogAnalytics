@@ -1,0 +1,9 @@
+<problem display_name="Problem 2" markdown="Isentropic efficiency of a turbine is given by (hi – he*)/(hi – he). &#10;( ) True&#10;(x) False&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Isentropic efficiency of a turbine is given by (hi – he*)/(hi – he). </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

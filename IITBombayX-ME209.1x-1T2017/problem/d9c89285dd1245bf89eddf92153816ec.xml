@@ -1,0 +1,11 @@
+<problem display_name="Problem 11" markdown="&gt;&gt;Select one or more&lt;&lt;&#10;&#10;[x] The Celsius scale needs two fixed points for its definition.&#10;[ ] The Celsius scale needs one fixed point for its definition.&#10;[ ] The Kelvin scale needs two fixed points for its definition.&#10;[x] The Kelvin scale needs one fixed point for its definition.&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Select one or more</p>
+  <choiceresponse>
+    <checkboxgroup label="Select one or more" direction="vertical">
+      <choice correct="true">The Celsius scale needs two fixed points for its definition.</choice>
+      <choice correct="false">The Celsius scale needs one fixed point for its definition.</choice>
+      <choice correct="false">The Kelvin scale needs two fixed points for its definition.</choice>
+      <choice correct="true">The Kelvin scale needs one fixed point for its definition.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

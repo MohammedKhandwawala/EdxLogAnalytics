@@ -1,0 +1,17 @@
+<problem display_name="Problem 1" markdown="For a subcooled or compressed liquid (for water), what does specific enthalpy ‘h’ depend upon other than temperature? &#10;[ ] Triple point pressure&#10;[x] Pressure&#10;[ ] Mass&#10;[ ] Conductivity&#10;[explanation]&#10;h = u + p * v&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>For a subcooled or compressed liquid (for water), what does specific enthalpy ‘h’ depend upon other than temperature? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">Triple point pressure</choice>
+      <choice correct="true">Pressure</choice>
+      <choice correct="false">Mass</choice>
+      <choice correct="false">Conductivity</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>h = u + p * v</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,6 @@
+<problem display_name="" markdown="List the topics, which, in your opinion, should be covered in more detail?&#10;=  answer&#10;" max_attempts="0" showanswer="never" weight="0.0">
+  <p>List the topics, which, in your opinion, should be covered in more detail?</p>
+  <stringresponse answer="answer" type="ci">
+    <textline size="20"/>
+  </stringresponse>
+</problem>

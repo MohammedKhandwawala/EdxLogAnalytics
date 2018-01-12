@@ -1,0 +1,11 @@
+<problem display_name="Problem 4" markdown="At a constant temperature, if pressure is increased for a subcooled liquid (water), which of the following quantities decreases? &#10;[x] Specific Volume&#10;[ ] Specific Enthalpy&#10;[x] Specific Entropy&#10;[ ] None of these&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>At a constant temperature, if pressure is increased for a subcooled liquid (water), which of the following quantities decreases? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Specific Volume</choice>
+      <choice correct="false">Specific Enthalpy</choice>
+      <choice correct="true">Specific Entropy</choice>
+      <choice correct="false">None of these</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

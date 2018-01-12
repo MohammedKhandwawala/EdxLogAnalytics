@@ -1,0 +1,17 @@
+<problem display_name="Problem 2" markdown="What is the final temperature of the steam in question C3-01?&#10;&#10;( ) 374 °C&#10;( ) 350 K&#10;(x) 350 °C&#10;( ) 374 K&#10;&#10;[explanation]&#10;It has a source of temperature 350 °C. Hence, its temperature will not change.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What is the final temperature of the steam in question C3-01?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">374 °C</choice>
+      <choice correct="false">350 K</choice>
+      <choice correct="true">350 °C</choice>
+      <choice correct="false">374 K</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>It has a source of temperature 350 °C. Hence, its temperature will not change.</p>
+    </div>
+  </solution>
+</problem>

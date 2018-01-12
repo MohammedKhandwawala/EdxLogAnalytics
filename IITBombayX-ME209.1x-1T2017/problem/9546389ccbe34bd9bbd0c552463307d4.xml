@@ -1,0 +1,11 @@
+<problem display_name="Problem 7" markdown="Which of the following statements are true about Work transfer devices?&#10;[x] In turbines, work is extracted from the system.&#10;[ ] In compressors, work is extracted from the system.&#10;[ ] In turbines, work is absorbed by the system.&#10;[x] In compressors, work is absorbed by the system.&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following statements are true about Work transfer devices?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">In turbines, work is extracted from the system.</choice>
+      <choice correct="false">In compressors, work is extracted from the system.</choice>
+      <choice correct="false">In turbines, work is absorbed by the system.</choice>
+      <choice correct="true">In compressors, work is absorbed by the system.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

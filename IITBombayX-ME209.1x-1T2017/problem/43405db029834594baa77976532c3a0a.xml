@@ -1,0 +1,43 @@
+<problem display_name="Problem 3" markdown="null" max_attempts="1" showanswer="past_due" weight="5.0">
+  <p align="justify">Consider 100 kg/s of steam expanding in a turbine. <br/>
+The inlet to the turbine is at 15 MPa, 500 degrees C. <br/>
+The steam expands to 0.01 MPa. <br/>
+The exit entropy is 6.200 kJ/(kg.K).<br/>
+Though the turbine is well insulated, at a place where the temperature is 127 degrees C, a loss of insulation leads to a heat loss of 8 MW.</p>
+  <p><b>Problem 3A.</b> Which figure best represents the process?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">
+        <img src="/static/p3a.bmp"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/p3b.bmp"/>
+      </choice>
+      <choice correct="true">
+        <img src="/static/p3c.bmp"/>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p><b>Problem 3B.</b> What is the entropy production rate (in kW/K)?</p>
+  <numericalresponse answer="5.2">
+    <responseparam type="tolerance" default="0.3"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 3C.</b> The process is not possible.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p><b>Problem 3D.</b> If the process is possible, what is the outlet dryness fraction?</p>
+  <numericalresponse answer="0.74015">
+    <responseparam type="tolerance" default="0.04"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 3E.</b> If the process is possible, what is the power output of the turbine, in MW?</p>
+  <numericalresponse answer="126.85">
+    <responseparam type="tolerance" default="6"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

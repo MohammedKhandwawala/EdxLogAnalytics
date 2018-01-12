@@ -1,0 +1,10 @@
+<problem display_name="Problem 1" markdown="Which of the following are true? &#10;&#10;&#10;[x] For a general system, the work done is not an exact differential.&#10;[x] We can determine the work done by integration of [mathjaxinline]dW[/mathjaxinline] only if the process is a quasi-static process.&#10;[x] The total work done by a system can be written as a sum of all the individual components of work (that is, the sum of electric work, expansion work, etc.) &#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following are true? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">For a general system, the work done is not an exact differential.</choice>
+      <choice correct="true">We can determine the work done by integration of [mathjaxinline]dW[/mathjaxinline] only if the process is a quasi-static process.</choice>
+      <choice correct="true">The total work done by a system can be written as a sum of all the individual components of work (that is, the sum of electric work, expansion work, etc.) </choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

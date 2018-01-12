@@ -1,0 +1,11 @@
+<problem display_name="Problem 12" markdown="&gt;&gt;Select one or more&lt;&lt;&#10;&#10;[ ]The thermal energy U of an ideal gas depends on its temperature and pressure.&#10;[x]The enthalpy of an ideal gas depends only on its temperature.&#10;[ ]For an ideal gas, c[mathjaxinline]_p[/mathjaxinline] [mathjaxinline]=[/mathjaxinline]c[mathjaxinline]_v[/mathjaxinline] [mathjaxinline]-[/mathjaxinline] R&#10;[x]Consider two isothermal states 1 and 2 of an ideal gas. We have: (p[mathjaxinline]_1[/mathjaxinline][mathjaxinline]/[/mathjaxinline]p[mathjaxinline]_2[/mathjaxinline]) [mathjaxinline]=[/mathjaxinline] (v[mathjaxinline]_2[/mathjaxinline][mathjaxinline]/[/mathjaxinline]v[mathjaxinline]_1[/mathjaxinline]).&#10;" max_attempts="3" showanswer="past_due" weight="1.0">
+  <p>Select one or more</p>
+  <choiceresponse>
+    <checkboxgroup label="Select one or more" direction="vertical">
+      <choice correct="false">The thermal energy U of an ideal gas depends on its temperature and pressure.</choice>
+      <choice correct="true">The enthalpy of an ideal gas depends only on its temperature.</choice>
+      <choice correct="false">For an ideal gas, c[mathjaxinline]_p[/mathjaxinline] [mathjaxinline]=[/mathjaxinline]c[mathjaxinline]_v[/mathjaxinline] [mathjaxinline]-[/mathjaxinline] R</choice>
+      <choice correct="true">Consider two isothermal states 1 and 2 of an ideal gas. We have: (p[mathjaxinline]_1[/mathjaxinline][mathjaxinline]/[/mathjaxinline]p[mathjaxinline]_2[/mathjaxinline]) [mathjaxinline]=[/mathjaxinline] (v[mathjaxinline]_2[/mathjaxinline][mathjaxinline]/[/mathjaxinline]v[mathjaxinline]_1[/mathjaxinline]).</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

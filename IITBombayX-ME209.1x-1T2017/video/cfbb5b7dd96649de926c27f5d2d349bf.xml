@@ -1,0 +1,10 @@
+<video youtube="1.00:oEMeXSZnHdA" url_name="cfbb5b7dd96649de926c27f5d2d349bf" display_name="Entropy Change of an Ideal Gas " download_track="true" download_video="true" edx_video_id="IITME2092014-V017300" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017300_DTH.mp4&quot;]" sub="IITME2092014-V017300_DTH" youtube_id_0_75="" youtube_id_1_0="oEMeXSZnHdA" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017300_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S143_Entropy_Change_of_an_Ideal_Gas_IIT_Bombay" duration="727.27">
+    <encoded_video bitrate="126" file_size="11497096" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017300_MB2.mp4"/>
+    <encoded_video bitrate="172" file_size="15710383" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017300_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="28900384" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017300_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="97668436" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017300_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017300_AUD.mp3"/>
+  </video_asset>
+</video>

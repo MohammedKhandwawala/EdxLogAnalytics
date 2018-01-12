@@ -1,0 +1,10 @@
+<problem display_name="Problem 4" markdown="During isothermal compression from 2 bar to 5 bar, which of the following has steepest P-V curve out of the following?&#10;     (x) Solid&#10;     ( ) Liquid&#10;     ( ) Gases&#10;&#10;" max_attempts="2" weight="1.0">
+  <p>During isothermal compression from 2 bar to 5 bar, which of the following has steepest P-V curve out of the following?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Solid</choice>
+      <choice correct="false">Liquid</choice>
+      <choice correct="false">Gases</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

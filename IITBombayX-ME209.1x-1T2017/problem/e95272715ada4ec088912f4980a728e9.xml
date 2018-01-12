@@ -1,0 +1,10 @@
+<problem display_name="Problem 7" markdown="Which of the following assumptions can be made while analyzing problems? &#10;&#10;[x] Air is a homogeneous fluid.&#10;[x] The air remains gaseous in near ambient temperatures.&#10;[x] It can be assumed to be an ideal gas because it does not seem to interact chemically with other gases.&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following assumptions can be made while analyzing problems? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Air is a homogeneous fluid.</choice>
+      <choice correct="true">The air remains gaseous in near ambient temperatures.</choice>
+      <choice correct="true">It can be assumed to be an ideal gas because it does not seem to interact chemically with other gases.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

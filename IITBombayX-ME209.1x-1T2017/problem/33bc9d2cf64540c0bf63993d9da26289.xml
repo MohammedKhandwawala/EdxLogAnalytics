@@ -1,0 +1,6 @@
+<problem display_name="" markdown="null" max_attempts="0" showanswer="never" weight="0.0">
+  <p>In your opinion, which are the topics which should be removed or significantly reduced from this content?</p>
+  <stringresponse answer="answer" type="ci">
+    <textline size="maximum"/>
+  </stringresponse>
+</problem>

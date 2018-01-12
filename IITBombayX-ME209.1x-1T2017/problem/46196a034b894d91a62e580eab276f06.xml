@@ -1,0 +1,10 @@
+<problem display_name="Problem 10" markdown="Point of intersection of all constant dryness fraction lines on Mollier Diagram is&#10;&#10; ( ) Triple point&#10; (x) Critical point&#10;     " max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Point of intersection of all constant dryness fraction lines on Mollier Diagram is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Triple point</choice>
+      <choice correct="true">Critical point</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

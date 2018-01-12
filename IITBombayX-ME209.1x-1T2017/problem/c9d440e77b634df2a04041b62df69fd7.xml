@@ -1,0 +1,15 @@
+<problem display_name="Problem 4" markdown="An open system allows only mass transfer across its boundaries, and not energy transfer. &#10;( ) True&#10;(x) False. &#10;[explanation]&#10;Both mass and energy transfers are allowed.&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>An open system allows only mass transfer across its boundaries, and not energy transfer. </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Both mass and energy transfers are allowed.</p>
+    </div>
+  </solution>
+</problem>

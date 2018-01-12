@@ -1,0 +1,11 @@
+<problem display_name="Problem 1" markdown="Liquid + vapour mixture of water is in equilibrium. If the mixture is cooled, its dryness fraction______&#10;&#10; ( ) Increases&#10; (x) Decreases&#10; ( ) Remains the same &#10;&#10;&#10; &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Liquid + vapour mixture of water is in equilibrium. If the mixture is cooled, its dryness fraction______</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Increases</choice>
+      <choice correct="true">Decreases</choice>
+      <choice correct="false">Remains the same</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+</problem>

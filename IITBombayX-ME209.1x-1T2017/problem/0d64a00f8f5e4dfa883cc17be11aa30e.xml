@@ -1,0 +1,14 @@
+<problem display_name="Problem 1" markdown="A reversible 2T heat engine works between 1200 K and 600 K. Its work output per cycle is 100 J. What is amount of heat rejected (in joule per cycle), to the revervoir at 600 K? &#10;= 100 +- 1&#10;[explanation]&#10;The efficiency is (1200-600)/1200 = 0.5. &#10;Hence, heat absorbed is 100 J/0.5 = 200 J, and heat rejected is 200 J – 100 J = 100 J.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A reversible 2T heat engine works between 1200 K and 600 K. Its work output per cycle is 100 J. What is amount of heat rejected (in joule per cycle), to the revervoir at 600 K? </p>
+  <numericalresponse answer="100">
+    <responseparam type="tolerance" default="1"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The efficiency is (1200-600)/1200 = 0.5. </p>
+      <p>Hence, heat absorbed is 100 J/0.5 = 200 J, and heat rejected is 200 J – 100 J = 100 J.</p>
+    </div>
+  </solution>
+</problem>

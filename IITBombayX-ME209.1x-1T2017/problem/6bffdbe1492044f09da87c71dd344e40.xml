@@ -1,0 +1,10 @@
+<problem display_name="Problem 6" markdown="For steady state operation of heat transfer devices such as boilers, heat exchangers etc., where work done by the system is negligible compared to the amount of heat transferred to it, the rate of total heat transferred to the system is equal to (assuming negligible change in kinetic and potential energy)&#10;( ) difference in entropy flow rates between outlet and inlet&#10;(x) difference in enthalpy flow rates between outlet and inlet&#10;( ) difference in thermal energy flow rates between outlet and inlet &#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>For steady state operation of heat transfer devices such as boilers, heat exchangers etc., where work done by the system is negligible compared to the amount of heat transferred to it, the rate of total heat transferred to the system is equal to (assuming negligible change in kinetic and potential energy)</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">difference in entropy flow rates between outlet and inlet</choice>
+      <choice correct="true">difference in enthalpy flow rates between outlet and inlet</choice>
+      <choice correct="false">difference in thermal energy flow rates between outlet and inlet</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

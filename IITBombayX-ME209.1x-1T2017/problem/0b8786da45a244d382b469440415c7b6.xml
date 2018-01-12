@@ -1,0 +1,12 @@
+<problem display_name="Problem 3" markdown="&gt;&gt;The approach by which we define a system using only a few macroscopic parameters is known as:  &lt;&lt;&#10;     (x) The classical (or phenomenological) approach&#10;     ( ) The microscopic approach&#10;     ( ) The pedagogic approach&#10;     &#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>The approach by which we define a system using only a few macroscopic parameters is known as:  </p>
+  <multiplechoiceresponse>
+    <choicegroup label="The approach by which we define a system using only a few macroscopic parameters is known as:  " type="MultipleChoice">
+      <choice correct="true">The classical (or phenomenological) approach</choice>
+      <choice correct="false">The microscopic approach</choice>
+      <choice correct="false">The pedagogic approach</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+  <p>     </p>
+</problem>

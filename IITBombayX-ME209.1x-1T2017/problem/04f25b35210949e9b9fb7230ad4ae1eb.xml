@@ -1,0 +1,11 @@
+<problem display_name="Problem 2" markdown="In C2-05 (a), the  initial state of the water substance is:&#10;&#10;(x) Superheated steam &#10;( ) Sub-cooled steam&#10;( ) Superheated liquid&#10;( ) Compressed liquid&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In C2-05 (a), the  initial state of the water substance is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Superheated steam</choice>
+      <choice correct="false">Sub-cooled steam</choice>
+      <choice correct="false">Superheated liquid</choice>
+      <choice correct="false">Compressed liquid</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:Oyl3xthjS44" url_name="025275c4686a43e3a299e87a2a2aa2f1" display_name="The Zeroth Law 4 : Temperature" download_track="true" download_video="true" edx_video_id="IITME2092014-V006900" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006900_100.mp4&quot;]" sub="IITME2092014-V006900_100" youtube_id_0_75="" youtube_id_1_0="Oyl3xthjS44" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006900_100.mp4"/>
+  <video_asset client_video_id="ME209x_S041_The_Zeroth_Law_4_Temperature_IIT_Bombay" duration="897.64">
+    <encoded_video bitrate="529" file_size="59421552" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006900_MB2.mp4"/>
+    <encoded_video bitrate="730" file_size="81913393" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006900_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="125206808" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006900_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="121179845" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006900_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006900_100.mp3"/>
+  </video_asset>
+</video>

@@ -1,0 +1,10 @@
+<video youtube="1.00:IqFhHby-FA8" url_name="25848b85d6e445a3a2fe8471f388f338" display_name="Caratheodory, Again!" download_track="true" download_video="true" edx_video_id="IITME2092014-V016600" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016600_DTH.mp4&quot;]" sub="IITME2092014-V016600_DTH" youtube_id_0_75="" youtube_id_1_0="IqFhHby-FA8" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016600_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S136_Caratheodory_Again_IIT_Bombay" duration="326.63">
+    <encoded_video bitrate="140" file_size="5732705" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016600_MB2.mp4"/>
+    <encoded_video bitrate="226" file_size="9228090" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016600_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="24124376" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016600_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="43667011" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016600_AUD.mp3"/>
+  </video_asset>
+</video>

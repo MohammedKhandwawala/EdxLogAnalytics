@@ -1,0 +1,7 @@
+<problem display_name="Problem 1" markdown="A 2T heat engine works between 200 deg C and 100 deg C. The maximum efficiency for such an engine will be (in percent):_______&#10;= 21 +- 2&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A 2T heat engine works between 200 deg C and 100 deg C. The maximum efficiency for such an engine will be (in percent):_______</p>
+  <numericalresponse answer="21">
+    <responseparam type="tolerance" default="2"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

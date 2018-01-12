@@ -1,0 +1,15 @@
+<problem display_name="Problem 5" markdown="In case of a compressor, the isentropic efficiency is defined by (work done in actual process)/( work done in a reversible isentropic process). &#10;( ) True&#10;(x) False. &#10;[explanation]&#10;It is the reciprocal&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>In case of a compressor, the isentropic efficiency is defined by (work done in actual process)/( work done in a reversible isentropic process). </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>It is the reciprocal</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Problem 13" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Points representing states A and B lie on a horizontal line on Mollier diagram. Which relation holds good between their specific enthalpies?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">h[mathjaxinline]_A[/mathjaxinline] &lt; h[mathjaxinline]_B[/mathjaxinline]</choice>
+      <choice correct="true">h[mathjaxinline]_A[/mathjaxinline] = h[mathjaxinline]_B[/mathjaxinline]</choice>
+      <choice correct="false">h[mathjaxinline]_A[/mathjaxinline] &gt; h[mathjaxinline]_B[/mathjaxinline]</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>   </p>
+</problem>

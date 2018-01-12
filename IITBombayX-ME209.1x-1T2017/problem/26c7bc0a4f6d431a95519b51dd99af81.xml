@@ -1,0 +1,17 @@
+<problem display_name="Problem 1" markdown="What is true for a control volume system? &#10;[ ] The volume remains unchanged&#10;[ ] The density remains unchanged&#10;[ ] The temperature remains unchanged&#10;[x] It must have at least one inlet or one exit across which mass is transferred.&#10;[explanation]&#10;If no mass can cross the boundaries of the system, it becomes a closed system or a control mass system&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>What is true for a control volume system? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">The volume remains unchanged</choice>
+      <choice correct="false">The density remains unchanged</choice>
+      <choice correct="false">The temperature remains unchanged</choice>
+      <choice correct="true">It must have at least one inlet or one exit across which mass is transferred.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>If no mass can cross the boundaries of the system, it becomes a closed system or a control mass system</p>
+    </div>
+  </solution>
+</problem>

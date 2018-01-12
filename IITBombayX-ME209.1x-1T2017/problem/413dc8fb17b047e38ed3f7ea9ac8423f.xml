@@ -1,0 +1,10 @@
+<problem display_name="" markdown="What is your postal code?&#10;&#10;= answer&#10;&#10;&#10;&gt;&gt;If you are in India, what is your postal PIN code?&lt;&lt;&#10;= answer&#10;" max_attempts="0" showanswer="never" weight="0.0">
+  <p>What is your postal code?</p>
+  <stringresponse answer="answer" type="ci">
+    <textline size="20"/>
+  </stringresponse>
+  <p>If you are in India, what is your postal PIN code?</p>
+  <stringresponse answer="answer" type="ci">
+    <textline label="If you are in India, what is your postal PIN code?" size="20"/>
+  </stringresponse>
+</problem>

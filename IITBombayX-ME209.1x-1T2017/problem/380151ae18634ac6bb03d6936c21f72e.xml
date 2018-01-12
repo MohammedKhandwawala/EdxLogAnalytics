@@ -1,0 +1,7 @@
+<problem display_name="Problem 5" markdown="In the saturation table of a fluid, at some temperature, we have [mathjaxinline]h_{fg}=938.9[/mathjaxinline] kJ/kg and [mathjaxinline]s_{fg}=2.736[/mathjaxinline] kJ/kgK. What is the saturation temperature at that state is deg C?&#10;= 70 +- 3&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In the saturation table of a fluid, at some temperature, we have [mathjaxinline]h_{fg}=938.9[/mathjaxinline] kJ/kg and [mathjaxinline]s_{fg}=2.736[/mathjaxinline] kJ/kgK. What is the saturation temperature at that state is deg C?</p>
+  <numericalresponse answer="70">
+    <responseparam type="tolerance" default="3"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

@@ -1,0 +1,15 @@
+<problem display_name="Problem 4" markdown="null" max_attempts="1" weight="1.0">
+  <p>It is impossible to execute an adiabatic process in which the entropy of the system decreases</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>[mathjaxinline]\Delta S \ge 0[/mathjaxinline] for any adiabatic process.</p>
+    </div>
+  </solution>
+</problem>

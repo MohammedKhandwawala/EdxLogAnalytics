@@ -1,0 +1,14 @@
+<problem display_name="Problem 6" markdown="Refer A-03 from Exercises Set A. &#10;Based on the details given, and assuming the process to be quasi-static, calculate the expansion work done by the system in kJ. If the expansion work is done on the system, be sure to use the negative sign.&#10;&#10;&#10;= 392 +- 20&#10;&#10;&#10;&#10;[explanation]&#10;The value of the expansion work is calculated as p*(V2 -V1) since the process is quasi- static.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Refer A-03 from Exercises Set A. </p>
+  <p>Based on the details given, and assuming the process to be quasi-static, calculate the expansion work done by the system in kJ. If the expansion work is done on the system, be sure to use the negative sign.</p>
+  <numericalresponse answer="392">
+    <responseparam type="tolerance" default="20"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The value of the expansion work is calculated as p*(V2 -V1) since the process is quasi- static.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Problem 1" markdown="Which of the following relations are true?&#10;[x] thermal energy, [mathjaxinline]U = H – pV[/mathjaxinline]&#10;[ ] thermal energy, [mathjaxinline]U = A – TS[/mathjaxinline]&#10;[x] Gibbs function, [mathjaxinline]G = A + pV[/mathjaxinline]&#10;[ ] Helmholtz function [mathjaxinline]A = G + TS[/mathjaxinline]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following relations are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">thermal energy, [mathjaxinline]U = H – pV[/mathjaxinline]</choice>
+      <choice correct="false">thermal energy, [mathjaxinline]U = A – TS[/mathjaxinline]</choice>
+      <choice correct="true">Gibbs function, [mathjaxinline]G = A + pV[/mathjaxinline]</choice>
+      <choice correct="false">Helmholtz function [mathjaxinline]A = G + TS[/mathjaxinline]</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Problem 1" markdown="Consider an ideal gas. Which of the following statements are true?&#10;[x] Its molecules occupy no volume.&#10;[ ] Its molecules do not collide with each other.&#10;[x] Its molecules do not have a force of attraction or repulsion between them.&#10;[ ] Its molecules are hard spheres which occupy a finite volume&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Consider an ideal gas. Which of the following statements are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Its molecules occupy no volume.</choice>
+      <choice correct="false">Its molecules do not collide with each other.</choice>
+      <choice correct="true">Its molecules do not have a force of attraction or repulsion between them.</choice>
+      <choice correct="false">Its molecules are hard spheres which occupy a finite volume</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

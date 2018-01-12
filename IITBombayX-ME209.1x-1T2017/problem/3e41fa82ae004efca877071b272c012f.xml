@@ -1,0 +1,7 @@
+<problem display_name="Problem 2" markdown="At 40[mathjaxinline]^\circ[/mathjaxinline]C, P[mathjaxinline]_{sat}[/mathjaxinline](T) = ______ bar&#10;= 0.073849 +- 0.01&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>At 40[mathjaxinline]^\circ[/mathjaxinline]C, P[mathjaxinline]_{sat}[/mathjaxinline](T) = ______ bar</p>
+  <numericalresponse answer="0.073849">
+    <responseparam type="tolerance" default="0.01"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Problem 2" markdown="When considered as function of [mathjaxinline]T[/mathjaxinline] and [mathjaxinline]p[/mathjaxinline], which of the following are true?&#10;&#10;[x] For an ideal gas, [mathjaxinline]u[/mathjaxinline] is a function of [mathjaxinline]T[/mathjaxinline] alone.&#10;[ ] For an Van der Waals gas, [mathjaxinline]u[/mathjaxinline] is a function of [mathjaxinline]T[/mathjaxinline] alone.&#10;[x] For an Van der Waals gas, [mathjaxinline]c_v[/mathjaxinline] is a function of [mathjaxinline]T[/mathjaxinline] alone.&#10;[ ] For an Van der Waals gas, [mathjaxinline]c_p[/mathjaxinline] is a function of [mathjaxinline]T[/mathjaxinline] alone.&#10;&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>When considered as function of [mathjaxinline]T[/mathjaxinline] and [mathjaxinline]p[/mathjaxinline], which of the following are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">For an ideal gas, [mathjaxinline]u[/mathjaxinline] is a function of [mathjaxinline]T[/mathjaxinline] alone.</choice>
+      <choice correct="false">For an Van der Waals gas, [mathjaxinline]u[/mathjaxinline] is a function of [mathjaxinline]T[/mathjaxinline] alone.</choice>
+      <choice correct="true">For an Van der Waals gas, [mathjaxinline]c_v[/mathjaxinline] is a function of [mathjaxinline]T[/mathjaxinline] alone.</choice>
+      <choice correct="false">For an Van der Waals gas, [mathjaxinline]c_p[/mathjaxinline] is a function of [mathjaxinline]T[/mathjaxinline] alone.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

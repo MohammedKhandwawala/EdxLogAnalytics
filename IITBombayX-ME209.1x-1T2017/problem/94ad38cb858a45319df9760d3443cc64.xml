@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown="Which of the following are not true during steady state condition for an open system?&#10;[ ] Rate of mass coming in = Rate of mass exiting&#10;[ ] Rate of change of energy of control volume is zero&#10;[ ] Rate of change of entropy of control volume is zero&#10;[x] Rate of heat transfer is zero" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following are not true during steady state condition for an open system?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">Rate of mass coming in = Rate of mass exiting</choice>
+      <choice correct="false">Rate of change of energy of control volume is zero</choice>
+      <choice correct="false">Rate of change of entropy of control volume is zero</choice>
+      <choice correct="true">Rate of heat transfer is zero</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

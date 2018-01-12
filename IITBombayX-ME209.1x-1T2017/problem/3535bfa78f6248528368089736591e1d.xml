@@ -1,0 +1,18 @@
+<problem display_name="Problem 8" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Determine the total enthalpy change</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">2300 kJ</choice>
+      <choice correct="false">2725.36 kJ</choice>
+      <choice correct="true">130.6 MJ</choice>
+      <choice correct="false">150.6 MJ</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>From steam tables – Table 3, h[mathjaxinline]_2[/mathjaxinline] = 2724.9 kJ/kg</p>
+      <p>Total enthalpy change = m* (h[mathjaxinline]_2[/mathjaxinline] – h[mathjaxinline]_1[/mathjaxinline]) = 49.856 * (2724.9 – 105.10) = 130615.13 kJ</p>
+    </div>
+  </solution>
+</problem>

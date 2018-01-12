@@ -1,0 +1,12 @@
+<problem display_name="Problem 2" markdown="Water, initially at triple point, is pressurized at isothermal conditions upto 40 MPa. It is then heated at constant pressure as a result of which its temperature increases by 400[mathjaxinline]^\circ[/mathjaxinline]C. The intermediate and final phase of the system&#10;&#10;( ) Liquid and superheated vapour&#10;(x) Liquid and supercritical fluid&#10;( ) Solid and Solid [mathjaxinline]+[/mathjaxinline] vapour &#10;( ) Liquid and Liquid [mathjaxinline] +[/mathjaxinline] vapour&#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Water, initially at triple point, is pressurized at isothermal conditions upto 40 MPa. It is then heated at constant pressure as a result of which its temperature increases by 400[mathjaxinline]^\circ[/mathjaxinline]C. The intermediate and final phase of the system</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Liquid and superheated vapour</choice>
+      <choice correct="true">Liquid and supercritical fluid</choice>
+      <choice correct="false">Solid and Solid [mathjaxinline]+[/mathjaxinline] vapour</choice>
+      <choice correct="false">Liquid and Liquid [mathjaxinline] +[/mathjaxinline] vapour</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Problem 1" markdown="Which of the following are true for the Celsius scale? &#10;[x] It defines temperature as a linear function of the length of the liquid in the glass tube.&#10;[x] Its fixed points are chosen with respect to water or steam.&#10;[ ] It does not matter what fixed points are chosen, the scale remains unchanged.&#10;[ ] The scale is a thermodynamic scale – it does not depend on the liquid used." max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following are true for the Celsius scale? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">It defines temperature as a linear function of the length of the liquid in the glass tube.</choice>
+      <choice correct="true">Its fixed points are chosen with respect to water or steam.</choice>
+      <choice correct="false">It does not matter what fixed points are chosen, the scale remains unchanged.</choice>
+      <choice correct="false">The scale is a thermodynamic scale – it does not depend on the liquid used.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,17 @@
+<problem display_name="Problem 5" markdown="A closed system exectutes two different processes between states 1 and 2. The first process, 1-A-2, is a quasi-static adiabatic process,and the work done during this process is 20 kJ. The second process,1-B-2 is a non-quasi-static adiabatic process. The work done in the second process&#10;(x)will equal 20 kJ.&#10;( )will be greater than 20 kJ.&#10;( )will be less than 20 kJ.&#10;( )cannot be determined.&#10;[explanation]&#10;Since both 1-A-2 and 1-B-2 are adiabatic processes from the same initial state to the same final state, the work done will not depend on the path (First Law).&#10;[explanation]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A closed system exectutes two different processes between states 1 and 2. The first process, 1-A-2, is a quasi-static adiabatic process,and the work done during this process is 20 kJ. The second process,1-B-2 is a non-quasi-static adiabatic process. The work done in the second process</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">will equal 20 kJ.</choice>
+      <choice correct="false">will be greater than 20 kJ.</choice>
+      <choice correct="false">will be less than 20 kJ.</choice>
+      <choice correct="false">cannot be determined.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Since both 1-A-2 and 1-B-2 are adiabatic processes from the same initial state to the same final state, the work done will not depend on the path (First Law).</p>
+    </div>
+  </solution>
+</problem>

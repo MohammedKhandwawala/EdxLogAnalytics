@@ -1,0 +1,10 @@
+<video youtube="1.00:ZNrd-vcIIJE" url_name="92b2a85f30544f56a7910ea36d43c51c" display_name="First Law for Open Systems" download_track="true" download_video="true" edx_video_id="IITME2092014-V020500" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020500_DTH.mp4&quot;]" sub="IITME2092014-V020500_DTH" youtube_id_0_75="" youtube_id_1_0="ZNrd-vcIIJE" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020500_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S307_First_Law_for_Open_Systems_IIT_Bombay" duration="891.01">
+    <encoded_video bitrate="197" file_size="21959007" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020500_MB1.mp4"/>
+    <encoded_video bitrate="130" file_size="14511324" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020500_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="57356559" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020500_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="117030624" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020500_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020500_AUD.mp3"/>
+  </video_asset>
+</video>

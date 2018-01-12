@@ -13,16 +13,15 @@ from matplotlib import pyplot
 log_file_path = '/home/mohammed/log/files/'
 
 file_path_list = []
-for i in range(1,32):
-	if i != 11 :
-		file_path_list.append(log_file_path + str(i) +"-1-2017.log")
+for i in range(1,15):
+	#if i != 11 :
+		#file_path_list.append(log_file_path + str(i) +"-1-2017.log")
+	file_path_list.append(log_file_path + str(i) +"-2-2017.log")
 
-
-print file_path_list
 
 base_df = sqlContext.read.json(file_path_list)
 '''
-[log_file_path+'1-1-2017.log',log_file_path+'2-1-2017.log',log_file_path+'3-1-2017.log',log_file_path+'4-1-2017.log',log_file_path+'5-1-2017.log',log_file_path+'6-1-2017.log',log_file_path+'7-1-2017.log']
+[log_file_path+'1-1-2017.log',log_file_path+'2-1-2017.log',log_file_path+'3-1-2017.log',log_file_path+'4-1-2017.log',log_file_path+'5-1-2017.log',log_file_path+'6-1-2017.log',log_file_path+'7-1-2017.log' .....]	
 '''
 null_column = {}
 for column in base_df:
@@ -97,7 +96,7 @@ for user in users:
 			start = row["event"].find("currentTime")
 			stop = row["event"][start:].find("}")
 			try:
-				time = float(row["event"][start+14:start+stop])
+				time = float(row["event"][start+13:-1])
 			except ValueError:
 				print row["event"]
 		if time<TIME and row["name"] != "seek_video" :
@@ -133,6 +132,7 @@ pyplot.scatter(test_views ,test_score ,marker='o')
 pyplot.scatter(test_views_deroll, test_score_deroll, c='g', marker='o')
 
 pyplot.show()
+
 
 '''
         name      page session  user_id

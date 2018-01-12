@@ -1,0 +1,11 @@
+<problem display_name="" markdown="What do you propose to do, in this course?&#10;( ) I propose to browse the content – watch the videos, read the text, and answer the questions, but I do not plan to complete the course.&#10;( ) I plan to complete some course activities, but I do not plan to earn a certificate.&#10;( ) I am planning to complete enough course activities to earn a certificate.&#10;( ) I have not decided whether I will complete any course activities.&#10;" max_attempts="0" showanswer="never" weight="0.0">
+  <p>What do you propose to do, in this course?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">I propose to browse the content – watch the videos, read the text, and answer the questions, but I do not plan to complete the course.</choice>
+      <choice correct="false">I plan to complete some course activities, but I do not plan to earn a certificate.</choice>
+      <choice correct="false">I am planning to complete enough course activities to earn a certificate.</choice>
+      <choice correct="false">I have not decided whether I will complete any course activities.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

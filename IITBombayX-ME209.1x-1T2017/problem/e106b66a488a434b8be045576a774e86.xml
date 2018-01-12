@@ -1,0 +1,12 @@
+<problem display_name="Problem 5" markdown="Which of the following statements is considered by us as the primary statement of the Second Law?&#10;     ( )  Clausius Statement&#10;     ( )  Caratheodory Statement&#10;     ( ) Carnot Statement&#10;     (x) Kelvin-Planck Statement&#10;&#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following statements is considered by us as the primary statement of the Second Law?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Clausius Statement</choice>
+      <choice correct="false">Caratheodory Statement</choice>
+      <choice correct="false">Carnot Statement</choice>
+      <choice correct="true">Kelvin-Planck Statement</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

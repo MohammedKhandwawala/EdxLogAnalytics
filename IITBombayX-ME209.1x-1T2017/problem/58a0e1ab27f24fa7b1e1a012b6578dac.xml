@@ -1,0 +1,15 @@
+<problem display_name="Problem 6" markdown="Since open systems are called control volume systems, the volume of an open system is fixed.&#10;( ) True&#10;(x) False &#10;[explanation]&#10;The nomenclature is misleading, the volume of open systems can vary&#10;[explanation]&#10;&#10;&#10;" max_attempts="1" weight="1.0">
+  <p>Since open systems are called control volume systems, the volume of an open system is fixed.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The nomenclature is misleading, the volume of open systems can vary</p>
+    </div>
+  </solution>
+</problem>

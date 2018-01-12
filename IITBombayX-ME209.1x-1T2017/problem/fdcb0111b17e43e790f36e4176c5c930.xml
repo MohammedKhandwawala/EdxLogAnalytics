@@ -1,0 +1,15 @@
+<problem display_name="Problem 1" markdown="The efficiency of any 2T heat engine operating between two reservoirs at distinct temperatures is the same.&#10;() True&#10;(x) False&#10;[explanation]&#10; The maximum possible efficiencies will be equal, but not the actual ones. The statement will be true only if both the engines are reversible engines.&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>The efficiency of any 2T heat engine operating between two reservoirs at distinct temperatures is the same.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p> The maximum possible efficiencies will be equal, but not the actual ones. The statement will be true only if both the engines are reversible engines.</p>
+    </div>
+  </solution>
+</problem>

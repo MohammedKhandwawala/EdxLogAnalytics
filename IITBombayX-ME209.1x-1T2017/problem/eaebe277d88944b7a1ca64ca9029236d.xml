@@ -1,0 +1,12 @@
+<problem display_name="Problem 1" markdown="Which ONE of the following statements of the Second Law mentions adiabatic processes explicitly?&#10;     ( ) Kelvin-Planck Statement&#10;     ( ) Carnot Theorem&#10;     (x) Caratheodory Statement&#10;     ( ) Clausius Statement&#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which ONE of the following statements of the Second Law mentions adiabatic processes explicitly?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Kelvin-Planck Statement</choice>
+      <choice correct="false">Carnot Theorem</choice>
+      <choice correct="true">Caratheodory Statement</choice>
+      <choice correct="false">Clausius Statement</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

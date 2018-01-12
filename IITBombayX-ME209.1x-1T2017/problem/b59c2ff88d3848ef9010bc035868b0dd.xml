@@ -1,0 +1,16 @@
+<problem display_name="Problem 1" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>An inventor claims to have built a 2T heat engine that works between 1200 K and 300 K, and has an efficiency of 0.79. Which of the following statements is true?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">His claim is valid.</choice>
+      <choice correct="true">His claim is not valid.</choice>
+      <choice correct="false">Details of the working of the engine and the materials used is needed to decide the claim.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The maximum efficiency will be [mathjaxinline]1-\frac{T_2}{T_1}=(1-300/1200)=0.75[/mathjaxinline]</p>
+    </div>
+  </solution>
+</problem>

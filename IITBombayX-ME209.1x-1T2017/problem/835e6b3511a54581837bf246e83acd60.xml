@@ -1,0 +1,20 @@
+<problem display_name="Problem 10" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following correctly represents the T-V graph of the process?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">
+        <img src="/static/Quiz_17A_Option_a.png" height="175" width="175"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/Quiz_17A_Option_b.png" height="175" width="175"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/Quiz_17A_Option_c.png" height="175" width="175"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/Quiz_17A_Option_d.png" height="175" width="175"/>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

@@ -1,0 +1,10 @@
+<problem display_name="Problem 5" markdown="The efficiency of a reversible engine depends on the materials and fluids used for its construction and operation.&#10;&#10;     ( ) True&#10;     (x) False&#10;     " max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>The efficiency of a reversible engine depends on the materials and fluids used for its construction and operation.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

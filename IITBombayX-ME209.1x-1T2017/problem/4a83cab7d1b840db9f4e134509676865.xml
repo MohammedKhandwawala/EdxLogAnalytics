@@ -1,0 +1,11 @@
+<problem display_name="Problem 2" markdown="For a subcooled or compressed liquid (for water), properties like specific volume, specific thermal energy and specific entropy are strong functions of ___________&#10; (x) Temperature only&#10; ( ) Pressure only&#10; ( ) Both Temperature and Pressure&#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>For a subcooled or compressed liquid (for water), properties like specific volume, specific thermal energy and specific entropy are strong functions of ___________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Temperature only</choice>
+      <choice correct="false">Pressure only</choice>
+      <choice correct="false">Both Temperature and Pressure</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

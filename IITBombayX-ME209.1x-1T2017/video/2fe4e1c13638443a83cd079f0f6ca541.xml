@@ -1,0 +1,11 @@
+<video youtube="1.00:KwP2MxslDBs" url_name="2fe4e1c13638443a83cd079f0f6ca541" display_name="State-Space Projections " download_track="true" download_video="true" edx_video_id="IITME2092014-V001900" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001900_100.mp4&quot;]" sub="IITME2092014-V001900_100" track="https://s3.amazonaws.com/ME209x/ME209x_S013_State_Space_Projections_IIT Bombay.srt" youtube_id_0_75="" youtube_id_1_0="KwP2MxslDBs" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001900_100.mp4"/>
+  <track src="https://s3.amazonaws.com/ME209x/ME209x_S013_State_Space_Projections_IIT Bombay.srt"/>
+  <video_asset client_video_id="ME209x_S013_State_Space_Projections_IIT Bombay" duration="145.28">
+    <encoded_video bitrate="217" file_size="3950757" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001900_MB2.mp4"/>
+    <encoded_video bitrate="266" file_size="4847671" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001900_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="5847061" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001900_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="5159739" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001900_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001900_100.mp3"/>
+  </video_asset>
+</video>

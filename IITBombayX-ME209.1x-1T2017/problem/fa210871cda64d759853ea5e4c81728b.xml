@@ -1,0 +1,47 @@
+<problem display_name="Problem 2" markdown="null" max_attempts="1" showanswer="past_due" weight="6.0">
+  <p align="justify">Consider air as an ideal gas with [mathjaxinline]C_p = 1000[/mathjaxinline] J/(kg.K), [mathjaxinline]R = 287[/mathjaxinline] J/(kg.K) and [mathjaxinline]\gamma \approx 1.4[/mathjaxinline]. It is compressed from 1 bar, 300K to 10 bar using a compressor. The compressor can be considered adiabatic but not reversible.The flow rate is 2 kg/s, and the entropy production rate is 200 W/K. </p>
+  <p>Answer the following questions.</p>
+  <p><b>Problem 2A.</b> Which figure best represents the process?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">
+        <img src="/static/p2a.bmp"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/p2b.bmp"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/p2c.bmp"/>
+      </choice>
+      <choice correct="true">
+        <img src="/static/p2d.bmp"/>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p><b>Problem 2B.</b> What is the change in specific entropy of the gas (units of J/(kg.K)) as it moves from inlet to exit?</p>
+  <numericalresponse answer="100">
+    <responseparam type="tolerance" default="5"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 2C.</b> If the process was reversible apart from being adiabatic, what would have been the final </p>
+  <p>Temperature (in kelvin) of the gas at the exit?</p>
+  <numericalresponse answer="579.2">
+    <responseparam type="tolerance" default="25"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 2D.</b> What is the actual temperature of the gas at the exit (in kelvin)?</p>
+  <numericalresponse answer="640.1">
+    <responseparam type="tolerance" default="25"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 2E.</b> What is the power consumed by the compressor (in kW)? Do not enter the sign.</p>
+  <numericalresponse answer="680">
+    <responseparam type="tolerance" default="30"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 2F.</b> What is the isentropic efficiency of the compressor? Enter the value as a fraction.</p>
+  <numericalresponse answer="0.82">
+    <responseparam type="tolerance" default="0.04"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

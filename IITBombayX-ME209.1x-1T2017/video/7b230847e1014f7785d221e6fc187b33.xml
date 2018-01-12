@@ -1,0 +1,10 @@
+<video youtube="1.00:py3_QrhsWUM" url_name="7b230847e1014f7785d221e6fc187b33" display_name="Tutorial 3: Dryness Fraction- Part 2" download_track="true" download_video="true" edx_video_id="IITME2092014-V012200" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012200_DTH.mp4&quot;]" sub="IITME2092014-V012200_DTH" youtube_id_0_75="" youtube_id_1_0="py3_QrhsWUM" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012200_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S428B_Tutorial 3_Dryness_Fraction_Part 2_IIT_Bombay" duration="844.89">
+    <encoded_video bitrate="132" file_size="14032005" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012200_MB2.mp4"/>
+    <encoded_video bitrate="187" file_size="19844414" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012200_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="35669928" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012200_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="105425448" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012200_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012200_AUD.mp3"/>
+  </video_asset>
+</video>

@@ -1,0 +1,123 @@
+{
+    "course/course": {
+        "advertised_start": null, 
+        "cert_html_view_enabled": true, 
+        "certificates": {
+            "certificates": [
+                {
+                    "description": "Description of the certificate", 
+                    "id": 1659637176, 
+                    "is_active": true, 
+                    "name": "Name of the certificate", 
+                    "signatories": [
+                        {
+                            "certificate": 1659637176, 
+                            "id": 61105825, 
+                            "name": "Uday N Gaitonde", 
+                            "organization": "IIT Bombay, India", 
+                            "signature_image_path": "/asset-v1:IITBombayX+ME209.1x+1T2016+type@asset+block@GaitondeSir.png", 
+                            "title": "Professor of Mechanical Engineering"
+                        }, 
+                        {
+                            "certificate": 1659637176, 
+                            "id": 742155242, 
+                            "name": "Upendra Bhandarkar", 
+                            "organization": "IIT Bombay, India", 
+                            "signature_image_path": "/asset-v1:IITBombayX+ME209.1x+1T2016+type@asset+block@BhandarkarSir.png", 
+                            "title": "Professor of Mechanical Engineering"
+                        }, 
+                        {
+                            "certificate": 1659637176, 
+                            "id": 316421991, 
+                            "name": "Milind Atrey", 
+                            "organization": "IIT Bombay, India", 
+                            "signature_image_path": "/asset-v1:IITBombayX+ME209.1x+1T2016+type@asset+block@AtreySir.png", 
+                            "title": "Professor of Mechanical Engineering"
+                        }
+                    ], 
+                    "version": 1
+                }
+            ]
+        }, 
+        "course_image": "IITBx-ME209x-Course-Banner.jpg", 
+        "days_early_for_beta": 60.0, 
+        "discussion_blackouts": [
+            [
+                "2014-10-17T06:30", 
+                "2014-10-22T06:30"
+            ]
+        ], 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-IITBombayX-ME209x-course-2014_Jul"
+            }
+        }, 
+        "display_name": "Thermodynamics", 
+        "end": "2017-06-30T06:30:00Z", 
+        "enrollment_end": null, 
+        "enrollment_start": null, 
+        "graceperiod": "", 
+        "info_sidebar_name": "Course Handouts", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "learning_info": [], 
+        "mobile_available": true, 
+        "self_paced": true, 
+        "start": "2017-01-01T06:30:00Z", 
+        "tabs": [
+            {
+                "course_staff_only": false, 
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "course_staff_only": false, 
+                "is_hidden": true, 
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Progress", 
+                "type": "progress"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Important Dates", 
+                "type": "static_tab", 
+                "url_slug": "0ddd8437c9384f3884683580b1c7d99b"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Course Team ", 
+                "type": "static_tab", 
+                "url_slug": "c8637f3e7f534d5789ea868d568a2126"
+            }
+        ], 
+        "video_upload_pipeline": {
+            "course_video_upload_token": "8b6d24a67c8e11e4a37828cfe91be749"
+        }, 
+        "xml_attributes": {
+            "filename": [
+                "course/2T2015.xml", 
+                "course/2T2015.xml"
+            ]
+        }
+    }
+}

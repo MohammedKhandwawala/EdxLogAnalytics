@@ -1,0 +1,15 @@
+<problem display_name="Problem 6" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In C2-05 (a), what is the specific enthalpy change in kJ/kg? (absolute value)</p>
+  <numericalresponse answer="38.5">
+    <responseparam type="tolerance" default="0.1"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>h[mathjaxinline]_1[/mathjaxinline] = 3278.6 kJ/kg (0.1 Mpa, 400 [mathjaxinline]^\circ[/mathjaxinline]C)</p>
+      <p>h[mathjaxinline]_2[/mathjaxinline] = 3240.1 kJ/kg (2.5 MPa, 400 [mathjaxinline]^\circ[/mathjaxinline] C)</p>
+      <p>h[mathjaxinline]_2[/mathjaxinline] - h[mathjaxinline]_1[/mathjaxinline] = 38.5 kJ/kg</p>
+    </div>
+  </solution>
+</problem>

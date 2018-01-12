@@ -1,0 +1,10 @@
+<video youtube="1.00:O9mpxV3qJqM" url_name="da2118f510904da38e3cfaf3fa5d4c49" display_name="Property Relations 1" download_track="true" download_video="true" edx_video_id="IITME2092014-V018700" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018700_DTH.mp4&quot;]" sub="IITME2092014-V018700_DTH" youtube_id_0_75="" youtube_id_1_0="O9mpxV3qJqM" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018700_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S205_Property_Relations_1_IIT_Bombay" duration="480.09">
+    <encoded_video bitrate="143" file_size="8619787" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018700_MB2.mp4"/>
+    <encoded_video bitrate="234" file_size="14090871" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018700_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="36450413" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018700_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="45852880" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018700_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018700_AUD.mp3"/>
+  </video_asset>
+</video>

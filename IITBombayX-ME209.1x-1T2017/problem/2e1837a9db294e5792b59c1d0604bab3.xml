@@ -1,0 +1,17 @@
+<problem display_name="Problem 1" markdown="Which of the following expressions give the rate of work done to push the fluid at the inlet in a control volume? (P is pressure, m is mass, ρ is density, v is velocity and V is volume. The dot over a letter is for time rate of change of that variable and the subscripts in and out are for the inlet and outlet)&#10;[x] [mathjaxinline]\frac{P_{in}\dot{m_{in}}} {\rho_{in}}[/mathjaxinline]&#10;[ ] [mathjaxinline]\frac{P_{out}\dot{m_{out}}} {\rho_{out}} [/mathjaxinline]&#10;[x] [mathjaxinline]P_{in}A_{in}v_{in}[/mathjaxinline]&#10;[x] [mathjaxinline]P_{in}\dot{V_{in}}[/mathjaxinline]&#10;[explanation]&#10;Use volume rate is area x velocity and also use mass conservation to get all three.&#10;[explanation]&#10;&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following expressions give the rate of work done to push the fluid at the inlet in a control volume? (P is pressure, m is mass, ρ is density, v is velocity and V is volume. The dot over a letter is for time rate of change of that variable and the subscripts in and out are for the inlet and outlet)</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">[mathjaxinline]\frac{P_{in}\dot{m_{in}}} {\rho_{in}}[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]\frac{P_{out}\dot{m_{out}}} {\rho_{out}} [/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]P_{in}A_{in}v_{in}[/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]P_{in}\dot{V_{in}}[/mathjaxinline]</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Use volume rate is area x velocity and also use mass conservation to get all three.</p>
+    </div>
+  </solution>
+</problem>

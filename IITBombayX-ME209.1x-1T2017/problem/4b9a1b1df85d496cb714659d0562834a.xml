@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown="Which of the following processes(s) can be used to convert water from subcooled liquid state to superheated vapour state? &#10;[x] Isothermal expansion&#10;[ ] Isothermal compression&#10;[x] Isobaric heating&#10;[ ] Isobaric cooling" max_attempts="2" weight="1.0">
+  <p>Which of the following processes(s) can be used to convert water from subcooled liquid state to superheated vapour state? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Isothermal expansion</choice>
+      <choice correct="false">Isothermal compression</choice>
+      <choice correct="true">Isobaric heating</choice>
+      <choice correct="false">Isobaric cooling</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

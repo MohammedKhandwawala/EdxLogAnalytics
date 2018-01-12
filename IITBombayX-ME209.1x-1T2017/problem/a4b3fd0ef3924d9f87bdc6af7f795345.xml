@@ -1,0 +1,18 @@
+<problem display_name="Problem 5" markdown="For any fluid, the value of the expression &#10;[mathjaxinline](\frac{\partial p}{\partial h})_s(\frac{\partial h}{\partial s})_p(\frac{\partial s}{\partial p})_h[/mathjaxinline] is:&#10;( ) +1&#10;( ) zero&#10;(x) -1&#10;( ) any value is possible&#10;&#10;[explanation]&#10;Follows from the cyclic relation.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>For any fluid, the value of the expression </p>
+  <p>[mathjaxinline](\frac{\partial p}{\partial h})_s(\frac{\partial h}{\partial s})_p(\frac{\partial s}{\partial p})_h[/mathjaxinline] is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">+1</choice>
+      <choice correct="false">zero</choice>
+      <choice correct="true">-1</choice>
+      <choice correct="false">any value is possible</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Follows from the cyclic relation.</p>
+    </div>
+  </solution>
+</problem>

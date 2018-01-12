@@ -1,0 +1,15 @@
+<problem display_name="Problem 4" markdown="&gt;&gt;There are only 2 types of interactions between systems that are studied in thermodynamics.&lt;&lt;&#10;     (x) True&#10;     ( ) False&#10;     &#10;     &#10;[explanation]&#10;Only heat and work interactions are considered for study in thermodynamics.&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>There are only 2 types of interactions between systems that are studied in thermodynamics.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="There are only 2 types of interactions between systems that are studied in thermodynamics." type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Only heat and work interactions are considered for study in thermodynamics.</p>
+    </div>
+  </solution>
+</problem>

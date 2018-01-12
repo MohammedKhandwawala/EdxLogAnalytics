@@ -1,0 +1,11 @@
+<problem display_name="Problem 1" markdown="At a particular temperature, u[mathjaxinline]_f[/mathjaxinline] = 0 for water. The state is at&#10;&#10;(x) Triple Point&#10;( ) Critical Point&#10;( ) Solid Phase&#10;( ) Cannot be determined&#10;&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>At a particular temperature, u[mathjaxinline]_f[/mathjaxinline] = 0 for water. The state is at</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Triple Point</choice>
+      <choice correct="false">Critical Point</choice>
+      <choice correct="false">Solid Phase</choice>
+      <choice correct="false">Cannot be determined</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,15 @@
+<problem display_name="Problem 4" markdown="If a system executes a reversible process, then it is impossible for us to determine whether the process took place or not.&#10;     ( ) True&#10;     (x) False&#10;    [explanation]&#10;This will be true if the reversible process is executed once in the forward direction, immediately followed by once in the reverse direction. &#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>If a system executes a reversible process, then it is impossible for us to determine whether the process took place or not.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>This will be true if the reversible process is executed once in the forward direction, immediately followed by once in the reverse direction. </p>
+    </div>
+  </solution>
+</problem>

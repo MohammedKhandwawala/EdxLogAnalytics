@@ -1,0 +1,10 @@
+<video youtube="1.00:ttmwDRM5kgU" url_name="a01f8ce8b5dd490084a90b8bb835bbec" display_name="Reversible Processes 2" download_track="true" download_video="true" edx_video_id="IITME2092014-V014600" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014600_DTH.mp4&quot;]" sub="ttmwDRM5kgU" youtube_id_0_75="" youtube_id_1_0="ttmwDRM5kgU" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014600_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S116_Reversible_Processes_2_IIT_Bombay" duration="291.01">
+    <encoded_video bitrate="281" file_size="10257071" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014600_MB1.mp4"/>
+    <encoded_video bitrate="150" file_size="5475778" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014600_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="32211550" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014600_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="38587507" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014600_AUD.mp3"/>
+  </video_asset>
+</video>

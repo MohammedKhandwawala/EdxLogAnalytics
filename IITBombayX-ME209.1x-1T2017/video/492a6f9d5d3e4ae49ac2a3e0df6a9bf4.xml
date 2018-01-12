@@ -1,0 +1,10 @@
+<video youtube="1.00:NFKKluBGxgQ" url_name="492a6f9d5d3e4ae49ac2a3e0df6a9bf4" display_name="Table 3: Subcooled and Supercritical Zone" download_track="true" download_video="true" edx_video_id="IITME2092014-V011100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011100_DTH.mp4&quot;]" sub="IITME2092014-V011100_DTH" youtube_id_0_75="" youtube_id_1_0="NFKKluBGxgQ" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011100_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S419_Table 3_Subcooled and Supercritical Zone_IIT_Bombay" duration="213.1">
+    <encoded_video bitrate="143" file_size="3819237" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011100_MB2.mp4"/>
+    <encoded_video bitrate="236" file_size="6294666" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011100_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="16101877" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011100_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="25035056" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011100_AUD.mp3"/>
+  </video_asset>
+</video>

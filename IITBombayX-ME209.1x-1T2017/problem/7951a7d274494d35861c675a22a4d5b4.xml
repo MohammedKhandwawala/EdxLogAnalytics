@@ -1,0 +1,17 @@
+<problem display_name="Problem 8" markdown="For water, which of the following properties for a liquid state are always more than that for a solid state?&#10;&#10;[x] h&#10;[x] u&#10;[ ] v&#10;[ ] None of the above.&#10;&#10;&#10;[explanation]&#10;In case of water, (c) will not be more!&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>For water, which of the following properties for a liquid state are always more than that for a solid state?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">h</choice>
+      <choice correct="true">u</choice>
+      <choice correct="false">v</choice>
+      <choice correct="false">None of the above.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>In case of water, (c) will not be more!</p>
+    </div>
+  </solution>
+</problem>

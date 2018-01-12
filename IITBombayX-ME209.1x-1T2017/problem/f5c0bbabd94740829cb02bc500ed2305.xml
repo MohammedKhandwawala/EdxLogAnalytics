@@ -1,0 +1,11 @@
+<problem display_name="Problem 5" markdown="Air at 5 bar pressure turns into _____ when it comes in contact with liquid nitrogen&#10;&#10;(x) Liquid&#10;( ) Gas&#10;( ) Solid&#10;( ) None of the above&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Air at 5 bar pressure turns into _____ when it comes in contact with liquid nitrogen</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Liquid</choice>
+      <choice correct="false">Gas</choice>
+      <choice correct="false">Solid</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

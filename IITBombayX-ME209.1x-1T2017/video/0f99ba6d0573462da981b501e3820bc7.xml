@@ -1,0 +1,11 @@
+<video youtube="1.00:IYMUPylS6Y4" url_name="0f99ba6d0573462da981b501e3820bc7" display_name="Processes and Properties" download_track="true" download_video="true" edx_video_id="IITME2092014-V001400" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001400_100.mp4&quot;]" sub="IITME2092014-V001400_100" track="https://s3.amazonaws.com/ME209x/ME209x_S018_Processes_and_Properties_IIT_Bombay.srt" youtube_id_0_75="" youtube_id_1_0="IYMUPylS6Y4" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001400_100.mp4"/>
+  <track src="https://s3.amazonaws.com/ME209x/ME209x_S018_Processes_and_Properties_IIT_Bombay.srt"/>
+  <video_asset client_video_id="ME209x_S018_Processes_and_Properties_IIT_Bombay" duration="361.6">
+    <encoded_video bitrate="275" file_size="12452640" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001400_MB2.mp4"/>
+    <encoded_video bitrate="368" file_size="16648130" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001400_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="22505840" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001400_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="34817227" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001400_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001400_100.mp3"/>
+  </video_asset>
+</video>

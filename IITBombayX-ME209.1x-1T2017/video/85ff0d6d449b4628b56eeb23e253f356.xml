@@ -1,0 +1,10 @@
+<video youtube="1.00:mvdLcY0QXPg" url_name="85ff0d6d449b4628b56eeb23e253f356" display_name="The Second Law of Thermodynamics" download_track="true" download_video="true" edx_video_id="IITME2092014-V013100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013100_DTH.mp4&quot;]" sub="IITME2092014-V013100_DTH" youtube_id_0_75="" youtube_id_1_0="mvdLcY0QXPg" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013100_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S101_The_Second_Law_of_Thermodynamics_IIT_Bombay" duration="686.76">
+    <encoded_video bitrate="135" file_size="11618895" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013100_MB2.mp4"/>
+    <encoded_video bitrate="205" file_size="17622214" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013100_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="44903691" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013100_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="92034209" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013100_AUD.mp3"/>
+  </video_asset>
+</video>

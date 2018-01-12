@@ -1,0 +1,10 @@
+<video youtube="1.00:Rkjh5qwNQxU" url_name="5dccb1aa35954d2696d70b6726a56b2b" display_name="Inlet and Exit Plugs " download_track="true" download_video="true" edx_video_id="IITME2092014-V020200" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020200_DTH.mp4&quot;]" sub="IITME2092014-V020200_DTH" youtube_id_0_75="" youtube_id_1_0="Rkjh5qwNQxU" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020200_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S305_Inlet_and_Exit_Plugs_IIT_Bombay" duration="389.7">
+    <encoded_video bitrate="245" file_size="11976342" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020200_MB1.mp4"/>
+    <encoded_video bitrate="142" file_size="6924044" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020200_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="37616956" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020200_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="52018258" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020200_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020200_AUD.mp3"/>
+  </video_asset>
+</video>

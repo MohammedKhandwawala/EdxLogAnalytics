@@ -1,0 +1,16 @@
+<problem display_name="Problem 3" markdown="Solid mercury sinks in liquid mercury. Hence, as the pressure is increased, the melting point of mercury &#10;(x) increases&#10;( ) decreases&#10;( ) remains unchanged&#10;&#10;[explanation]&#10;Follows from the Clausius-Clapeyron Equation.&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Solid mercury sinks in liquid mercury. Hence, as the pressure is increased, the melting point of mercury </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">increases</choice>
+      <choice correct="false">decreases</choice>
+      <choice correct="false">remains unchanged</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Follows from the Clausius-Clapeyron Equation.</p>
+    </div>
+  </solution>
+</problem>

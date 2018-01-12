@@ -1,0 +1,10 @@
+<video youtube="1.00:h-7A52WQw7o" url_name="c20b1a86f11a44dfa802547a471f23a0" display_name="Phase Change Processes" download_track="true" download_video="true" edx_video_id="IITME2092014-V009400" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009400_100.mp4&quot;]" sub="IITME2092014-V009400_100" youtube_id_0_75="" youtube_id_1_0="h-7A52WQw7o" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009400_100.mp4"/>
+  <video_asset client_video_id="ME209x_S408_Phase_Change_Processes_IIT_Bombay" duration="303.32">
+    <encoded_video bitrate="729" file_size="27666341" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009400_MB1.mp4"/>
+    <encoded_video bitrate="529" file_size="20087565" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009400_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="42823780" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009400_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="41041793" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009400_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009400_100.mp3"/>
+  </video_asset>
+</video>

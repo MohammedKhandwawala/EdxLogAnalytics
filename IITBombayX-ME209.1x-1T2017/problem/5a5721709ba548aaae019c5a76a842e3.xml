@@ -1,0 +1,7 @@
+<problem display_name="Problem 1" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A closed system contains a gas at a pressure of 200 kPa in a cylinder piston arrangement. The area of the piston is 50 cm[mathjaxinline]^{2} [/mathjaxinline]. Due to the pressure of the gas, the piston moves outward by a small distance [mathjaxinline]dx = 1[/mathjaxinline]mm. Assume that the presssure changes are negligible during the expansion. Determine the work done by the system in joule [ J ].</p>
+  <numericalresponse answer="1">
+    <responseparam type="tolerance" default="0.1"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

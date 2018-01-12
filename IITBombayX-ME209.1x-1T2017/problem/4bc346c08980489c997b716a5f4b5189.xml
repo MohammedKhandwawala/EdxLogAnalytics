@@ -1,0 +1,11 @@
+<problem display_name="Problem 2" markdown="The efficiency of a reversible 2T heat engine depends on:&#10;&#10;[x] Temperature of the reservoir to which heat is rejected&#10;[x] Temperature of the reservoir from which heat is absorbed&#10;[ ] The amount of heat absorbed per cycle&#10;[ ] The number of cycles executed per unit time.&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>The efficiency of a reversible 2T heat engine depends on:</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Temperature of the reservoir to which heat is rejected</choice>
+      <choice correct="true">Temperature of the reservoir from which heat is absorbed</choice>
+      <choice correct="false">The amount of heat absorbed per cycle</choice>
+      <choice correct="false">The number of cycles executed per unit time.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

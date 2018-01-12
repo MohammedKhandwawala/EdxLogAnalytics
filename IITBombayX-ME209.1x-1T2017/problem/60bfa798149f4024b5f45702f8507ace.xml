@@ -1,0 +1,6 @@
+<problem display_name="" markdown="&#10;What is the highest level of education attained by your parents/guardians?&#10;&#10;=answer" max_attempts="0" showanswer="never" weight="0.0">
+  <p>What is the highest level of education attained by your parents/guardians?</p>
+  <stringresponse answer="answer" type="ci">
+    <textline size="20"/>
+  </stringresponse>
+</problem>

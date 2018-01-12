@@ -1,0 +1,8 @@
+<problem display_name="Problem 10" markdown="Refer B-03 from Exercises Set B&#10;What is the value of [mathjaxinline]\Delta H_{12}[/mathjaxinline] in kJ?&#10;= 450 +- 10&#10;&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Refer B-03 from Exercises Set B</p>
+  <p>What is the value of [mathjaxinline]\Delta H_{12}[/mathjaxinline] in kJ?</p>
+  <numericalresponse answer="450">
+    <responseparam type="tolerance" default="10"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

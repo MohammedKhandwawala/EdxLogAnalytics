@@ -1,0 +1,7 @@
+<problem display_name="Problem 9" markdown="What will be the temperature of water at p[mathjaxinline]_A[/mathjaxinline] which is mentioned in C3-02? (Write answer in °C)&#10;&#10;= 187.957 +- 0.1&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What will be the temperature of water at p[mathjaxinline]_A[/mathjaxinline] which is mentioned in C3-02? (Write answer in °C)</p>
+  <numericalresponse answer="187.957">
+    <responseparam type="tolerance" default="0.1"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

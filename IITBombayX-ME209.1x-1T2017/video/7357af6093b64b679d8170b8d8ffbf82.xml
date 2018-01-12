@@ -1,0 +1,10 @@
+<video youtube="1.00:p0hdH5AI85Y" url_name="7357af6093b64b679d8170b8d8ffbf82" display_name="The Jacobian Relation" download_track="true" download_video="true" edx_video_id="IITME2092014-V019100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V019100_DTH.mp4&quot;]" sub="IITME2092014-V019100_DTH" youtube_id_0_75="" youtube_id_1_0="p0hdH5AI85Y" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V019100_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S209_The_Jacobian_Relation_IIT_Bombay" duration="487.49">
+    <encoded_video bitrate="205" file_size="12500195" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V019100_MB1.mp4"/>
+    <encoded_video bitrate="135" file_size="8246318" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V019100_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="31363381" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V019100_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="63450507" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V019100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V019100_AUD.mp3"/>
+  </video_asset>
+</video>

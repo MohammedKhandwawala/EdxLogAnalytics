@@ -1,0 +1,9 @@
+<problem display_name="Problem 10" markdown="In adiabatic compressors, enthalpy change between inlet state and outlet state is maximum if the compression is isentropic.&#10;( ) True&#10;(x) False&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>In adiabatic compressors, enthalpy change between inlet state and outlet state is maximum if the compression is isentropic.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Problem 4" markdown="A closed system contains an ideal gas. Which of the following is true?&#10;[x] The temperature of the gas is dependent on volume of the gas.&#10;[x] The temperature of the gas is dependent on pressure of the gas.&#10;[x] The temperature (on the Kelvin scale) of the gas is proportional to the product of its pressure and its volume.&#10;[ ] The temperature of the gas is proportional to the ratio of its pressure and its volume.&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A closed system contains an ideal gas. Which of the following is true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">The temperature of the gas is dependent on volume of the gas.</choice>
+      <choice correct="true">The temperature of the gas is dependent on pressure of the gas.</choice>
+      <choice correct="true">The temperature (on the Kelvin scale) of the gas is proportional to the product of its pressure and its volume.</choice>
+      <choice correct="false">The temperature of the gas is proportional to the ratio of its pressure and its volume.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,22 @@
+<problem display_name="Problem 6 [Part 2]" markdown="null" max_attempts="1" showanswer="past_due" weight="4.0">
+  <p><b>Problem 6B.</b> To establish the conclusion reached in Problem 6A, which of the following did you use?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">The First Law</choice>
+      <choice correct="true">The Second Law</choice>
+      <choice correct="false">The Zeroth Law</choice>
+      <choice correct="false">The Equation of State</choice>
+      <choice correct="true">The Basic Property Relation</choice>
+      <choice correct="false">The Process Relation</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <p><b>Problem 6C.</b> Derive an expression for [mathjaxinline](\partial T/\partial v)_u[/mathjaxinline] in terms of [mathjaxinline]c_v, p, v[/mathjaxinline], and [mathjaxinline]T[/mathjaxinline].What is the final expression?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">[mathjaxinline] (\frac{1}{c_v})[ p + T (\partial p/\partial T)_v] [/mathjaxinline] </choice>
+      <choice correct="true">[mathjaxinline](\frac{1}{c_v})[ p - T (\partial p/\partial T)_v] [/mathjaxinline] </choice>
+      <choice correct="false">[mathjaxinline](\frac{1}{c_v})[ T (\partial p/\partial T)_v - p][/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline](\frac{1}{c_v})[ p - v (\partial p/\partial v)_T] [/mathjaxinline]</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

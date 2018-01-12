@@ -1,0 +1,10 @@
+<problem display_name="Problem 3" markdown="Compression work for solids and liquids is very less as compared to that for gases under same pressure conditions.&#10;     (x) True&#10;     ( ) False&#10;    " max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Compression work for solids and liquids is very less as compared to that for gases under same pressure conditions.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:vI4T7DWKsjI" url_name="76fed966742848ca92e07e01e0f22a2a" display_name="Zones on the P-T Diagram: Table 1" download_track="true" download_video="true" edx_video_id="IITME2092014-V010200" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010200_100.mp4&quot;]" sub="IITME2092014-V010200_100" youtube_id_0_75="" youtube_id_1_0="vI4T7DWKsjI" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010200_100.mp4"/>
+  <video_asset client_video_id="ME209x_S415_Zones_on_the_PT_Diagram_Table 1_IIT_Bombay" duration="416.96">
+    <encoded_video bitrate="729" file_size="38045524" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010200_MB1.mp4"/>
+    <encoded_video bitrate="528" file_size="27567264" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010200_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="58880944" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010200_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="56479631" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010200_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010200_100.mp3"/>
+  </video_asset>
+</video>

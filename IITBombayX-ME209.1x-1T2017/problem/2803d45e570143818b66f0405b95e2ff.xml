@@ -1,0 +1,9 @@
+<problem display_name="Student Details" markdown="Are you currently employed?&#10;    ( ) Yes &#10;    ( ) No" max_attempts="0" showanswer="never" weight="0.0">
+  <p>Are you currently employed?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Yes </choice>
+      <choice correct="false">No</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

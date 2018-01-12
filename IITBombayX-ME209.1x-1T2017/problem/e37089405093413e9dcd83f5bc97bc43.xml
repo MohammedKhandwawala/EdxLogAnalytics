@@ -1,0 +1,9 @@
+<problem display_name="Problem 3" markdown="Heat transfer is defined as an energy interaction which is not of the work type.&#10;(x) True&#10;( ) False&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Heat transfer is defined as an energy interaction which is not of the work type.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

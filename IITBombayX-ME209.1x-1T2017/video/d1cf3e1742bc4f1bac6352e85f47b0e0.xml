@@ -1,0 +1,10 @@
+<video youtube="1.00:sQnFr8L75Lo" url_name="d1cf3e1742bc4f1bac6352e85f47b0e0" display_name="Exercise 9 – Transient Problem" download_track="true" download_video="true" edx_video_id="IITME2092014-V022500" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022500_DTH.mp4&quot;]" sub="IITME2092014-V022500_DTH" youtube_id_0_75="" youtube_id_1_0="sQnFr8L75Lo" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022500_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S329_Exercise_9_Transient_Problem_IIT_Bombay" duration="684.22">
+    <encoded_video bitrate="130" file_size="11193591" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022500_MB2.mp4"/>
+    <encoded_video bitrate="199" file_size="17054056" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022500_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="44737990" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022500_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="89978879" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022500_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022500_AUD.mp3"/>
+  </video_asset>
+</video>

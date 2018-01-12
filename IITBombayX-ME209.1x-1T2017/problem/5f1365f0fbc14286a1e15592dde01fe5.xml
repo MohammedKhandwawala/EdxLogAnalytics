@@ -1,0 +1,15 @@
+<problem display_name="Problem 6" markdown="The actual value of the energy E of a system is meaningless, only differences in energy between two states are significant.&#10;(x) True&#10;( ) False&#10;[explanation]&#10;Only difference in energy is defined by the first law.&#10;[explanation]&#10;&#10;&#10;" max_attempts="1" weight="1.0">
+  <p>The actual value of the energy E of a system is meaningless, only differences in energy between two states are significant.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Only difference in energy is defined by the first law.</p>
+    </div>
+  </solution>
+</problem>

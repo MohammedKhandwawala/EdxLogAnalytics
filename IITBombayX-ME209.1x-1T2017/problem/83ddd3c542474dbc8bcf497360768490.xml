@@ -1,0 +1,13 @@
+<problem display_name="Problem 1" markdown="A given state of water is at a pressure less than triple point pressure and temperature less than triple point temperature. It is heated to 200[mathjaxinline]^\circ [/mathjaxinline]C at isobaric conditions. The initial and final state of the system can be&#10;&#10;( ) Liquid and gas&#10;( ) Gas and liquid&#10;( ) Solid and liquid&#10;(x) Solid and vapour&#10;    &#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A given state of water is at a pressure less than triple point pressure and temperature less than triple point temperature. It is heated to 200[mathjaxinline]^\circ [/mathjaxinline]C at isobaric conditions. The initial and final state of the system can be</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Liquid and gas</choice>
+      <choice correct="false">Gas and liquid</choice>
+      <choice correct="false">Solid and liquid</choice>
+      <choice correct="true">Solid and vapour</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>     </p>
+</problem>

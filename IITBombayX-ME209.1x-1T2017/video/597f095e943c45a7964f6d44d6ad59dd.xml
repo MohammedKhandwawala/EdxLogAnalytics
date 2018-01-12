@@ -1,0 +1,10 @@
+<video youtube="1.00:vO0Z9YLOSSU" url_name="597f095e943c45a7964f6d44d6ad59dd" display_name="Tutorial 2:  Illustrative Examples Based on Steam Tables- Part 2" download_track="true" download_video="true" edx_video_id="IITME2092014-V012000" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012000_DTH.mp4&quot;]" sub="IITME2092014-V012000_DTH" youtube_id_0_75="" youtube_id_1_0="vO0Z9YLOSSU" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012000_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S427B_Tutorial 2_Illustrative_Examples_Based_on_Steam_Tables_Part 2_IIT_Bombay" duration="589.29">
+    <encoded_video bitrate="273" file_size="20175970" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012000_MB1.mp4"/>
+    <encoded_video bitrate="157" file_size="11575907" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012000_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="49399761" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012000_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="78503882" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012000_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012000_AUD.mp3"/>
+  </video_asset>
+</video>

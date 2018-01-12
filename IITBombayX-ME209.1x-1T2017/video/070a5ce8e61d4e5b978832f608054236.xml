@@ -1,0 +1,10 @@
+<video youtube="1.00:Il_WkJ7zVnc" url_name="070a5ce8e61d4e5b978832f608054236" display_name="The 2T Heat Engine 1" download_track="true" download_video="true" edx_video_id="IITME2092014-V013600" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013600_DTH.mp4&quot;]" sub="IITME2092014-V013600_DTH" youtube_id_0_75="" youtube_id_1_0="Il_WkJ7zVnc" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013600_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S106_The_2T_Heat_Engine_1_IIT_Bombay" duration="579.5">
+    <encoded_video bitrate="158" file_size="11462796" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013600_MB2.mp4"/>
+    <encoded_video bitrate="279" file_size="20273577" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013600_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="53387659" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013600_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="72731971" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V013600_AUD.mp3"/>
+  </video_asset>
+</video>

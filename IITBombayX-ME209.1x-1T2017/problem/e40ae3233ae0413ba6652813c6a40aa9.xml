@@ -1,0 +1,6 @@
+<problem display_name="Problem 6" markdown="Mixture of 50% Liquid Oxygen and 50% liquid Nitrogen is in equilibrium with its vapour. Number of independent intensive properties required to completely define the state of system is_____ &#10;= 2&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Mixture of 50% Liquid Oxygen and 50% liquid Nitrogen is in equilibrium with its vapour. Number of independent intensive properties required to completely define the state of system is_____ </p>
+  <numericalresponse answer="2">
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

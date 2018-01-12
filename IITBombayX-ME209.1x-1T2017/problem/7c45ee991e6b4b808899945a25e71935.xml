@@ -1,0 +1,11 @@
+<problem display_name="Problem 6" markdown="Which of the following zones doesn't have any latent phase change associated with it?&#10;&#10;( ) Sub-cooled Liquid Zone&#10;( ) Super heated vapor&#10;(x) Super-critical zone&#10;( ) None of the above.&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following zones doesn't have any latent phase change associated with it?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Sub-cooled Liquid Zone</choice>
+      <choice correct="false">Super heated vapor</choice>
+      <choice correct="true">Super-critical zone</choice>
+      <choice correct="false">None of the above.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:r35AiCE8_IU" url_name="35bd5c56aade47b1a8b990fc96c72e0c" display_name="Tutorial 4: Mollier Chart and First Law Part 2" download_track="true" download_video="true" edx_video_id="IITME2092014-V012900" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012900_DTH.mp4&quot;]" sub="IITME2092014-V012900_DTH" youtube_id_0_75="" youtube_id_1_0="r35AiCE8_IU" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012900_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S429B_Tutorial 4_Mollier_Chart_and_First_Law_Part 2_IIT_Bombay" duration="535.91">
+    <encoded_video bitrate="215" file_size="14424156" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012900_MB1.mp4"/>
+    <encoded_video bitrate="141" file_size="9460648" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012900_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="31808759" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012900_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="72059086" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012900_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V012900_AUD.mp3"/>
+  </video_asset>
+</video>

@@ -1,0 +1,10 @@
+<video youtube="1.00:mVXnyzreEGM" url_name="c8a4be5eafa34b77b4132af462f0c091" display_name="The First Law 5 : Final steps " download_track="true" download_video="true" edx_video_id="IITME2092014-V006200" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006200_100.mp4&quot;]" sub="IITME2092014-V006200_100" youtube_id_0_75="" youtube_id_1_0="mVXnyzreEGM" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006200_100.mp4"/>
+  <video_asset client_video_id="ME209x_S034E_The_First_Law_5_Final_steps_IIT_Bombay" duration="635.65">
+    <encoded_video bitrate="729" file_size="58001433" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006200_MB1.mp4"/>
+    <encoded_video bitrate="529" file_size="42111669" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006200_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="89770209" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006200_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="79570676" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006200_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006200_100.mp3"/>
+  </video_asset>
+</video>

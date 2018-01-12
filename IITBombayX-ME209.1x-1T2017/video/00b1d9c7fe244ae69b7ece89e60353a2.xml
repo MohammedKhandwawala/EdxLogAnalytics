@@ -1,0 +1,10 @@
+<video youtube="1.00:JO44gO3b13Q" url_name="00b1d9c7fe244ae69b7ece89e60353a2" display_name="The Second Law – Problem Solving " download_track="true" download_video="true" edx_video_id="IITME2092014-V017700" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017700_DTH.mp4&quot;]" sub="IITME2092014-V017700_DTH" youtube_id_0_75="" youtube_id_1_0="JO44gO3b13Q" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017700_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S147_The_Second_Law_Problem_Solving_IIT_Bombay" duration="327.04">
+    <encoded_video bitrate="431" file_size="17638413" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017700_MB1.mp4"/>
+    <encoded_video bitrate="209" file_size="8581327" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017700_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="51076871" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017700_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="43856217" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017700_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017700_AUD.mp3"/>
+  </video_asset>
+</video>

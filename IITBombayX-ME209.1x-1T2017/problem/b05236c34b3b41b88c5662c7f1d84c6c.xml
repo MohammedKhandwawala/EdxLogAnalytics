@@ -1,0 +1,11 @@
+<problem display_name="Problem 9" markdown="What conditions are there at the critical point of water?&#10;&#10;( ) P=1 bar, T= 373 K&#10;( ) P=22.064 Mpa, T=373.946 K&#10;( ) P=1 bar, T=273 K&#10;(x) P=22.064 Mpa, T=646.946 K.&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What conditions are there at the critical point of water?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">P=1 bar, T= 373 K</choice>
+      <choice correct="false">P=22.064 Mpa, T=373.946 K</choice>
+      <choice correct="false">P=1 bar, T=273 K</choice>
+      <choice correct="true">P=22.064 Mpa, T=646.946 K.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

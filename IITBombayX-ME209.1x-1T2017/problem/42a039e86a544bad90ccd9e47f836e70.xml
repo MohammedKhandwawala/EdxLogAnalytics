@@ -1,0 +1,15 @@
+<problem display_name="Problem 1" markdown="A heat engine must produce a positive amount of work.&#10;  (x) True&#10;  ( ) False&#10;     &#10;[explanation]&#10;A device is not an engine unless it delivers work. Hence, a positive amount of work is needed. &#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>A heat engine must produce a positive amount of work.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A device is not an engine unless it delivers work. Hence, a positive amount of work is needed. </p>
+    </div>
+  </solution>
+</problem>

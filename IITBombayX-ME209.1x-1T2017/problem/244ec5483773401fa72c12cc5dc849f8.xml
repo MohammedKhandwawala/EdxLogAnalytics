@@ -1,0 +1,13 @@
+<problem display_name="Problem 4" markdown="null" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Using the steam tables, estimate [mathjaxinline]c_p[/mathjaxinline] (in kJ/kg K) for superheated steam at 0.1 MPa and 700 deg C.</p>
+  <numericalresponse answer="2.275">
+    <responseparam type="tolerance" default="0.2"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Compute [mathjaxinline]c_p=(\frac{\partial h}{\partial T})_p[/mathjaxinline] using a numerical approximation.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="" markdown="What did you do, in this course?&#10;&#10; ( ) I just browsed the content – watched some videos, and answered some questions.&#10; ( ) I completed some course activities, but not enough to earn a certifiate.&#10; ( ) I completed enough course activities and watched all the videos and most of the quizzes.&#10; ( ) I hardly participated in any course activities.&#10;" max_attempts="0" showanswer="never" weight="0.0">
+  <p>What did you do, in this course?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">I just browsed the content – watched some videos, and answered some questions.</choice>
+      <choice correct="false">I completed some course activities, but not enough to earn a certifiate.</choice>
+      <choice correct="false">I completed enough course activities and watched all the videos and most of the quizzes.</choice>
+      <choice correct="false">I hardly participated in any course activities.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

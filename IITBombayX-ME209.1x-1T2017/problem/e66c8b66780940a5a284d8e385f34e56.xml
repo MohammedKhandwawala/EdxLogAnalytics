@@ -1,0 +1,17 @@
+<problem display_name="Problem 4" markdown="Solve Exercise D-05. Which assumptions did you have to make for solving the problem?&#10;&#10;[ ]The process is quasi-static.&#10;[x]The system is stationary (at rest).&#10;[x]There is no work interaction, other than expansion work.&#10;[ ]The specific heats are constant&#10;&#10;[explanation]&#10;Free expansion is not quasi-static, and specific heats do not enter the calculation.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Solve Exercise D-05. Which assumptions did you have to make for solving the problem?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">The process is quasi-static.</choice>
+      <choice correct="true">The system is stationary (at rest).</choice>
+      <choice correct="true">There is no work interaction, other than expansion work.</choice>
+      <choice correct="false">The specific heats are constant</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Free expansion is not quasi-static, and specific heats do not enter the calculation.</p>
+    </div>
+  </solution>
+</problem>

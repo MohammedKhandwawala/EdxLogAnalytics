@@ -1,0 +1,10 @@
+<problem display_name="Details" markdown="Are you currently, or have you ever identified yourself as, an instructor/teacher? &#10;&#10;( ) Yes&#10;( ) No&#10;( ) Unsure" max_attempts="0" showanswer="never" weight="0.0">
+  <p>Are you currently, or have you ever identified yourself as, an instructor/teacher? </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Yes</choice>
+      <choice correct="false">No</choice>
+      <choice correct="false">Unsure</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

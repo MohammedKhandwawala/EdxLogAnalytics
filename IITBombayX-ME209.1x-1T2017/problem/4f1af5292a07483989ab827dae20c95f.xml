@@ -1,0 +1,15 @@
+<problem display_name="Problem 10" markdown="An ideal gas obeys Boyle's law all over its state-space.&#10;(x)True&#10;( )False&#10;&#10;[explanation]&#10;That is the definition of an ideal gas.&#10;[explanation]&#10;&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>An ideal gas obeys Boyle's law all over its state-space.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>That is the definition of an ideal gas.</p>
+    </div>
+  </solution>
+</problem>

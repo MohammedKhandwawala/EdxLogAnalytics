@@ -1,0 +1,11 @@
+<problem display_name="Problem 5" markdown="A quasi-static process is represented on a p-V diagram as well as a T-S diagram. Which of the following statements are true?&#10;&#10;[ ] The area under the process line in the p-V diagram equals the work done by the system.&#10;[x] The area under the process line in the p-V diagram equals the expansion work done by the system&#10;[x] The area under the process line in the T-S diagram exceeds the heat absorbed by the system&#10;[ ] If the process is reversible, the area under the process line in the T-S diagram equals the heat absorbed by the system.&#10;" max_attempts="3" showanswer="past_due" weight="1.0">
+  <p>A quasi-static process is represented on a p-V diagram as well as a T-S diagram. Which of the following statements are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">The area under the process line in the p-V diagram equals the work done by the system.</choice>
+      <choice correct="true">The area under the process line in the p-V diagram equals the expansion work done by the system</choice>
+      <choice correct="true">The area under the process line in the T-S diagram exceeds the heat absorbed by the system</choice>
+      <choice correct="false">If the process is reversible, the area under the process line in the T-S diagram equals the heat absorbed by the system.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:o7inXTEHpfQ" url_name="5ce9ac92d3974f30922fedf85a851d9e" display_name="Work Transfer Devices 2" download_track="true" download_video="true" edx_video_id="IITME2092014-V021100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021100_DTH.mp4&quot;]" sub="IITME2092014-V021100_DTH" youtube_id_0_75="" youtube_id_1_0="o7inXTEHpfQ" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021100_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S314_Work_Transfer_Devices_2_IIT_Bombay" duration="269.48">
+    <encoded_video bitrate="322" file_size="10865490" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021100_MB1.mp4"/>
+    <encoded_video bitrate="167" file_size="5644616" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021100_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="34536110" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021100_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="35934364" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021100_AUD.mp3"/>
+  </video_asset>
+</video>

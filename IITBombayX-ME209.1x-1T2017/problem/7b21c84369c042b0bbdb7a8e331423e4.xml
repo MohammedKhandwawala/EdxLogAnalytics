@@ -1,0 +1,13 @@
+<problem display_name="Problem 8" markdown="Refer B-02 from Exercises Set B&#10;Which of the following statements is true?&#10;[ ] The process must be assumed to be a quasi-static process.&#10;[x] We need to use the equation of state of air.&#10;[x] Since the container is rigid, the system will not do any expansion work.&#10;[x] Other than stirrer work, there is no other mode of work in action.&#10;[ ] The system is adiabatic.&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Refer B-02 from Exercises Set B</p>
+  <p>Which of the following statements is true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">The process must be assumed to be a quasi-static process.</choice>
+      <choice correct="true">We need to use the equation of state of air.</choice>
+      <choice correct="true">Since the container is rigid, the system will not do any expansion work.</choice>
+      <choice correct="true">Other than stirrer work, there is no other mode of work in action.</choice>
+      <choice correct="false">The system is adiabatic.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

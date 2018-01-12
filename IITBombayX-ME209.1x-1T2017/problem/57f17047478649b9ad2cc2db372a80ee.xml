@@ -1,0 +1,15 @@
+<problem display_name="Problem 5" markdown=" Let system B be an open bottle with boundaries as the boundaries of the bottle and an imaginary cap.Student X says that system B may be a closed system as long as there is no mass transfer occurring. Student Y argues that a system must be an open system if mass transfer can occur, even though it may not. Who is correct?&#10;     ( ) Student X&#10;     (x) Student Y&#10;     &#10;[explanation]&#10;Open, closed and isolated systems are defined depending on whether mass is allowed to travel across the system boundaries. Whether the transfer of mass actually occurs is irrelevant while classifying the system.&#10;[explanation]" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p> Let system B be an open bottle with boundaries as the boundaries of the bottle and an imaginary cap.Student X says that system B may be a closed system as long as there is no mass transfer occurring. Student Y argues that a system must be an open system if mass transfer can occur, even though it may not. Who is correct?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Student X</choice>
+      <choice correct="true">Student Y</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Open, closed and isolated systems are defined depending on whether mass is allowed to travel across the system boundaries. Whether the transfer of mass actually occurs is irrelevant while classifying the system.</p>
+    </div>
+  </solution>
+</problem>

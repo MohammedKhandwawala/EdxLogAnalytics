@@ -1,0 +1,18 @@
+<problem display_name="Problem 3" markdown="null" max_attempts="4" showanswer="past_due" weight="1.0">
+  <p>What is the dryness fraction in C3–01 at thermal equilibrium if the amount of steam had been 1 kg instead of 2 kg initially?</p>
+  <numericalresponse answer="0.1933">
+    <responseparam type="tolerance" default="0.02"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Constant volume process</p>
+      <p>Therefore, [mathjaxinline]v_1 = v_2 = v_{cp} = 0.0031056 [/mathjaxinline]m[mathjaxinline]^3[/mathjaxinline]/kg</p>
+      <p>State 1: [mathjaxinline]T_{cp} = 373.946 [/mathjaxinline] °C and [mathjaxinline]P_{cp} = 22.064[/mathjaxinline] MPa.</p>
+      <p>State 2: [mathjaxinline]T_2[/mathjaxinline] = 350 °C</p>
+      <p>[mathjaxinline]v_{f2} = 0.00174002 [/mathjaxinline]m[mathjaxinline]^3[/mathjaxinline]/kg and [mathjaxinline]v_{g2} = 0.0088024[/mathjaxinline] m[mathjaxinline]^3[/mathjaxinline]/kg.</p>
+      <p>[mathjaxinline]x = \frac{v_2-v_{f2}}{v_{fg2}}=0.1933[/mathjaxinline]</p>
+    </div>
+  </solution>
+</problem>

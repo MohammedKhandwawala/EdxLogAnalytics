@@ -1,0 +1,9 @@
+<problem display_name="Problem 9" markdown="Work extracted from an adiabatic turbine is maximum when_________&#10;( ) expansion process is isothermal&#10;(x) expansion process is isentropic &#10;&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Work extracted from an adiabatic turbine is maximum when_________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">expansion process is isothermal</choice>
+      <choice correct="true">expansion process is isentropic</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

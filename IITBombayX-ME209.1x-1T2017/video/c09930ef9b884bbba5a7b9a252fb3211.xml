@@ -1,0 +1,10 @@
+<video youtube="1.00:sGyr_vOWuF8" url_name="c09930ef9b884bbba5a7b9a252fb3211" display_name="The Ideal Gas Kelvin Scale " download_track="true" download_video="true" edx_video_id="IITME2092014-V007400" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007400_100.mp4&quot;]" sub="IITME2092014-V007400_100" youtube_id_0_75="" youtube_id_1_0="sGyr_vOWuF8" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007400_100.mp4"/>
+  <video_asset client_video_id="ME209x_S046_The_Ideal_Gas_kelvin_Scale_IIT_Bombay" duration="433.6">
+    <encoded_video bitrate="729" file_size="39560874" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007400_MB1.mp4"/>
+    <encoded_video bitrate="529" file_size="28724391" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007400_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="61229599" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007400_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="56282261" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007400_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007400_100.mp3"/>
+  </video_asset>
+</video>

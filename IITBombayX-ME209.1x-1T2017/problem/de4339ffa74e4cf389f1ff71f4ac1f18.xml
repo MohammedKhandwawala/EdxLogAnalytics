@@ -1,0 +1,11 @@
+<problem display_name="Problem 1" markdown="What is the approximate specific enthalpy value of a 0.5 kg steam if its pressure is 3 bar and the entropy is 2.85 kJ/kg K?&#10;&#10;( ) 100 kJ/kg&#10;(x) 1100 kJ/kg&#10;( ) 800 kJ/kg&#10;( ) 2200 kJ/kg&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What is the approximate specific enthalpy value of a 0.5 kg steam if its pressure is 3 bar and the entropy is 2.85 kJ/kg K?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">100 kJ/kg</choice>
+      <choice correct="true">1100 kJ/kg</choice>
+      <choice correct="false">800 kJ/kg</choice>
+      <choice correct="false">2200 kJ/kg</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

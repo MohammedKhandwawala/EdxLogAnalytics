@@ -1,0 +1,7 @@
+<problem display_name="Problem 3" markdown="A 2T refrigerator works between 250 K and 300 K. Its COP cannot be higher than __________&#10;= 5.0 +- 0.2&#10;&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A 2T refrigerator works between 250 K and 300 K. Its COP cannot be higher than __________</p>
+  <numericalresponse answer="5.0">
+    <responseparam type="tolerance" default="0.2"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

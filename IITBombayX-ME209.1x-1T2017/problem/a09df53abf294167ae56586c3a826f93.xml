@@ -1,0 +1,10 @@
+<problem display_name="Problem 5" markdown="Which of the following things are different in case of real gases than ideal gases? &#10;&#10;[x] They do not obey [mathjaxinline]P  v =   R     T[/mathjaxinline].&#10;[x] They have their own equation of state.&#10;[x] The attractive forces in real gases are significant as compared to those in ideal gases." max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following things are different in case of real gases than ideal gases? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">They do not obey [mathjaxinline]P  v =   R     T[/mathjaxinline].</choice>
+      <choice correct="true">They have their own equation of state.</choice>
+      <choice correct="true">The attractive forces in real gases are significant as compared to those in ideal gases.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

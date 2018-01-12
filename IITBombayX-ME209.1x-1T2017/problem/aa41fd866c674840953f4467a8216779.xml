@@ -1,0 +1,17 @@
+<problem display_name="Problem 4" markdown="&gt;&gt;A student measures the mass of system A over a certain time interval. He finds that the mass remains constant. What can we conclude about the system A?  [select one or more] &lt;&lt;&#10;&#10;[ ] System A must be an isolated system.&#10;[ ] System A must either be a closed system or an isolated system.&#10;[ ] System A must be a closed system.&#10;[x] Nothing can be concluded. System A may be isolated, closed or open.&#10;&#10;[explanation]&#10;Open, closed and isolated systems are defined depending on whether mass is allowed to travel across the system boundaries. Even if the mass was constant over an interval of time, it gives us no information as to whether flow of mass is actually permitted across boundaries or not.&#10;[explanation]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A student measures the mass of system A over a certain time interval. He finds that the mass remains constant. What can we conclude about the system A?  [select one or more] </p>
+  <choiceresponse>
+    <checkboxgroup label="A student measures the mass of system A over a certain time interval. He finds that the mass remains constant. What can we conclude about the system A?  [select one or more] " direction="vertical">
+      <choice correct="false">System A must be an isolated system.</choice>
+      <choice correct="false">System A must either be a closed system or an isolated system.</choice>
+      <choice correct="false">System A must be a closed system.</choice>
+      <choice correct="true">Nothing can be concluded. System A may be isolated, closed or open.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Open, closed and isolated systems are defined depending on whether mass is allowed to travel across the system boundaries. Even if the mass was constant over an interval of time, it gives us no information as to whether flow of mass is actually permitted across boundaries or not.</p>
+    </div>
+  </solution>
+</problem>

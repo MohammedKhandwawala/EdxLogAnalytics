@@ -1,0 +1,15 @@
+<problem display_name="Problem 2" markdown="null" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>The maximum work that a system can do in any process equals the decrease in the Helmholtz function of the system.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The statement is true only for an <u>isothermal</u> process, for  any process.</p>
+    </div>
+  </solution>
+</problem>

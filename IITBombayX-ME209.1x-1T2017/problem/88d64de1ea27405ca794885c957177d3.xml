@@ -1,0 +1,18 @@
+<problem display_name="Problem 4" markdown="Refer A-03 from Exercises Set A. &#10;What are the major modes of work interaction that take place in the system according to the data provided?&#10;&#10;[x] Expansion mode &#10;[ ] Electric mode &#10;[ ] Magnetic mode &#10;[x] Stirrer mode &#10;&#10;[explanation]&#10;According to the data available in A-03, there is no indication of any electric or magnetic mode of work interaction.&#10;[explanation]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Refer A-03 from Exercises Set A. </p>
+  <p>What are the major modes of work interaction that take place in the system according to the data provided?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Expansion mode </choice>
+      <choice correct="false">Electric mode </choice>
+      <choice correct="false">Magnetic mode </choice>
+      <choice correct="true">Stirrer mode </choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>According to the data available in A-03, there is no indication of any electric or magnetic mode of work interaction.</p>
+    </div>
+  </solution>
+</problem>

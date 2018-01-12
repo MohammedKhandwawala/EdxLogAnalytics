@@ -1,0 +1,19 @@
+<problem display_name="Problem 4" markdown="State 1 is at pressure p[mathjaxinline]_1[/mathjaxinline], specific thermal energy (u[mathjaxinline]_1[/mathjaxinline]) and specific volume v[mathjaxinline]_1[/mathjaxinline].State  2  is at  pressure   p[mathjaxinline]_2[/mathjaxinline] ( p[mathjaxinline]_2[/mathjaxinline] =  2 * p[mathjaxinline]_1[/mathjaxinline]) ,  specific thermal energy u[mathjaxinline]_2[/mathjaxinline] ( u[mathjaxinline]_2[/mathjaxinline] = 1.5 * u[mathjaxinline]_1[/mathjaxinline])    and   specific volume    v[mathjaxinline]_2[/mathjaxinline]  ( v[mathjaxinline]_2[/mathjaxinline] =  0.75  * v[mathjaxinline]_1[/mathjaxinline]).The ratio of their specific enthalpies (h2/h1)  is&#10;&#10;= 1.5&#10;[explanation]&#10;State 1: p1, u1, v1.&#10;&#10;State 2: p2= 2* p1, u2 = 1.5*u1, v2 = 0.75* v1&#10;&#10;from h=u+pv,&#10;&#10;h1 = u1+p1*v1&#10;&#10;h2=u2+p2*v2&#10;&#10;h2=1.5* u1 + 2*0.75 (p1*v1)&#10;&#10;h2=1.5 h1&#10;&#10;Therefore, h2/h1 = 1.5&#10;[explanation]&#10;&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>State 1 is at pressure p[mathjaxinline]_1[/mathjaxinline], specific thermal energy (u[mathjaxinline]_1[/mathjaxinline]) and specific volume v[mathjaxinline]_1[/mathjaxinline].State  2  is at  pressure   p[mathjaxinline]_2[/mathjaxinline] ( p[mathjaxinline]_2[/mathjaxinline] =  2 * p[mathjaxinline]_1[/mathjaxinline]) ,  specific thermal energy u[mathjaxinline]_2[/mathjaxinline] ( u[mathjaxinline]_2[/mathjaxinline] = 1.5 * u[mathjaxinline]_1[/mathjaxinline])    and   specific volume    v[mathjaxinline]_2[/mathjaxinline]  ( v[mathjaxinline]_2[/mathjaxinline] =  0.75  * v[mathjaxinline]_1[/mathjaxinline]).The ratio of their specific enthalpies (h2/h1)  is</p>
+  <numericalresponse answer="1.5">
+    <formulaequationinput/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>State 1: p1, u1, v1.</p>
+      <p>State 2: p2= 2* p1, u2 = 1.5*u1, v2 = 0.75* v1</p>
+      <p>from h=u+pv,</p>
+      <p>h1 = u1+p1*v1</p>
+      <p>h2=u2+p2*v2</p>
+      <p>h2=1.5* u1 + 2*0.75 (p1*v1)</p>
+      <p>h2=1.5 h1</p>
+      <p>Therefore, h2/h1 = 1.5</p>
+    </div>
+  </solution>
+</problem>

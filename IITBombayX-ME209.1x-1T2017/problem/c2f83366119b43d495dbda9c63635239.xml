@@ -1,0 +1,20 @@
+<problem display_name="Problem 1" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which one of the following best represents a model of the particles in a solid?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">
+        <img src="/static/A.png" height="125" width="125"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/B.png" height="125" width="125"/>
+      </choice>
+      <choice correct="true">
+        <img src="/static/C.png" height="125" width="125"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/D.png" height="125" width="125"/>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

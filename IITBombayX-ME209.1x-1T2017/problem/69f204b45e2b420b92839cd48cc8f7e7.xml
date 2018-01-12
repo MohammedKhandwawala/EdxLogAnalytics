@@ -1,0 +1,12 @@
+<problem display_name="Problem 3" markdown="We have a 2T heat engine that operates between two reservoirs R and S at [mathjaxinline]T_R[/mathjaxinline] and [mathjaxinline]T_S[/mathjaxinline]respectively. It absorbs heat from reservoir S and rejects heat to reservoir R. We connect a conductor between the two reservoirs. In which direction will heat flow through the conductor?&#10;&#10;     ( ) Heat will flow only from R to S.&#10;     (x) Heat will flow only from S to R.&#10;     ( ) Heat may flow in either direction.&#10;     ( ) There will be not be any heat flow through the conductor.&#10;&#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>We have a 2T heat engine that operates between two reservoirs R and S at [mathjaxinline]T_R[/mathjaxinline] and [mathjaxinline]T_S[/mathjaxinline]respectively. It absorbs heat from reservoir S and rejects heat to reservoir R. We connect a conductor between the two reservoirs. In which direction will heat flow through the conductor?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Heat will flow only from R to S.</choice>
+      <choice correct="true">Heat will flow only from S to R.</choice>
+      <choice correct="false">Heat may flow in either direction.</choice>
+      <choice correct="false">There will be not be any heat flow through the conductor.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

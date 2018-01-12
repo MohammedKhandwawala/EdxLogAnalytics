@@ -1,0 +1,10 @@
+<video youtube="1.00:ktecwW6LM5E" url_name="d53cabbd7bae45bba51173bed988be3c" display_name="Temperature Levels 2" download_track="true" download_video="true" edx_video_id="IITME2092014-V014100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014100_DTH.mp4&quot;]" sub="IITME2092014-V014100_DTH" youtube_id_0_75="" youtube_id_1_0="ktecwW6LM5E" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014100_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S111_Temperature_Levels_2_IIT_Bombay" duration="665.88">
+    <encoded_video bitrate="122" file_size="10164940" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014100_MB2.mp4"/>
+    <encoded_video bitrate="164" file_size="13727350" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014100_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="24132313" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014100_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="89278248" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V014100_AUD.mp3"/>
+  </video_asset>
+</video>

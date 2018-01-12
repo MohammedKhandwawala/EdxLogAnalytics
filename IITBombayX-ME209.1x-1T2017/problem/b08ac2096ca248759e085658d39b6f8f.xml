@@ -1,0 +1,15 @@
+<problem display_name="Problem 1" markdown="null" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>For a simple compressible system at rest execting a reversible cycle, the area in the [mathjaxinline]p-V[/mathjaxinline] diagram and the area in the [mathjaxinline]T-S[/mathjaxinline]  diagram are equal.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p> In this case, the [mathjaxinline]p-V[/mathjaxinline] area represents work done, and the [mathjaxinline]T-S[/mathjaxinline] area represents heat transfer. For a cycle, they are equal (First Law).</p>
+    </div>
+  </solution>
+</problem>

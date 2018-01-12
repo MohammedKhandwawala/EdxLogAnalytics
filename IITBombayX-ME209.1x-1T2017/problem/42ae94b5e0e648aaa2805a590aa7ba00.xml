@@ -1,0 +1,18 @@
+<problem display_name="Problem 5" markdown="Which of the following statements are true.&#10;&#10;[x] A 1T refrigerator cannot be created.&#10;[x] A 2T refrigerator must absorb work.&#10;[ ] A 3T refrigerator without any work interaction always violates the Second Law.&#10;[explanation]&#10;A is based on the Kelvin-Planck Statement.&#10;B is a derivation.&#10;C may not violate the Second Law if it satisfies the Clausius Inequality.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following statements are true.</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">A 1T refrigerator cannot be created.</choice>
+      <choice correct="true">A 2T refrigerator must absorb work.</choice>
+      <choice correct="false">A 3T refrigerator without any work interaction always violates the Second Law.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A is based on the Kelvin-Planck Statement.</p>
+      <p>B is a derivation.</p>
+      <p>C may not violate the Second Law if it satisfies the Clausius Inequality.</p>
+    </div>
+  </solution>
+</problem>

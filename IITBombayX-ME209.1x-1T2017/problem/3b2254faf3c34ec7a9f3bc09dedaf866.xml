@@ -1,0 +1,12 @@
+<problem display_name="Problem 7" markdown="p = 0.2 MPa,  v = 0.1 m[mathjaxinline]^3[/mathjaxinline]/kg&#10;&#10;(x) Wet vapour&#10;( ) Dry saturated vapour&#10;( ) Saturated liquid&#10;( ) Superheated steam&#10;( ) Subcooled liquid&#10;&#10;" max_attempts="4" showanswer="past_due" weight="1.0">
+  <p>p = 0.2 MPa,  v = 0.1 m[mathjaxinline]^3[/mathjaxinline]/kg</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Wet vapour</choice>
+      <choice correct="false">Dry saturated vapour</choice>
+      <choice correct="false">Saturated liquid</choice>
+      <choice correct="false">Superheated steam</choice>
+      <choice correct="false">Subcooled liquid</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

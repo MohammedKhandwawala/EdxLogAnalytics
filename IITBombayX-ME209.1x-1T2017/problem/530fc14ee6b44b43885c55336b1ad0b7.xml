@@ -1,0 +1,15 @@
+<problem display_name="Problem 11" markdown="&gt;&gt;At triple point, water is a pure substance.&lt;&lt;&#10;     (x) True&#10;     ( ) False&#10;    &#10;     &#10;[explanation]&#10;The composition is still H2O.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>At triple point, water is a pure substance.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="At triple point, water is a pure substance." type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The composition is still H2O.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,6 @@
+<problem display_name="Problem 9" markdown="For water in supercritical zone, number of independent intensive properties required to completely define its state is_____&#10;= 2&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>For water in supercritical zone, number of independent intensive properties required to completely define its state is_____</p>
+  <numericalresponse answer="2">
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

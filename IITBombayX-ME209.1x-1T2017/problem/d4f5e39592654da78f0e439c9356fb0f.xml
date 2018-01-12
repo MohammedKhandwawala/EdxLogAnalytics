@@ -1,0 +1,17 @@
+<problem display_name="Problem 2" markdown="&gt;&gt;System B is a rigid cylinder with an open port.  Which of these characteristics of the system are least likely to change in a process undergone by system B?&lt;&lt;&#10;     ( ) Temperature&#10;     ( ) Pressure&#10;     ( ) Mass&#10;     (x) Volume&#10;     &#10;[explanation]&#10;Since the port is open, mass can flow in or out. Temperature and pressure can both change with gain or loss of heat. Since the cylinder is rigid, it is unlikely that volume will change during a system process.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>System B is a rigid cylinder with an open port.  Which of these characteristics of the system are least likely to change in a process undergone by system B?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="System B is a rigid cylinder with an open port.  Which of these characteristics of the system are least likely to change in a process undergone by system B?" type="MultipleChoice">
+      <choice correct="false">Temperature</choice>
+      <choice correct="false">Pressure</choice>
+      <choice correct="false">Mass</choice>
+      <choice correct="true">Volume</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Since the port is open, mass can flow in or out. Temperature and pressure can both change with gain or loss of heat. Since the cylinder is rigid, it is unlikely that volume will change during a system process.</p>
+    </div>
+  </solution>
+</problem>

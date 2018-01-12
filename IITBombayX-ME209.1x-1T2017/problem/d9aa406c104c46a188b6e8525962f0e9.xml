@@ -1,0 +1,11 @@
+<problem display_name="Problem 6" markdown="Which of the following can be classified as fluids at room temperature?&#10;[ ] Rubber&#10;[x] Water&#10;[ ] Cotton&#10;[x] Air&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following can be classified as fluids at room temperature?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">Rubber</choice>
+      <choice correct="true">Water</choice>
+      <choice correct="false">Cotton</choice>
+      <choice correct="true">Air</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:7-5TAbj8tK4" url_name="0152549ce21a4137b9bfda4462223831" display_name="The First Law 4 : The Heat Interaction  " download_track="true" download_video="true" edx_video_id="IITME2092014-V006100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006100_100.mp4&quot;]" sub="IITME2092014-V006100_100" youtube_id_0_75="" youtube_id_1_0="7-5TAbj8tK4" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006100_100.mp4"/>
+  <video_asset client_video_id="ME209x_S034D_The_First_Law_4_The_Heat_Interaction _IIT_Bombay" duration="328.75">
+    <encoded_video bitrate="522" file_size="21457000" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006100_MB2.mp4"/>
+    <encoded_video bitrate="720" file_size="29622006" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006100_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="45628128" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006100_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="34090442" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006100_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V006100_100.mp3"/>
+  </video_asset>
+</video>

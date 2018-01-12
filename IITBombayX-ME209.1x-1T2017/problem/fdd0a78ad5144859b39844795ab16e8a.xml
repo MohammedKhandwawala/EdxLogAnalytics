@@ -1,0 +1,11 @@
+<problem display_name="Problem 1" markdown="What all types of work are involved in C3-08?&#10;&#10;[x] Expansion work&#10;[x] Stirrer work&#10;[ ] Electric work&#10;[ ] Magnetic work&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What all types of work are involved in C3-08?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Expansion work</choice>
+      <choice correct="true">Stirrer work</choice>
+      <choice correct="false">Electric work</choice>
+      <choice correct="false">Magnetic work</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Problem 9" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following equations is/are true in case of steady state operation of an open system?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">[mathjaxinline] \dot{Q} - \dot{W_s} = \dot{m}\bigl\{h_i + \frac{V_i^2}{2} + gz_i \bigr\} - \dot{m}\bigl\{h_e + \frac{V_e^2}{2} + gz_e \bigr\}[/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]  \dot{Q} - \dot{W_s} = \dot{m}\bigl\{h_e+ \frac{V_e^2}{2} + gz_e \bigr\} - \dot{m} \bigl\{h_i + \frac{V_i^2}{2} + gz_i \bigr\} [/mathjaxinline] </choice>
+      <choice correct="true">[mathjaxinline] \dot{m}(s_e – s_i) = \Sigma(\frac{\dot{Q}}{T}) + \dot{S_p} [/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]\dot{m}(s_i – s_e) = \Sigma(\frac{\dot{Q}}{T}) + \dot{S_p} [/mathjaxinline]</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <p> </p>
+</problem>

@@ -1,0 +1,17 @@
+<problem display_name="Problem 2" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>How many parameters does the Van der Waals equation have?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1</choice>
+      <choice correct="false">2</choice>
+      <choice correct="true">3</choice>
+      <choice correct="false">4</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p> The parameters are [mathjaxinline]a[/mathjaxinline], [mathjaxinline]b[/mathjaxinline] and [mathjaxinline]R[/mathjaxinline].</p>
+    </div>
+  </solution>
+</problem>

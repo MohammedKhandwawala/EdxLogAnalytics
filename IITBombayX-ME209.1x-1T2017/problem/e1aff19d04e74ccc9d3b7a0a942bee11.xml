@@ -1,0 +1,11 @@
+<problem display_name="" markdown="Your impression of the contents of the course:&#10;( ) Much of the content was new to me, and hence I learnt a lot.&#10;( ) I was familiar with some content, but I learnt many topics that I had not learnt earlier.&#10;( ) I was familiar with much of the content, only a few topics were new for me.&#10;( ) I was familiar with most of the topics covered here, there was hardly anything new for me to learn.&#10;" max_attempts="0" showanswer="never" weight="0.0">
+  <p>Your impression of the contents of the course:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Much of the content was new to me, and hence I learnt a lot.</choice>
+      <choice correct="false">I was familiar with some content, but I learnt many topics that I had not learnt earlier.</choice>
+      <choice correct="false">I was familiar with much of the content, only a few topics were new for me.</choice>
+      <choice correct="false">I was familiar with most of the topics covered here, there was hardly anything new for me to learn.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

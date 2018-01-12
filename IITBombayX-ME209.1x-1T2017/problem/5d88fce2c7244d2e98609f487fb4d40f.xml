@@ -1,0 +1,18 @@
+<problem display_name="Problem 2" markdown="&gt;&gt;Which of the following are NOT primitives in thermodynamics?(Select one or more)&lt;&lt;&#10;[x] Entropy&#10;[ ] Volume&#10;[x] Enthalpy&#10;[ ] Electric Current&#10;[ ] Work&#10;&#10;[explanation]&#10;Volume is defined in geometry, and electric current and work are defined in other branches of physics.&#10;[explanation]" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following are NOT primitives in thermodynamics?(Select one or more)</p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following are NOT primitives in thermodynamics?(Select one or more)" direction="vertical">
+      <choice correct="true">Entropy</choice>
+      <choice correct="false">Volume</choice>
+      <choice correct="true">Enthalpy</choice>
+      <choice correct="false">Electric Current</choice>
+      <choice correct="false">Work</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Volume is defined in geometry, and electric current and work are defined in other branches of physics.</p>
+    </div>
+  </solution>
+</problem>

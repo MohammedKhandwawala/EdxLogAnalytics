@@ -1,0 +1,10 @@
+<video youtube="1.00:0VcudXdHB9E" url_name="036bd8fc51c84ec6a24f52129e82a7fb" display_name="The Properties of an Ideal Gas " download_track="true" download_video="true" edx_video_id="IITME2092014-V007900" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007900_100.mp4&quot;]" sub="0VcudXdHB9E" youtube_id_0_75="" youtube_id_1_0="0VcudXdHB9E" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007900_100.mp4"/>
+  <video_asset client_video_id="ME209x_S051_The_Properties_of_an_Ideal_Gas_IIT_Bombay" duration="863.98">
+    <encoded_video bitrate="530" file_size="57241424" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007900_MB2.mp4"/>
+    <encoded_video bitrate="719" file_size="77754531" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007900_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="122019667" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007900_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="105740799" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007900_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007900_100.mp3"/>
+  </video_asset>
+</video>

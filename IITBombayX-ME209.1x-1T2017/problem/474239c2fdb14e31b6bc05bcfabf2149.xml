@@ -1,0 +1,11 @@
+<problem display_name="Problem 2" markdown="A particular state lies on the Solid - Liquid Saturation Line. For the given state,&#10;&#10;(x)[mathjaxinline] F=1 [/mathjaxinline]&#10;( )[mathjaxinline] F=2 [/mathjaxinline]&#10;( )[mathjaxinline] F=3 [/mathjaxinline]&#10;( )[mathjaxinline] F=0 [/mathjaxinline]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A particular state lies on the Solid - Liquid Saturation Line. For the given state,</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">[mathjaxinline] F=1 [/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline] F=2 [/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline] F=3 [/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline] F=0 [/mathjaxinline]</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

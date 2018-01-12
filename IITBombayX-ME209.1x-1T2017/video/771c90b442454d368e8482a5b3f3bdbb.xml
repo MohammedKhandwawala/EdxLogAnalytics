@@ -1,0 +1,10 @@
+<video youtube="1.00:13LBto5JHdU" url_name="771c90b442454d368e8482a5b3f3bdbb" display_name="The Clausius Inequality 2" download_track="true" download_video="true" edx_video_id="IITME2092014-V016100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016100_DTH.mp4&quot;]" sub="13LBto5JHdU" youtube_id_0_75="" youtube_id_1_0="13LBto5JHdU" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016100_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S131_The_Clausius_Inequality_2_IIT_Bombay" duration="772.61">
+    <encoded_video bitrate="204" file_size="19703615" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016100_MB1.mp4"/>
+    <encoded_video bitrate="132" file_size="12776886" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016100_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="47208412" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016100_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="103446963" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016100_AUD.mp3"/>
+  </video_asset>
+</video>

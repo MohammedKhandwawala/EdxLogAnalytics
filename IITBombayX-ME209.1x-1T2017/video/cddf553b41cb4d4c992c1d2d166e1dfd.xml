@@ -1,0 +1,10 @@
+<video youtube="1.00:2NIBysCYPeM" url_name="cddf553b41cb4d4c992c1d2d166e1dfd" display_name="Properties and Derivatives" download_track="true" download_video="true" edx_video_id="IITME2092014-V018600" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018600_DTH.mp4&quot;]" sub="IITME2092014-V018600_DTH" youtube_id_0_75="" youtube_id_1_0="2NIBysCYPeM" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018600_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S204_Properties_and_Derivatives_IIT_Bombay" duration="437.08">
+    <encoded_video bitrate="296" file_size="16175106" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018600_MB1.mp4"/>
+    <encoded_video bitrate="163" file_size="8955977" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018600_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="46242230" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018600_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="55246510" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018600_AUD.mp3"/>
+  </video_asset>
+</video>

@@ -1,0 +1,10 @@
+<problem display_name="Problem 6" markdown="If you go on increasing the temperature of a fluid, it will hit the saturation line at least once. &#10;&#10;     ( ) True&#10;     (x) False&#10;    " max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>If you go on increasing the temperature of a fluid, it will hit the saturation line at least once. </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+</problem>

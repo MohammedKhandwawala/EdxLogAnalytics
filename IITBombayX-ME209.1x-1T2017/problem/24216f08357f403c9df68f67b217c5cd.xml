@@ -1,0 +1,17 @@
+<problem display_name="Problem 6" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following represents exact differentials?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">[mathjaxinline]dE[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]dQ/T[/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]dW_{adiabatic}[/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline](dQ/T)_{reversible}[/mathjaxinline]</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Energy is a property, the third option is one according the First law, and the fourth option is one according to the Second Law. </p>
+    </div>
+  </solution>
+</problem>

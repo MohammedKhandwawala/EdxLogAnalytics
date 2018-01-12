@@ -1,0 +1,15 @@
+<problem display_name="Problem 2" markdown="A 2T heat engine may absorb heat from each of the reservoirs.&#10;     ( ) True&#10;     (x) False&#10;     &#10;     &#10;[explanation]&#10;Such an engine will violate the Second Law.&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>A 2T heat engine may absorb heat from each of the reservoirs.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Such an engine will violate the Second Law.</p>
+    </div>
+  </solution>
+</problem>

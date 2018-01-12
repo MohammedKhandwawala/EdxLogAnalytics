@@ -1,0 +1,18 @@
+<course advertised_start="null" cert_html_view_enabled="true" certificates="{&quot;certificates&quot;: [{&quot;description&quot;: &quot;Description of the certificate&quot;, &quot;is_active&quot;: true, &quot;signatories&quot;: [{&quot;name&quot;: &quot;Uday N Gaitonde&quot;, &quot;certificate&quot;: 1659637176, &quot;title&quot;: &quot;Professor of Mechanical Engineering&quot;, &quot;organization&quot;: &quot;IIT Bombay, India&quot;, &quot;signature_image_path&quot;: &quot;/asset-v1:IITBombayX+ME209.1x+1T2016+type@asset+block@GaitondeSir.png&quot;, &quot;id&quot;: 61105825}, {&quot;name&quot;: &quot;Upendra Bhandarkar&quot;, &quot;certificate&quot;: 1659637176, &quot;title&quot;: &quot;Professor of Mechanical Engineering&quot;, &quot;organization&quot;: &quot;IIT Bombay, India&quot;, &quot;signature_image_path&quot;: &quot;/asset-v1:IITBombayX+ME209.1x+1T2016+type@asset+block@BhandarkarSir.png&quot;, &quot;id&quot;: 742155242}, {&quot;name&quot;: &quot;Milind Atrey&quot;, &quot;certificate&quot;: 1659637176, &quot;title&quot;: &quot;Professor of Mechanical Engineering&quot;, &quot;organization&quot;: &quot;IIT Bombay, India&quot;, &quot;signature_image_path&quot;: &quot;/asset-v1:IITBombayX+ME209.1x+1T2016+type@asset+block@AtreySir.png&quot;, &quot;id&quot;: 316421991}], &quot;version&quot;: 1, &quot;id&quot;: 1659637176, &quot;name&quot;: &quot;Name of the certificate&quot;}]}" course_image="IITBx-ME209x-Course-Banner.jpg" days_early_for_beta="60.0" display_name="Thermodynamics" end="&quot;2017-06-30T06:30:00+00:00&quot;" enrollment_end="null" enrollment_start="null" graceperiod="" info_sidebar_name="Course Handouts" instructor_info="{&quot;instructors&quot;: []}" learning_info="[]" mobile_available="true" self_paced="true" start="&quot;2017-01-01T06:30:00+00:00&quot;" video_upload_pipeline="{&quot;course_video_upload_token&quot;: &quot;8b6d24a67c8e11e4a37828cfe91be749&quot;}">
+  <chapter url_name="8956e4bf83124c078418f33c90efefb9"/>
+  <chapter url_name="69ba54a850bb45ccac1494c82d6c62db"/>
+  <chapter url_name="616ea534796342a0a4be977860c7d0f7"/>
+  <chapter url_name="719c8291f6c0477b91fa25253b217365"/>
+  <chapter url_name="d82cd559c76e40639a9420646cdee62c"/>
+  <chapter url_name="79416e9d1dfc433cafcd24d07d191ed5"/>
+  <chapter url_name="a5377ba8f9d247759830f6cf8fd31f87"/>
+  <chapter url_name="4d85aef42ebc4a5aab7bdb5775f20073"/>
+  <chapter url_name="8234ffbac09d4065ab7cc504731690a4"/>
+  <chapter url_name="a3bed888a2994b23ae4c277c5fb6a4b3"/>
+  <chapter url_name="aeee7da95c0e4cf997165cbb9bac1299"/>
+  <chapter url_name="89c56a1bcfe447ff9cae2eeea3f9c19a"/>
+  <chapter url_name="41ccc2a460da43b089a85bbedc7801a6"/>
+  <chapter url_name="0a62beb5b6fb43679046fc32a01b554c"/>
+  <chapter url_name="9af0fd7105d14cd8b31ac2b70645838b"/>
+  <wiki slug="IITBombayX.ME209.1x.1T2017"/>
+</course>

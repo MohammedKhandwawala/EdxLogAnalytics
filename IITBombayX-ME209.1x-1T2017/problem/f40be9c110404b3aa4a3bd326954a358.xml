@@ -1,0 +1,37 @@
+<problem display_name=" Problem 7 [Part 1]" markdown="null" max_attempts="1" showanswer="past_due" weight="6.0">
+  <p alig="justify">An insulated rigid tank contains 1.5 kg of helium at 30[mathjaxinline]^\circ[/mathjaxinline]C and 500 kPa. A paddle wheel with a power rating of 0.1 kW is operated within the tank for 30 minutes.  [mathjaxinline]C_v [/mathjaxinline]of helium = 3.12 KJ/Kg.K</p>
+  <p><b>Problem 7A.</b> Calculate the net work done by helium, in kJ. Enter the number with appropriate sign.</p>
+  <numericalresponse answer="-180">
+    <responseparam type="tolerance" default="10"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 7B.</b> What is the final temperature of helium, in [mathjaxinline]^\circ[/mathjaxinline]C ?</p>
+  <numericalresponse answer="68.46">
+    <responseparam type="tolerance" default="1.6"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 7C.</b> What is the final pressure of helium, in kPa?</p>
+  <numericalresponse answer="543.5">
+    <responseparam type="tolerance" default="25"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 7D.</b> What is the change in entropy of helium, in J/K?</p>
+  <numericalresponse answer="559.2">
+    <responseparam type="tolerance" default="25"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 7E.</b> How much entropy is produced during the process, in J/K?</p>
+  <numericalresponse answer="559.2">
+    <responseparam type="tolerance" default="25"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 7F.</b> What are the causes of the entropy production?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">Violation of the second law</choice>
+      <choice correct="false">An adiabatic process</choice>
+      <choice correct="true">The stirrer work</choice>
+      <choice correct="false">The increase in temperature</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:QBXbw-o_VBo" url_name="dff8899c6e6a4b3791c83d6993803eaa" display_name="Entropy Change for Water/Steam " download_track="true" download_video="true" edx_video_id="IITME2092014-V017500" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017500_DTH.mp4&quot;]" sub="IITME2092014-V017500_DTH" youtube_id_0_75="" youtube_id_1_0="QBXbw-o_VBo" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017500_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S145_Entropy_Change_for_Water_Steam_IIT_Bombay" duration="156.33">
+    <encoded_video bitrate="262" file_size="5138436" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017500_MB2.mp4"/>
+    <encoded_video bitrate="629" file_size="12294598" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017500_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="40239590" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017500_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="19650037" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017500_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017500_AUD.mp3"/>
+  </video_asset>
+</video>

@@ -1,0 +1,16 @@
+<problem display_name="Problem 3" markdown=" &#10;&#10;&gt;&gt;A system goes from state A to state B and then returns to state A. If the process from state A to state B is a quasi-static process, the returning process from state B to state A must also be a quasi-static process.&lt;&lt;&#10;     ( ) True&#10;     (x) False&#10;     &#10;[explanation]&#10;A system can go from one state to another state by a quasi-static or a non quasi-static process.  This has no relation to previous states or processes of system.&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p> </p>
+  <p>A system goes from state A to state B and then returns to state A. If the process from state A to state B is a quasi-static process, the returning process from state B to state A must also be a quasi-static process.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="A system goes from state A to state B and then returns to state A. If the process from state A to state B is a quasi-static process, the returning process from state B to state A must also be a quasi-static process." type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A system can go from one state to another state by a quasi-static or a non quasi-static process.  This has no relation to previous states or processes of system.</p>
+    </div>
+  </solution>
+</problem>

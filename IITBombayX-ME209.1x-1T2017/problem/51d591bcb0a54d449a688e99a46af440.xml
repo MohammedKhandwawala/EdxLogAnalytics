@@ -1,0 +1,17 @@
+<problem display_name="Problem 2" markdown="&gt;&gt;Which of the following is a proper thermodynamic system?  (Select one or more) &lt;&lt;&#10;&#10;[x] The Earth&#10;[ ] The Solar system&#10;[x] The blood inside a human body&#10;[x] The air inside a refrigerator with its door closed &#10;&#10;[explanation]&#10;The Solar system doesn’t have well defined boundaries.&#10;[explanation]&#10;&#10;" max_attempts="3" showanswer="past_due" weight="1.0">
+  <p>Which of the following is a proper thermodynamic system?  (Select one or more) </p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following is a proper thermodynamic system?  (Select one or more) " direction="vertical">
+      <choice correct="true">The Earth</choice>
+      <choice correct="false">The Solar system</choice>
+      <choice correct="true">The blood inside a human body</choice>
+      <choice correct="true">The air inside a refrigerator with its door closed </choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The Solar system doesn’t have well defined boundaries.</p>
+    </div>
+  </solution>
+</problem>

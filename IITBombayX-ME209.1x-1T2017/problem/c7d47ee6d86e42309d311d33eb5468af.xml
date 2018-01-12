@@ -1,0 +1,19 @@
+<problem display_name="Problem 1" markdown="&gt;&gt;Which of the following are assumptions made while analyzing a general system under the classical domain of thermodynamics?[select one or more]&lt;&lt;&#10;&#10;[x] Relativistic effects are neglected.&#10;[ ] The system is perfectly insulated from the surroundings.&#10;[x] No scaling effects (size of system does not matter).&#10;[x] Properties of systems are continuous rather than quantized.&#10;[ ] The volume and shape of the system are constant&#10;[ ] Any process undergone by the system is quasi-static.&#10;&#10;[explanation]&#10;A, C, and D are all assumptions in the classical domain of thermodynamics. We never assume that a general system is perfectly insulated, since we consider heat to be a form of energy transfer. Volume is a state property of the system; it may change during a process. It is not always necessary that a process be quasi-static.&#10;[explanation]&#10;&#10;" max_attempts="3" showanswer="past_due" weight="1.0">
+  <p>Which of the following are assumptions made while analyzing a general system under the classical domain of thermodynamics?[select one or more]</p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following are assumptions made while analyzing a general system under the classical domain of thermodynamics?[select one or more]" direction="vertical">
+      <choice correct="true">Relativistic effects are neglected.</choice>
+      <choice correct="false">The system is perfectly insulated from the surroundings.</choice>
+      <choice correct="true">No scaling effects (size of system does not matter).</choice>
+      <choice correct="true">Properties of systems are continuous rather than quantized.</choice>
+      <choice correct="false">The volume and shape of the system are constant</choice>
+      <choice correct="false">Any process undergone by the system is quasi-static.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A, C, and D are all assumptions in the classical domain of thermodynamics. We never assume that a general system is perfectly insulated, since we consider heat to be a form of energy transfer. Volume is a state property of the system; it may change during a process. It is not always necessary that a process be quasi-static.</p>
+    </div>
+  </solution>
+</problem>

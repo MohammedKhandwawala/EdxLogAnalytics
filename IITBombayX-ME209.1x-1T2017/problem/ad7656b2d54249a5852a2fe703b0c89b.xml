@@ -1,0 +1,9 @@
+<problem display_name="Problem 6 [Part 1]" markdown="null" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p><b>Problem 6A.</b> Work done using a one-way mode of work will always be negative (that is, 'on the system').</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

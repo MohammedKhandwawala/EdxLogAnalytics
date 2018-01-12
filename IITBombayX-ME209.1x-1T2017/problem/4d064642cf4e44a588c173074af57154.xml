@@ -1,0 +1,7 @@
+<problem display_name="Problem 5" markdown="What is the value of the Joule-Kelvin coefficient for an ideal gas is (enter the value in K/Pa):&#10;=  0 +- 0.01&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>What is the value of the Joule-Kelvin coefficient for an ideal gas is (enter the value in K/Pa):</p>
+  <numericalresponse answer="0">
+    <responseparam type="tolerance" default="0.01"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

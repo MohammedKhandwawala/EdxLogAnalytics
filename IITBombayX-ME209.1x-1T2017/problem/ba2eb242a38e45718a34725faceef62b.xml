@@ -1,0 +1,11 @@
+<problem display_name="Problem 6" markdown="The lines that have been plotted on Mollier Diagram are: &#10;&#10;[x] Constant pressure&#10;[x] Constant Temperature&#10;[x] Constant Specific Volume&#10;[x] Constant quality of mixture&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>The lines that have been plotted on Mollier Diagram are: </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Constant pressure</choice>
+      <choice correct="true">Constant Temperature</choice>
+      <choice correct="true">Constant Specific Volume</choice>
+      <choice correct="true">Constant quality of mixture</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<problem display_name="Problem 3" markdown="The Second Law helps us determine which processes are possible and which are not.&#10;     (x) True&#10;     ( ) False&#10;    " max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>The Second Law helps us determine which processes are possible and which are not.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+</problem>

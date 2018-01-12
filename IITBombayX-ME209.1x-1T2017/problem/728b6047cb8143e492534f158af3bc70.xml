@@ -1,0 +1,15 @@
+<problem display_name="Problem 11" markdown="Since the system produces work by interacting with just one reservoir, this process violates the Second Law.&#10;&#10;     ( ) True&#10;     (x) False&#10;[explanation]&#10;The process is NOT a cyclic process.&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Since the system produces work by interacting with just one reservoir, this process violates the Second Law.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The process is NOT a cyclic process.</p>
+    </div>
+  </solution>
+</problem>

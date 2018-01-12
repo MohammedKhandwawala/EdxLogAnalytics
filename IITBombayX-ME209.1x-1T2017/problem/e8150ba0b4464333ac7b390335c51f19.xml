@@ -1,0 +1,10 @@
+<problem display_name="Problem 2" markdown="In any irreversible process, the entropy produced is:&#10;( )zero.&#10;(x)greater than zero.&#10;( )less than zero.&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>In any irreversible process, the entropy produced is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">zero.</choice>
+      <choice correct="true">greater than zero.</choice>
+      <choice correct="false">less than zero.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

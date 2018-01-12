@@ -1,0 +1,10 @@
+<video youtube="1.00:zvLJee8ZvZw" url_name="2ba55d37496243779befbc1e2c3109ee" display_name="Classification of Solids, Liquids and Gases" download_track="true" download_video="true" edx_video_id="IITME2092014-V008800" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V008800_100.mp4&quot;]" sub="IITME2092014-V008800_100" youtube_id_0_75="" youtube_id_1_0="zvLJee8ZvZw" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V008800_100.mp4"/>
+  <video_asset client_video_id="ME209x_S402_Classification_of_Solids_Liquids_and_Gases_IIT_Bombay" duration="347.75">
+    <encoded_video bitrate="524" file_size="22782871" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V008800_MB2.mp4"/>
+    <encoded_video bitrate="729" file_size="31734900" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V008800_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="49121247" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V008800_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="47335457" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V008800_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V008800_100.mp3"/>
+  </video_asset>
+</video>

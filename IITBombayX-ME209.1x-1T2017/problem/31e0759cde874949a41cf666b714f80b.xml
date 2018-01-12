@@ -1,0 +1,10 @@
+<problem display_name="Problem 4" markdown="1kg of water in saturated liquid state is mixed with 2kg of water having dryness fraction x = 0.5 at same pressure. What is the dryness fraction of the resulting mixture?&#10;&#10; (x) 0.33&#10; ( ) 0.5&#10; ( ) 0.66 &#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>1kg of water in saturated liquid state is mixed with 2kg of water having dryness fraction x = 0.5 at same pressure. What is the dryness fraction of the resulting mixture?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">0.33</choice>
+      <choice correct="false">0.5</choice>
+      <choice correct="false">0.66</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

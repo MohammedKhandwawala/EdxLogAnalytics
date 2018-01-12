@@ -1,0 +1,17 @@
+<problem display_name="Problem 1" markdown="&gt;&gt;A thermodynamic system (Select one or more) &lt;&lt;&#10;&#10;[x] has well defined boundaries&#10;[ ] definitely has mass&#10;[x] is a region of space&#10;[x] may have openings&#10;&#10;[explanation]&#10;A thermodynamic system may be massless but it definitely has volume.&#10;[explanation]&#10;&#10;" max_attempts="3" showanswer="past_due" weight="1.0">
+  <p>A thermodynamic system (Select one or more) </p>
+  <choiceresponse>
+    <checkboxgroup label="A thermodynamic system (Select one or more) " direction="vertical">
+      <choice correct="true">has well defined boundaries</choice>
+      <choice correct="false">definitely has mass</choice>
+      <choice correct="true">is a region of space</choice>
+      <choice correct="true">may have openings</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A thermodynamic system may be massless but it definitely has volume.</p>
+    </div>
+  </solution>
+</problem>

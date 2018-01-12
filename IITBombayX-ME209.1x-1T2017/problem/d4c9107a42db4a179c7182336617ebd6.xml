@@ -1,0 +1,8 @@
+<problem display_name="Problem 3" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A closed system initially has a pressure of 1 bar, and a volume of 3 cm[mathjaxinline]^ {3}[/mathjaxinline]. The system is heated, due to which its volume expands.  The new volume is now 10 cm[mathjaxinline] ^ {3}[/mathjaxinline], while the pressure is 3 bar.  The process can be represented by a linear line on the [mathjaxinline]p-V[/mathjaxinline] diagram.  Determine the work done by the system, in joule [J]. </p>
+  <p>(Hint: draw the process on a [mathjaxinline]p-V[/mathjaxinline] diagram and then calculate the area under the curve.) </p>
+  <numericalresponse answer="1.4">
+    <responseparam type="tolerance" default="0.1 "/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

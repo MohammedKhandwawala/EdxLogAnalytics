@@ -1,0 +1,12 @@
+<problem display_name="Problem 3" markdown="If [mathjaxinline]dz = M dx + N dy[/mathjaxinline] is an exact differential, which of the following&#10;are true?&#10;[x] [mathjaxinline]M=(\frac{\partial z}{\partial x})_y[/mathjaxinline]&#10;[ ] [mathjaxinline]M=(\frac{\partial z}{\partial y})_x[/mathjaxinline]&#10;[ ] [mathjaxinline]N=(\frac{\partial z}{\partial x})_y[/mathjaxinline]&#10;[x] [mathjaxinline]N=(\frac{\partial z}{\partial y})_x[/mathjaxinline]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>If [mathjaxinline]dz = M dx + N dy[/mathjaxinline] is an exact differential, which of the following</p>
+  <p>are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">[mathjaxinline]M=(\frac{\partial z}{\partial x})_y[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]M=(\frac{\partial z}{\partial y})_x[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]N=(\frac{\partial z}{\partial x})_y[/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]N=(\frac{\partial z}{\partial y})_x[/mathjaxinline]</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

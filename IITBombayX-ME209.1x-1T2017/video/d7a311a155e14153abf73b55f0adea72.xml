@@ -1,0 +1,10 @@
+<video youtube="1.00:4G6Vr362rcs" url_name="d7a311a155e14153abf73b55f0adea72" display_name="Entropy Relation for a Simple Compressible System" download_track="true" download_video="true" edx_video_id="IITME2092014-V017100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017100_DTH.mp4&quot;]" sub="IITME2092014-V017100_DTH" youtube_id_0_75="" youtube_id_1_0="4G6Vr362rcs" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017100_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S141_Entropy_Relation_for_a_Simple_Compressible_System_IIT_Bombay" duration="282.99">
+    <encoded_video bitrate="209" file_size="7413311" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017100_MB1.mp4"/>
+    <encoded_video bitrate="135" file_size="4784026" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017100_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="17704449" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017100_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="36472066" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V017100_AUD.mp3"/>
+  </video_asset>
+</video>

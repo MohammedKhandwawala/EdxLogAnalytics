@@ -1,0 +1,11 @@
+<problem display_name="Problem 5" markdown="In a Carnot cycle&#10;[ ]work interaction occurs in two processes&#10;[x]work interaction occurs in all four processes&#10;[x]heat interaction occurs in two processes&#10;[ ]heat interaction occurs in all four processes&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In a Carnot cycle</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">work interaction occurs in two processes</choice>
+      <choice correct="true">work interaction occurs in all four processes</choice>
+      <choice correct="true">heat interaction occurs in two processes</choice>
+      <choice correct="false">heat interaction occurs in all four processes</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

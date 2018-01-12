@@ -1,0 +1,17 @@
+<problem display_name="Problem 4" markdown="In C2-05 (a), the change in thermal energy of the system is (assume ideal gas approximation):&#10;&#10;( ) Positive&#10;( ) Negative&#10;(x) Zero &#10;( ) Positive or Negative but cannot be determined from the information provided&#10;&#10;[explanation]&#10;Temperature is constant. As we assume ideal gas approximation, by Joule’s Law,U(T). Therefore, ∆U = 0.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In C2-05 (a), the change in thermal energy of the system is (assume ideal gas approximation):</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Positive</choice>
+      <choice correct="false">Negative</choice>
+      <choice correct="true">Zero</choice>
+      <choice correct="false">Positive or Negative but cannot be determined from the information provided</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Temperature is constant. As we assume ideal gas approximation, by Joule’s Law,U(T). Therefore, ∆U = 0.</p>
+    </div>
+  </solution>
+</problem>

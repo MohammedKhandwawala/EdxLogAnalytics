@@ -1,0 +1,11 @@
+<problem display_name="Problem 7" markdown="What is the definition of the efficiency of an engine?&#10;     ( ) (net work done) / (net heat interaction)&#10;     (x) (net work done) / (heat supplied to the engine)&#10;     ( ) (heat rejected) / (heat supplied)&#10;     " max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What is the definition of the efficiency of an engine?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">(net work done) / (net heat interaction)</choice>
+      <choice correct="true">(net work done) / (heat supplied to the engine)</choice>
+      <choice correct="false">(heat rejected) / (heat supplied)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

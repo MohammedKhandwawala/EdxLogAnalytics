@@ -1,0 +1,11 @@
+<problem display_name="Problem 5" markdown="As we increase pressure from 0.15 MPa to 25 MPa for water at T[mathjaxinline]_{sat}[/mathjaxinline](0.15 MPa), its volume changes marginally. This demonstrates________________&#10;&#10;     ( ) Compressibility of Liquid&#10;     (x) Incompressibility of liquid&#10;     ( ) That we can use Ideal gas approximation for the liquid&#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>As we increase pressure from 0.15 MPa to 25 MPa for water at T[mathjaxinline]_{sat}[/mathjaxinline](0.15 MPa), its volume changes marginally. This demonstrates________________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Compressibility of Liquid</choice>
+      <choice correct="true">Incompressibility of liquid</choice>
+      <choice correct="false">That we can use Ideal gas approximation for the liquid</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

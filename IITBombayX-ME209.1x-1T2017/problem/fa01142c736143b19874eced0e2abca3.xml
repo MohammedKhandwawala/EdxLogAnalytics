@@ -1,0 +1,12 @@
+<problem display_name="Problem 2" markdown="Which of the following are two-way modes of work? &#10;&#10;     [x] A cylinder-piston arrangement with the system and the surrounding system at (nearly) equal pressure.&#10;&#10;     [ ] A cell that cannot be recharged sending charge through a circuit.&#10;&#10;     [x] A rechargeable cell sending charge through a circuit .&#10;     [ ] A rotating stirrer moving the fluid inside a system.&#10;&#10;     &#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following are two-way modes of work? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">A cylinder-piston arrangement with the system and the surrounding system at (nearly) equal pressure.</choice>
+      <choice correct="false">A cell that cannot be recharged sending charge through a circuit.</choice>
+      <choice correct="true">A rechargeable cell sending charge through a circuit .</choice>
+      <choice correct="false">A rotating stirrer moving the fluid inside a system.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <p>     </p>
+</problem>

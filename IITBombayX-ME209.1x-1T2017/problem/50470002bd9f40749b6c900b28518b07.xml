@@ -1,0 +1,10 @@
+<problem display_name="Problem 5" markdown="Open systems are also commonly referred in the literature as control .................. systems.&#10;(x) volume&#10;( ) mass&#10;( ) energy&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Open systems are also commonly referred in the literature as control .................. systems.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">volume</choice>
+      <choice correct="false">mass</choice>
+      <choice correct="false">energy</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

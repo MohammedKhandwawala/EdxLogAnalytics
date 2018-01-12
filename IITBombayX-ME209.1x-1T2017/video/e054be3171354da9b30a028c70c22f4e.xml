@@ -1,0 +1,10 @@
+<video youtube="1.00:Jn8rawtQa3o" url_name="e054be3171354da9b30a028c70c22f4e" display_name="Historical Aspects 1 " download_track="true" download_video="true" edx_video_id="IITME2092014-V005500" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005500_100.mp4&quot;]" sub="IITME2092014-V005500_100" youtube_id_0_75="" youtube_id_1_0="Jn8rawtQa3o" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005500_100.mp4"/>
+  <video_asset client_video_id="ME209x_S031_Historical_Aspects_1_IIT_Bombay" duration="277.93">
+    <encoded_video bitrate="530" file_size="18416264" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005500_MB2.mp4"/>
+    <encoded_video bitrate="724" file_size="25165338" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005500_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="39247135" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005500_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="37292612" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005500_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005500_100.mp3"/>
+  </video_asset>
+</video>

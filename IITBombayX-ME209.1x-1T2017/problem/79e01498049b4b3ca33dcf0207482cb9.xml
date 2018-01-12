@@ -1,0 +1,11 @@
+<problem display_name="Problem 7" markdown="Which of the following is an impure fluid?&#10;&#10;( ) Water and water vapour mixture&#10;( ) Steam&#10;( ) Air&#10;(x) Mixture of air in gaseous and liquid state&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following is an impure fluid?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Water and water vapour mixture</choice>
+      <choice correct="false">Steam</choice>
+      <choice correct="false">Air</choice>
+      <choice correct="true">Mixture of air in gaseous and liquid state</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

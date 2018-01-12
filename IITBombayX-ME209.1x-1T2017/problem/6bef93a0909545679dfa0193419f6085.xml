@@ -1,0 +1,17 @@
+<problem display_name="Problem 5" markdown="An ideal duct carries water (incompressible fluid) from a height of 10m to 20m. The pressures at the entry and exit points are at 1000 Pa and 2000 Pa respectively. Calculate exit velocity if the velocity at entry is 10 m/s. (Take g=10 m/s[mathjaxinline]^2[/mathjaxinline])&#10;( ) Cannot be calculated as value of density is not given.&#10;(x) This duct cannot carry water to 20m height.&#10;( ) 10 m/s&#10;( ) 7.07 m/s&#10;[explanation]&#10;Use Bernoulli's equation. Since density is a positive quantity, it can be shown that the exit velocity will be negative irrespective of the magnitude of density. This implies that one cannot push water through from the inlet at 10 m/s and expect it to come out from the exit for the given height and pressure differences&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>An ideal duct carries water (incompressible fluid) from a height of 10m to 20m. The pressures at the entry and exit points are at 1000 Pa and 2000 Pa respectively. Calculate exit velocity if the velocity at entry is 10 m/s. (Take g=10 m/s[mathjaxinline]^2[/mathjaxinline])</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Cannot be calculated as value of density is not given.</choice>
+      <choice correct="true">This duct cannot carry water to 20m height.</choice>
+      <choice correct="false">10 m/s</choice>
+      <choice correct="false">7.07 m/s</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Use Bernoulli's equation. Since density is a positive quantity, it can be shown that the exit velocity will be negative irrespective of the magnitude of density. This implies that one cannot push water through from the inlet at 10 m/s and expect it to come out from the exit for the given height and pressure differences</p>
+    </div>
+  </solution>
+</problem>

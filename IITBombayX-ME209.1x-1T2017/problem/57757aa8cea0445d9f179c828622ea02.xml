@@ -1,0 +1,9 @@
+<problem display_name="Problem 5" markdown="On a T-s chart for water, isobaric lines are straight lines in two phase region.&#10;  (x) True&#10;  ( ) False" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>On a T-s chart for water, isobaric lines are straight lines in two phase region.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

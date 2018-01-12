@@ -1,0 +1,17 @@
+<problem display_name="Problem 9" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What’s the final temperature?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">150 [mathjaxinline]^\circ[/mathjaxinline]C</choice>
+      <choice correct="true">179.91 [mathjaxinline]^\circ[/mathjaxinline]C</choice>
+      <choice correct="false">190.59 [mathjaxinline]^\circ[/mathjaxinline]C</choice>
+      <choice correct="false">200.03 [mathjaxinline]^\circ[/mathjaxinline]C</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>T[mathjaxinline]_{sat}[/mathjaxinline](1 MPa) = 179.91 [mathjaxinline]^\circ[/mathjaxinline]C</p>
+    </div>
+  </solution>
+</problem>

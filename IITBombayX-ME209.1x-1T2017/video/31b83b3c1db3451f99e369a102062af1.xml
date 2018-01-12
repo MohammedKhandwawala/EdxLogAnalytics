@@ -1,0 +1,10 @@
+<video youtube="1.00:osNh0np9wXY" url_name="31b83b3c1db3451f99e369a102062af1" display_name="Exercise 6 – Isentropic Efficiency" download_track="true" download_video="true" edx_video_id="IITME2092014-V022300" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022300_DTH.mp4&quot;]" sub="IITME2092014-V022300_DTH" youtube_id_0_75="" youtube_id_1_0="osNh0np9wXY" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022300_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S326_Exercise_6_Isentropic_Efficiency_IIT_Bombay" duration="635.88">
+    <encoded_video bitrate="257" file_size="20475301" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022300_MB1.mp4"/>
+    <encoded_video bitrate="151" file_size="12013953" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022300_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="53715974" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022300_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="85726931" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022300_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022300_AUD.mp3"/>
+  </video_asset>
+</video>

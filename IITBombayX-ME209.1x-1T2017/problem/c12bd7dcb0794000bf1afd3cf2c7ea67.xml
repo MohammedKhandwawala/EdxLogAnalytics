@@ -1,0 +1,11 @@
+<problem display_name="Problem 5" markdown="For a given state of water, the value of enthalpy for saturated liquid is equal to the value of enthalpy for saturated vapour. The given state lies on &#10;&#10;( ) L-V saturation Line&#10;(x) Critical point&#10;( ) Triple Point&#10;( ) Cannot be determined&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>For a given state of water, the value of enthalpy for saturated liquid is equal to the value of enthalpy for saturated vapour. The given state lies on </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">L-V saturation Line</choice>
+      <choice correct="true">Critical point</choice>
+      <choice correct="false">Triple Point</choice>
+      <choice correct="false">Cannot be determined</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

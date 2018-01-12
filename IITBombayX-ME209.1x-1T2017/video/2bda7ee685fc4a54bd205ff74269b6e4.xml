@@ -1,0 +1,10 @@
+<video youtube="1.00:KX-eHhdKiDk" url_name="2bda7ee685fc4a54bd205ff74269b6e4" display_name="The First Law 2" download_track="true" download_video="true" edx_video_id="IITME2092014-V005900" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005900_100.mp4&quot;]" sub="IITME2092014-V005900_100" youtube_id_0_75="" youtube_id_1_0="KX-eHhdKiDk" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005900_100.mp4"/>
+  <video_asset client_video_id="ME209x_S034B_The_First_Law_2_IIT_Bombay" duration="342.85">
+    <encoded_video bitrate="529" file_size="22709858" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005900_MB2.mp4"/>
+    <encoded_video bitrate="727" file_size="31193557" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005900_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="48409617" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005900_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="42613852" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005900_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V005900_100.mp3"/>
+  </video_asset>
+</video>

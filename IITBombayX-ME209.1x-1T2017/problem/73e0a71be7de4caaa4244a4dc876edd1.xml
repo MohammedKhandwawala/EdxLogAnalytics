@@ -1,0 +1,15 @@
+<problem display_name="Problem 4" markdown="&gt;&gt;The environment of a thermodynamic system may not have well-defined boundaries.&lt;&lt;&#10;     ( ) True&#10;     (x) False&#10;    &#10;     &#10;[explanation]&#10;Well-defined boundaries is a requirement.&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>The environment of a thermodynamic system may not have well-defined boundaries.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The environment of a thermodynamic system may not have well-defined boundaries." type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Well-defined boundaries is a requirement.</p>
+    </div>
+  </solution>
+</problem>

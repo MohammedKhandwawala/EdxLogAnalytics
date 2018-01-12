@@ -1,0 +1,17 @@
+<problem display_name="Problem 6" markdown="In question C3-01, what property remains constant?&#10;&#10;( ) h&#10;( ) u&#10;(x) v&#10;( ) s&#10;&#10;&#10;[explanation]&#10;Rigid container&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In question C3-01, what property remains constant?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">h</choice>
+      <choice correct="false">u</choice>
+      <choice correct="true">v</choice>
+      <choice correct="false">s</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Rigid container</p>
+    </div>
+  </solution>
+</problem>

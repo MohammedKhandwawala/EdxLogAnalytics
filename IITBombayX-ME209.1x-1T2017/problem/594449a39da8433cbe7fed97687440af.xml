@@ -1,0 +1,56 @@
+<problem display_name="Problem 1" markdown="null" max_attempts="1" showanswer="past_due" weight="7.0">
+  <p align="justify">Consider the electrolyte in a car battery as a system.<br/>
+It is charged over a period of 24 h.<br/>
+During charging, the potential across the electrodes is 24 V and the current drawn is 1.0 A.<br/>
+During the process, 1.5 litre of a gas is evolved.<br/>
+The evolution of gas may be modeled as the displacement of the atmosphere, which remains at 1.0 bar.<br/></p>
+  <p><b>Problem 1A.</b> Is the figure below a suitable 'system diagram'? </p>
+  <img src="/static/p1f1.jpg" align="centre"/>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Yes</choice>
+      <choice correct="false">No</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p><b>Problem 1B.</b> What does the system contain? </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">only the electrolyte</choice>
+      <choice correct="false">only the gas</choice>
+      <choice correct="true">both electrolyte and gas</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p><b>Problem 1C.</b> What type of the system is it? </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">a closed system</choice>
+      <choice correct="false">an open system</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p><b>Problem 1D.</b> Which work component are significant? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">expansion work</choice>
+      <choice correct="false">stirrer work</choice>
+      <choice correct="true">electrical work</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <p><b>Problem 1E.</b> What is the expansion work done by the system? Enter the value in J with appropriate sign. </p>
+  <numericalresponse answer="150">
+    <responseparam type="tolerance" default="5"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 1F.</b> What is the electrical work done by the system? Enter the value in kJ with appropriate sign. </p>
+  <numericalresponse answer="-2074">
+    <responseparam type="tolerance" default="100"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 1G.</b> What is the stirrer work done by the system? </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">greater than zero.</choice>
+      <choice correct="true">Zero.</choice>
+      <choice correct="false">Less than zero.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

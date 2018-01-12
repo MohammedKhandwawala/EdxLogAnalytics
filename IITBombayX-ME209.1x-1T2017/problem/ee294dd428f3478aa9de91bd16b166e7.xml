@@ -1,0 +1,10 @@
+<problem display_name="Problem 3" markdown="All reversible processes must be quasi-static.&#10;&#10;     (x) True&#10;     ( ) False&#10;     " max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>All reversible processes must be quasi-static.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

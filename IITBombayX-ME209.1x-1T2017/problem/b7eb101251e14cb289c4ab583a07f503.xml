@@ -1,0 +1,19 @@
+<problem display_name="Problem 7 [Part 2]" markdown="null" max_attempts="1" showanswer="past_due" weight="2.0">
+  <p><b>Problem 7G.</b> Which of the following diagrams represent the process?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">
+        <img src="/static/P7A.png"/>
+      </choice>
+      <choice correct="true">
+        <img src="/static/P7B.png"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/P7C.png"/>
+      </choice>
+      <choice correct="true">
+        <img src="/static/P7D.png"/>
+      </choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

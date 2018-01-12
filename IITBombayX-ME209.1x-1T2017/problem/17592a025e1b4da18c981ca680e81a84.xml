@@ -1,0 +1,11 @@
+<problem display_name="Problem 6" markdown="Which are the common assumptions considered while deriving the isentropic efficiency of a nozzle?&#10;[x] Adiabatic device&#10;[x] No stirrer work &#10;[x] No substantial potential energy change&#10;[ ] Exit pressure is much larger than the inlet pressure.&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which are the common assumptions considered while deriving the isentropic efficiency of a nozzle?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Adiabatic device</choice>
+      <choice correct="true">No stirrer work </choice>
+      <choice correct="true">No substantial potential energy change</choice>
+      <choice correct="false">Exit pressure is much larger than the inlet pressure.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

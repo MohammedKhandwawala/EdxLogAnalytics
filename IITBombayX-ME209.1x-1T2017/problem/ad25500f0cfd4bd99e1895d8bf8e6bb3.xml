@@ -1,0 +1,17 @@
+<problem display_name="Problem 4" markdown="The efficiency of any engine equals:&#10;[ ][mathjaxinline]\frac{Q_{rejected}}{Q_{supplied}}[/mathjaxinline]&#10;[x][mathjaxinline]1 - \frac{Q_{rejected}}{Q_{supplied}}[/mathjaxinline]&#10;[x][mathjaxinline]\frac{W_{net}}{Q_{supplied}}[/mathjaxinline]&#10;[ ][mathjaxinline]1 - \frac{W_{net}}{Q_{supplied}}[/mathjaxinline]&#10;&#10;[explanation]&#10;C is the definition, B follows from C when we apply the First Law&#10;[explanation]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>The efficiency of any engine equals:</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">[mathjaxinline]\frac{Q_{rejected}}{Q_{supplied}}[/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]1 - \frac{Q_{rejected}}{Q_{supplied}}[/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]\frac{W_{net}}{Q_{supplied}}[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]1 - \frac{W_{net}}{Q_{supplied}}[/mathjaxinline]</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>C is the definition, B follows from C when we apply the First Law</p>
+    </div>
+  </solution>
+</problem>

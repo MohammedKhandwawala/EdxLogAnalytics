@@ -1,0 +1,11 @@
+<problem display_name="Problem 2" markdown="For a given thermodynamic state of water at pressure P, it is found that T (P) &gt; T[mathjaxinline]_{sat}[/mathjaxinline] (P). The state lies in __________ zone&#10;&#10;( ) Subcooled Liquid Zone &#10;( ) Supercritical Zone&#10;(x) Superheated Fluid Zone&#10;( ) Compressed Liquid Zone&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>For a given thermodynamic state of water at pressure P, it is found that T (P) &gt; T[mathjaxinline]_{sat}[/mathjaxinline] (P). The state lies in __________ zone</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Subcooled Liquid Zone</choice>
+      <choice correct="false">Supercritical Zone</choice>
+      <choice correct="true">Superheated Fluid Zone</choice>
+      <choice correct="false">Compressed Liquid Zone</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

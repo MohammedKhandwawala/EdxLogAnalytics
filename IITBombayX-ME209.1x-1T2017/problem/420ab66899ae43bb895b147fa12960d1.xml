@@ -1,0 +1,10 @@
+<problem display_name="Problem 8" markdown="Which of the following things shows the anomalous behaviour of water (in term of densities of ice and water)?&#10;(x) Slope of line separating solid and liquid phase in phase diagram&#10;( ) Critical point&#10;( ) Triple point&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following things shows the anomalous behaviour of water (in term of densities of ice and water)?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Slope of line separating solid and liquid phase in phase diagram</choice>
+      <choice correct="false">Critical point</choice>
+      <choice correct="false">Triple point</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

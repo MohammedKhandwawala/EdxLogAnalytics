@@ -1,0 +1,16 @@
+<problem display_name="Problem 6" markdown="Which of the following statements are true?&#10;[x]Every engine is a cycle device.&#10;[ ] All engines perform reversible processes.&#10;[x] A 1T heat engine is impossible to run.&#10;[explanation]&#10;Option 'A' is true by the definition of an engine, Option 'C' is a consequence of the Second Law.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following statements are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Every engine is a cycle device.</choice>
+      <choice correct="false">All engines perform reversible processes.</choice>
+      <choice correct="true">A 1T heat engine is impossible to run.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Option 'A' is true by the definition of an engine, Option 'C' is a consequence of the Second Law.</p>
+    </div>
+  </solution>
+</problem>

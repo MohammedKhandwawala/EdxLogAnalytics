@@ -1,0 +1,7 @@
+<problem display_name="Problem 8" markdown="What is the temperature difference between chamber A and chamber B initially in C3-07?(in degree C)&#10;&#10;= 23.4  +- 0.1&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What is the temperature difference between chamber A and chamber B initially in C3-07?(in degree C)</p>
+  <numericalresponse answer="23.4">
+    <responseparam type="tolerance" default="0.1"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

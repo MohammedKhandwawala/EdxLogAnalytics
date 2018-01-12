@@ -1,0 +1,12 @@
+<problem display_name="Problem 1" markdown="Water at 25 MPa and 200°C would lie in the ____________ region of P-T curve.&#10;&#10;(x) Subcooled &#10;( ) Superheated&#10;( ) Two-phase&#10;( ) Critical Point&#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Water at 25 MPa and 200°C would lie in the ____________ region of P-T curve.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Subcooled</choice>
+      <choice correct="false">Superheated</choice>
+      <choice correct="false">Two-phase</choice>
+      <choice correct="false">Critical Point</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

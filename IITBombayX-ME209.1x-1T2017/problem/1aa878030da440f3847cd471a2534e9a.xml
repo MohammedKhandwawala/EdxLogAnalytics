@@ -1,0 +1,6 @@
+<problem display_name="" markdown="Please write what you liked about this course:&#10;= answer&#10;" max_attempts="0" showanswer="never" weight="0.0">
+  <p>Please write what you liked about this course:</p>
+  <stringresponse answer="answer" type="ci">
+    <textline size="20"/>
+  </stringresponse>
+</problem>

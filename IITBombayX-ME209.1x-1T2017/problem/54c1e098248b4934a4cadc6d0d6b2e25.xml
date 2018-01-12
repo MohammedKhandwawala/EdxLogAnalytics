@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown="When isotherms for a Van der Waals gas are plotted on a [mathjaxinline]p–V[/mathjaxinline] diagram, which of the following are true?&#10;[x] At high temperature, the isotherms approximate rectangular hyperbolas.&#10;[x] At the critical point, the tangent to the isotherm is horizontal (parallel to the [mathjaxinline]V[/mathjaxinline]-axis).&#10;[x] At the critical point, the tangent to the isotherm crosses that isotherm.&#10;[x] At temperatures lower that the critical temperature, the isotherms do not represent the behaviour of any real fluid.&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>When isotherms for a Van der Waals gas are plotted on a [mathjaxinline]p–V[/mathjaxinline] diagram, which of the following are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">At high temperature, the isotherms approximate rectangular hyperbolas.</choice>
+      <choice correct="true">At the critical point, the tangent to the isotherm is horizontal (parallel to the [mathjaxinline]V[/mathjaxinline]-axis).</choice>
+      <choice correct="true">At the critical point, the tangent to the isotherm crosses that isotherm.</choice>
+      <choice correct="true">At temperatures lower that the critical temperature, the isotherms do not represent the behaviour of any real fluid.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

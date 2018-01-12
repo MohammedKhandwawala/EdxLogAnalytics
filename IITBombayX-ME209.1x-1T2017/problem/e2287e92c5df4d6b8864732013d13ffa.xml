@@ -1,0 +1,11 @@
+<problem display_name="Problem 1" markdown="Choose the correct equation for Gibbs Phase Rule &#10;&#10;[ ] [mathjaxinline]F=P-C+2 [/mathjaxinline]&#10;[x] [mathjaxinline]C=P+F-2 [/mathjaxinline]&#10;[x] [mathjaxinline]2=F-C+P [/mathjaxinline]&#10;[ ] [mathjaxinline]F=C-P-2 [/mathjaxinline]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Choose the correct equation for Gibbs Phase Rule </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">[mathjaxinline]F=P-C+2 [/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]C=P+F-2 [/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]2=F-C+P [/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]F=C-P-2 [/mathjaxinline]</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

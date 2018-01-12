@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown="Steam tables are usually tabulated for [select one or more]&#10;&#10;[ ] S - L - V Region&#10;[x] L - V Region &#10;[x] L - V Saturation Line (Two phase region)&#10;[x] L – V Region and L – V saturation line&#10;&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Steam tables are usually tabulated for [select one or more]</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">S - L - V Region</choice>
+      <choice correct="true">L - V Region </choice>
+      <choice correct="true">L - V Saturation Line (Two phase region)</choice>
+      <choice correct="true">L – V Region and L – V saturation line</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

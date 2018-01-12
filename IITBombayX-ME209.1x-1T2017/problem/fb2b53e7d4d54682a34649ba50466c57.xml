@@ -1,0 +1,31 @@
+<problem display_name="Problem 4" markdown="null" max_attempts="1" showanswer="past_due" weight="5.0">
+  <p align="justify">Consider 2 kg of an ideal gas ([mathjaxinline]R=300[/mathjaxinline] J/(kg.K) and [mathjaxinline]C_p = 1000[/mathjaxinline] J/(kgK)) contained in a piston cylinder arrangement. The cylinder has a small valve at the end opposite to the piston.The cylinder walls are not adiabatic and allow heat transfer. The initial pressure and volumeare 0.1 MPa and 2 m[mathjaxinline]^3[/mathjaxinline]. At time t=0, the gas starts leaking extremely slowly (at theconstant rate of 0.001 kg/s) through the valve (the opening of the valve can be assumed to be controlled to allow a constant leak rate) while the piston is allowed to move. The piston can be considered frictionless. The leakage stops at t=1000s. The whole process can be considered to take place quasistatically with local equilibrium being achieved instantly within the cylinder.The pressure and temperature of the gas do not change during this process.</p>
+  <p>Answer the following questions.</p>
+  <p><b>Problem 4A.</b> What is the final volume of the gas (in m[mathjaxinline]^3[/mathjaxinline]) ?</p>
+  <numericalresponse answer="1">
+    <responseparam type="tolerance" default="0.05"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 4B.</b> What is the heat transfer during the process (in joule)?</p>
+  <numericalresponse answer="0">
+    <responseparam type="tolerance" default="1"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 4C.</b>  What is the change in the specific entropy of the gas in the cylinder(in J/(kg.K))?</p>
+  <numericalresponse answer="0">
+    <responseparam type="tolerance" default="0.01"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 4D.</b>  What is the entropy production rate, in kW/K?</p>
+  <numericalresponse answer="0">
+    <responseparam type="tolerance" default="0.01"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 4E.</b>  Is the process possible?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Yes</choice>
+      <choice correct="false">No</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

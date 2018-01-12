@@ -1,0 +1,10 @@
+<video youtube="1.00:nJ3wNONm9t0" url_name="a7ee7a268b484227b30382fc1559fab9" display_name="Equations of State of an Ideal Gas " download_track="true" download_video="true" edx_video_id="IITME2092014-V007800" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007800_100.mp4&quot;]" sub="nJ3wNONm9t0" youtube_id_0_75="" youtube_id_1_0="nJ3wNONm9t0" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007800_100.mp4"/>
+  <video_asset client_video_id="ME209x_S050_Equation_of_State_of_an_Ideal_Gas_IIT_Bombay" duration="519.72">
+    <encoded_video bitrate="529" file_size="34432002" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007800_MB2.mp4"/>
+    <encoded_video bitrate="723" file_size="47027766" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007800_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="73392841" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007800_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="62475816" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007800_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007800_100.mp3"/>
+  </video_asset>
+</video>

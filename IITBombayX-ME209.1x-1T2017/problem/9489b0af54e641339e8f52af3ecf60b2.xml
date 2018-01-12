@@ -1,0 +1,42 @@
+<problem display_name="Problem 5 [Part 1]" markdown="null" max_attempts="1" showanswer="past_due" weight="5.0">
+  <p align="justify">Steam in a cylinder-piston arrangement expands from an initial condition of 5 bar, 80% dry to a final state of 2 bar, dry saturated steam.<br/>
+  The initial volume of steam is 0.8 m[mathjaxinline]^3[/mathjaxinline].<br/>
+  The process of expansion can be represented by a straight line on the [mathjaxinline]p–V[/mathjaxinline]diagram. </p>
+  <p><b>Problem 5A.</b> Which of the following is the most appropriate process diagram?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">
+        <img src="/static/P4A.png"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/P4B.png"/>
+      </choice>
+      <choice correct="true">
+        <img src="/static/P4C.png"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/P4D.png"/>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p><b>Problem 5B.</b> What is the mass of steam in the system, in kg?</p>
+  <numericalresponse answer="2.666">
+    <responseparam type="tolerance" default="0.14"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 5C.</b> What is the work done by the system, in kJ?</p>
+  <numericalresponse answer="546.5">
+    <responseparam type="tolerance" default="30"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 5D.</b> What is the change in energy of the system, in kJ?</p>
+  <numericalresponse answer="940.1">
+    <responseparam type="tolerance" default="50"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p><b>Problem 5E.</b> What is the heat absorbed by the system, in kJ?</p>
+  <numericalresponse answer="1486.6">
+    <responseparam type="tolerance" default="70"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

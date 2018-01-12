@@ -1,0 +1,11 @@
+<problem display_name="Problem 4" markdown="PVC Pipes filled with water crack when subjected to low temperatures because &#10;&#10;[x] Water expands on freezing&#10;[ ] Liquid nitrogen had an adverse reaction with the PVC material&#10;[x] Phase transition of water caused it to exert pressure on the PVC Pipe.&#10;[ ] Liquid nitrogen has a corrosive effect on PVC&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>PVC Pipes filled with water crack when subjected to low temperatures because </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Water expands on freezing</choice>
+      <choice correct="false">Liquid nitrogen had an adverse reaction with the PVC material</choice>
+      <choice correct="true">Phase transition of water caused it to exert pressure on the PVC Pipe.</choice>
+      <choice correct="false">Liquid nitrogen has a corrosive effect on PVC</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,15 @@
+<problem display_name="Problem 7" markdown="A system executes a cycle. The work done by the system will be equal to the heat absorbed by the system.&#10;(x)True&#10;( )False&#10;[explanation]&#10;Since a cycle is executed, there will be no change in the energy of the system.&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>A system executes a cycle. The work done by the system will be equal to the heat absorbed by the system.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Since a cycle is executed, there will be no change in the energy of the system.</p>
+    </div>
+  </solution>
+</problem>

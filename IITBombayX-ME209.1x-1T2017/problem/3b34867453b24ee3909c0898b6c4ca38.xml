@@ -1,0 +1,10 @@
+<problem display_name="Problem 3" markdown="Consider water at a given pressure 'p' and dryness fraction x[mathjaxinline]_1[/mathjaxinline]. It is heated at constant pressure. The dryness fraction at the new state is x[mathjaxinline]_2[/mathjaxinline]. Therefore, heat supplied to water in this process is given by _________&#10;&#10; ( ) (x[mathjaxinline]_1[/mathjaxinline] - x[mathjaxinline]_2[/mathjaxinline])*h[mathjaxinline]_{fg}[/mathjaxinline]&#10; (x) (x[mathjaxinline]_2[/mathjaxinline]- x[mathjaxinline]_1[/mathjaxinline])*h[mathjaxinline]_{fg}[/mathjaxinline]&#10; ( ) (x[mathjaxinline]_1[/mathjaxinline]+ x[mathjaxinline]_2[/mathjaxinline])*h[mathjaxinline]_{fg}[/mathjaxinline]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Consider water at a given pressure 'p' and dryness fraction x[mathjaxinline]_1[/mathjaxinline]. It is heated at constant pressure. The dryness fraction at the new state is x[mathjaxinline]_2[/mathjaxinline]. Therefore, heat supplied to water in this process is given by _________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">(x[mathjaxinline]_1[/mathjaxinline] - x[mathjaxinline]_2[/mathjaxinline])*h[mathjaxinline]_{fg}[/mathjaxinline]</choice>
+      <choice correct="true">(x[mathjaxinline]_2[/mathjaxinline]- x[mathjaxinline]_1[/mathjaxinline])*h[mathjaxinline]_{fg}[/mathjaxinline]</choice>
+      <choice correct="false">(x[mathjaxinline]_1[/mathjaxinline]+ x[mathjaxinline]_2[/mathjaxinline])*h[mathjaxinline]_{fg}[/mathjaxinline]</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

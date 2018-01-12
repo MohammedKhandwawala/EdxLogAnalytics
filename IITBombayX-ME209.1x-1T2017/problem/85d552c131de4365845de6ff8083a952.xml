@@ -1,0 +1,11 @@
+<problem display_name="Problem 10" markdown="If pressure of water is higher than saturation pressure at the same temperature, then it is a_____&#10;&#10;[ ] Superheated vapour&#10;[x] Subcooled liquid &#10;[ ] Solid &#10;[x] Compressed liquid &#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>If pressure of water is higher than saturation pressure at the same temperature, then it is a_____</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">Superheated vapour</choice>
+      <choice correct="true">Subcooled liquid </choice>
+      <choice correct="false">Solid </choice>
+      <choice correct="true">Compressed liquid </choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:kAXcsfkJ1bU" url_name="a5da43aecbb34d0fb4f9921e777571fc" display_name="Pure and Impure Fluids" download_track="true" download_video="true" edx_video_id="IITME2092014-V009000" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009000_100.mp4&quot;]" sub="IITME2092014-V009000_100" youtube_id_0_75="" youtube_id_1_0="kAXcsfkJ1bU" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009000_100.mp4"/>
+  <video_asset client_video_id="ME209x_S404_Pure_and_Impure_Fluids_IIT_Bombay" duration="394.07">
+    <encoded_video bitrate="729" file_size="35958515" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009000_MB1.mp4"/>
+    <encoded_video bitrate="530" file_size="26108793" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009000_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="55453669" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009000_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="53684305" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009000_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009000_100.mp3"/>
+  </video_asset>
+</video>

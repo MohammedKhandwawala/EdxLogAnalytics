@@ -1,0 +1,15 @@
+<problem display_name="Problem 1" markdown="&gt;&gt;A thermodynamic system must have an associated volume.&lt;&lt;&#10;     (x) True&#10;     ( ) False&#10;     &#10;[explanation]&#10;The boundaries are well-defined, hence this is true.&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>A thermodynamic system must have an associated volume.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="A thermodynamic system must have an associated volume." type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The boundaries are well-defined, hence this is true.</p>
+    </div>
+  </solution>
+</problem>

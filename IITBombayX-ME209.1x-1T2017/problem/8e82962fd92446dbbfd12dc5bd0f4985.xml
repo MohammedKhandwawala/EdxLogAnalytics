@@ -1,0 +1,13 @@
+<problem display_name="Problem 1" markdown="Determine the slope of the liquid-vapour saturation line for water at 10 MPa (in kPa/K).&#10;= 136 +- 5&#10;[explanation]&#10;Use the Clausius-Clapeyron equation.&#10;[explanation]&#10;&#10;&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Determine the slope of the liquid-vapour saturation line for water at 10 MPa (in kPa/K).</p>
+  <numericalresponse answer="136">
+    <responseparam type="tolerance" default="5"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Use the Clausius-Clapeyron equation.</p>
+    </div>
+  </solution>
+</problem>

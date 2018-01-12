@@ -1,0 +1,10 @@
+<video youtube="1.00:AuUoUcCvFVw" url_name="3d369d9306c04ba0a2ef84bd13a0f9f2" display_name="Properties of Subcooled or Compressed Liquid" download_track="true" download_video="true" edx_video_id="IITME2092014-V011200" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011200_DTH.mp4&quot;]" sub="IITME2092014-V011200_DTH" youtube_id_0_75="" youtube_id_1_0="AuUoUcCvFVw" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011200_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S420_Properties_of_Subcooled_or_Compressed_Liquid_IIT_Bombay" duration="673.22">
+    <encoded_video bitrate="145" file_size="12219244" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011200_MB2.mp4"/>
+    <encoded_video bitrate="229" file_size="19322541" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011200_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="40688938" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011200_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="90508725" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011200_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011200_AUD.mp3"/>
+  </video_asset>
+</video>

@@ -1,0 +1,10 @@
+<video youtube="1.00:PlEjtxZ0EA4" url_name="e1112be9b3c74f5386019eab9455eede" display_name="Gas Thermometry " download_track="true" download_video="true" edx_video_id="IITME2092014-V007200" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007200_100.mp4&quot;]" sub="PlEjtxZ0EA4" youtube_id_0_75="" youtube_id_1_0="PlEjtxZ0EA4" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007200_100.mp4"/>
+  <video_asset client_video_id="ME209x_S044_Gas_Thermometry_IIT_Bombay" duration="495.94">
+    <encoded_video bitrate="724" file_size="44943936" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007200_MB1.mp4"/>
+    <encoded_video bitrate="529" file_size="32856688" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007200_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="70039639" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007200_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="55542070" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007200_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007200_100.mp3"/>
+  </video_asset>
+</video>

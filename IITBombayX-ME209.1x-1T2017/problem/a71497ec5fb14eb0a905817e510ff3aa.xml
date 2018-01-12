@@ -1,0 +1,12 @@
+<problem display_name="Problem 3" markdown="In C2 – 05 (b), the final state of the water substance is:&#10;&#10;( ) Sub-cooled liquid&#10;(x) Superheated steam&#10;( ) Sub-cooled steam&#10;( ) Liquid vapour mixture&#10;&#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In C2 – 05 (b), the final state of the water substance is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Sub-cooled liquid</choice>
+      <choice correct="true">Superheated steam</choice>
+      <choice correct="false">Sub-cooled steam</choice>
+      <choice correct="false">Liquid vapour mixture</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

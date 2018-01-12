@@ -1,0 +1,11 @@
+<problem display_name="Problem 4" markdown="The First Law is directional, it will not be satisfied by a process which cannot be executed.&#10;     ( ) True&#10;     (x) False&#10;     &#10;     " max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>The First Law is directional, it will not be satisfied by a process which cannot be executed.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+  <p>     </p>
+</problem>

@@ -1,0 +1,9 @@
+<problem display_name="Problem 8" markdown="For water at a given pressure, if specific enthalpy lies between h[mathjaxinline]_f[/mathjaxinline] and h[mathjaxinline]_g[/mathjaxinline],then state of water may not be in two phase region. &#10;( ) True&#10;(x) False&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>For water at a given pressure, if specific enthalpy lies between h[mathjaxinline]_f[/mathjaxinline] and h[mathjaxinline]_g[/mathjaxinline],then state of water may not be in two phase region. </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

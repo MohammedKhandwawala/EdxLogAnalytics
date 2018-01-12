@@ -1,0 +1,18 @@
+<problem display_name="Problem 4" markdown="An adiabatic process&#10;&#10;[x]will have work interactions only.&#10;[ ]will have heat interactions only.&#10;[ ]will have both heat and work interactions.&#10;[x]has total work interaction independent of the path.&#10;[ ]is always a quasi-static process.&#10;&#10;[explanation]&#10;A is by definition, hence B and C cannot be true. D is the statement of the First Law, and E is not always true.&#10;[explanation]&#10;" max_attempts="3" showanswer="past_due" weight="1.0">
+  <p>An adiabatic process</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">will have work interactions only.</choice>
+      <choice correct="false">will have heat interactions only.</choice>
+      <choice correct="false">will have both heat and work interactions.</choice>
+      <choice correct="true">has total work interaction independent of the path.</choice>
+      <choice correct="false">is always a quasi-static process.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A is by definition, hence B and C cannot be true. D is the statement of the First Law, and E is not always true.</p>
+    </div>
+  </solution>
+</problem>

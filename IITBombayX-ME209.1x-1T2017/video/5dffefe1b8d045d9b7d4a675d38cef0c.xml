@@ -1,0 +1,10 @@
+<video youtube="1.00:HqCuKb0Bgv4" url_name="5dffefe1b8d045d9b7d4a675d38cef0c" display_name="Study Properties of Water" download_track="true" download_video="true" edx_video_id="IITME2092014-V009100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009100_100.mp4&quot;]" sub="IITME2092014-V009100_100" youtube_id_0_75="" youtube_id_1_0="HqCuKb0Bgv4" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009100_100.mp4"/>
+  <video_asset client_video_id="ME209x_S405_Study_Properties_of_Water_IIT_Bombay" duration="429.78">
+    <encoded_video bitrate="529" file_size="28468668" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009100_MB2.mp4"/>
+    <encoded_video bitrate="725" file_size="38990521" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009100_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="60236210" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009100_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="58491678" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009100_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V009100_100.mp3"/>
+  </video_asset>
+</video>

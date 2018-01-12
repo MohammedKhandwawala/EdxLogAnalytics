@@ -1,0 +1,20 @@
+<problem display_name="Problem 6" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What’s the mass of the water?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">40 kg</choice>
+      <choice correct="false">41 kg</choice>
+      <choice correct="false">42.53 kg</choice>
+      <choice correct="true">49.85 kg</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>p[mathjaxinline]_1[/mathjaxinline] = p[mathjaxinline]_2[/mathjaxinline] = 0.3 MPa, T[mathjaxinline]_1[/mathjaxinline] = 25 [mathjaxinline]^\circ[/mathjaxinline]C</p>
+      <p>V = 50 L = 0.05 m[mathjaxinline]^3[/mathjaxinline]</p>
+      <p>From steam tables – Table 3, v = 0.00100287 m[mathjaxinline]^3[/mathjaxinline]/kg, h[mathjaxinline]_1[/mathjaxinline] = 105.10 kJ/kg</p>
+      <p>Therefore, m = V/v= 49.856 kg </p>
+    </div>
+  </solution>
+</problem>

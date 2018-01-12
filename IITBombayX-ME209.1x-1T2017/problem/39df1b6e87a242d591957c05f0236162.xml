@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown="Which of the following processes can not be executed?&#10;&#10;[x] An isentropic and adiabatic process which is irreversible&#10;[ ] An isentropic process in which the entropy produced is positive.&#10;[ ] An adiabatic process in which the entropy of the system increases&#10;[x] An adiabatic process in which the entropy of the system decreases" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following processes can not be executed?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">An isentropic and adiabatic process which is irreversible</choice>
+      <choice correct="false">An isentropic process in which the entropy produced is positive.</choice>
+      <choice correct="false">An adiabatic process in which the entropy of the system increases</choice>
+      <choice correct="true">An adiabatic process in which the entropy of the system decreases</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

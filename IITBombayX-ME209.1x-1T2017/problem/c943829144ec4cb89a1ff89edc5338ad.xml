@@ -1,0 +1,15 @@
+<problem display_name="Problem 3" markdown="&gt;&gt;The boundaries of a thermodynamic system must be physically defined and visible.&lt;&lt;&#10;     ( ) True&#10;     (x) False&#10;     &#10;[explanation]&#10;They can be mathematically defined.&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>The boundaries of a thermodynamic system must be physically defined and visible.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The boundaries of a thermodynamic system must be physically defined and visible." type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>They can be mathematically defined.</p>
+    </div>
+  </solution>
+</problem>

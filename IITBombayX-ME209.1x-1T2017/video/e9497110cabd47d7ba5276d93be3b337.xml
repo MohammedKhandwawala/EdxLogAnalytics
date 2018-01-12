@@ -1,0 +1,11 @@
+<video youtube="1.00:CH9OVCWExxE" url_name="e9497110cabd47d7ba5276d93be3b337" display_name="Thermodynamic Equilibrium" download_track="true" download_video="true" edx_video_id="IITME2092014-V001800" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001800_100.mp4&quot;]" sub="IITME2092014-V001800_100" track="https://s3.amazonaws.com/ME209x/ME209x_S014_Thermodynamic_Equilibrium_IIT_Bombay.srt" youtube_id_0_75="" youtube_id_1_0="CH9OVCWExxE" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001800_100.mp4"/>
+  <track src="https://s3.amazonaws.com/ME209x/ME209x_S014_Thermodynamic_Equilibrium_IIT_Bombay.srt"/>
+  <video_asset client_video_id="ME209x_S014_Thermodynamic_Equilibrium_IIT_Bombay" duration="320.36">
+    <encoded_video bitrate="530" file_size="21243595" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001800_MB2.mp4"/>
+    <encoded_video bitrate="730" file_size="29260382" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001800_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="45304069" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001800_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="43126350" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001800_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001800_100.mp3"/>
+  </video_asset>
+</video>

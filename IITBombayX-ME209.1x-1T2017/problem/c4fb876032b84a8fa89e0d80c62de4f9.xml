@@ -1,0 +1,12 @@
+<problem display_name="Problem  8" markdown="Which of the following are assumptions made while deriving the conservation of mass equation?&#10;[ ] There is no heat interaction with surroundings&#10;[ ] Velocities at inlet and outlet are the same&#10;[ ] Rate of mass entering must be equal to rate of mass exiting&#10;[ ] Area of inlet must be equal to area of outlet&#10;[x] None of the above&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following are assumptions made while deriving the conservation of mass equation?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">There is no heat interaction with surroundings</choice>
+      <choice correct="false">Velocities at inlet and outlet are the same</choice>
+      <choice correct="false">Rate of mass entering must be equal to rate of mass exiting</choice>
+      <choice correct="false">Area of inlet must be equal to area of outlet</choice>
+      <choice correct="true">None of the above</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

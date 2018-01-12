@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Given a state or water at some pressure ‘P’ and temperature ‘T’, select the conditions which lead to a conclusion that the given state lies in the superheated vapour zone. </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">P &gt; P[mathjaxinline]_{sat}[/mathjaxinline](T)</choice>
+      <choice correct="false">T &lt; T[mathjaxinline]_{sat}[/mathjaxinline](P)</choice>
+      <choice correct="false">P &gt; P[mathjaxinline]_{critical}[/mathjaxinline]</choice>
+      <choice correct="true">T &gt; T[mathjaxinline]_{sat}[/mathjaxinline](P)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

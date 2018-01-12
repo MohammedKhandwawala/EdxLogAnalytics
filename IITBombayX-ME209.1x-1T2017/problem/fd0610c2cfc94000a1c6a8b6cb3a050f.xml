@@ -1,0 +1,6 @@
+<problem display_name="" markdown="&#10;To what extent are you familiar with the topics covered in ME209x?&#10;[[Extremely familiar, Very familiar, Somewhat familiar, Slightly familiar, Not at all familiar]]" max_attempts="0" showanswer="never" weight="0.0">
+  <p>To what extent are you familiar with the topics covered in ME209x?</p>
+  <optionresponse>
+    <optioninput options="('Extremely familiar','Very familiar','Somewhat familiar','Slightly familiar','Not at all familiar')" correct=""/>
+  </optionresponse>
+</problem>

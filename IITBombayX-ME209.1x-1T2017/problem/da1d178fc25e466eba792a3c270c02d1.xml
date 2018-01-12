@@ -1,0 +1,19 @@
+<problem display_name="Problem 9" markdown="We define steady state as the state when the rate of change of any property of the control volume with respect to time is zero. This means that the quantity will remain the same after any amount of time. For a control volume in steady state, the mass input is measured as 5 kilograms in 10 seconds. What is the output mass rate? &#10;( ) 5 kg/s&#10;(x) 0.5 kg/s&#10;( ) 50 kg/s&#10;( ) 2 kg/s&#10;&#10;[explanation]&#10;In steady state, the input mass flow rate remains constant at 5/10 kg/s. &#10;Also, the mass contained in the control volume does not change with respect to time.&#10;Hence, the exit mass flow rate is the same as the input mass flow rate&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>We define steady state as the state when the rate of change of any property of the control volume with respect to time is zero. This means that the quantity will remain the same after any amount of time. For a control volume in steady state, the mass input is measured as 5 kilograms in 10 seconds. What is the output mass rate? </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">5 kg/s</choice>
+      <choice correct="true">0.5 kg/s</choice>
+      <choice correct="false">50 kg/s</choice>
+      <choice correct="false">2 kg/s</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>In steady state, the input mass flow rate remains constant at 5/10 kg/s. </p>
+      <p>Also, the mass contained in the control volume does not change with respect to time.</p>
+      <p>Hence, the exit mass flow rate is the same as the input mass flow rate</p>
+    </div>
+  </solution>
+</problem>

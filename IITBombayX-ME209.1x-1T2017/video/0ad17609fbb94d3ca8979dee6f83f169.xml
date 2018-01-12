@@ -1,0 +1,10 @@
+<video youtube="1.00:vc1FxGTJozM" url_name="0ad17609fbb94d3ca8979dee6f83f169" display_name="Calculation of Dryness Fraction" download_track="true" download_video="true" edx_video_id="IITME2092014-V011600" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011600_DTH.mp4&quot;]" sub="IITME2092014-V011600_DTH" youtube_id_0_75="" youtube_id_1_0="vc1FxGTJozM" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011600_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S424_Calculation_of_Dryness_Fraction_IIT_Bombay" duration="500.84">
+    <encoded_video bitrate="129" file_size="8137506" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011600_MB2.mp4"/>
+    <encoded_video bitrate="181" file_size="11352421" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011600_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="22826491" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011600_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="67396982" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011600_AUD.mp3"/>
+  </video_asset>
+</video>

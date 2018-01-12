@@ -1,0 +1,10 @@
+<video youtube="1.00:MLKD2gGlImU" url_name="be446cc65b0d4d3dbaeb9bedefbd4344" display_name="Heat Transfer Devices" download_track="true" download_video="true" edx_video_id="IITME2092014-V020600" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020600_DTH.mp4&quot;]" sub="IITME2092014-V020600_DTH" youtube_id_0_75="" youtube_id_1_0="MLKD2gGlImU" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020600_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S312_Heat_Transfer_Devices_IIT_Bombay" duration="293.46">
+    <encoded_video bitrate="170" file_size="6272355" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020600_MB2.mp4"/>
+    <encoded_video bitrate="353" file_size="12977709" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020600_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="44263654" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020600_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="39010599" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020600_AUD.mp3"/>
+  </video_asset>
+</video>

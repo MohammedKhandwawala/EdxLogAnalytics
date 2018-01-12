@@ -1,0 +1,6 @@
+<problem display_name="" markdown="Please use this space to provide any additional comments or information.&#10;= answer&#10;" max_attempts="0" showanswer="never" weight="0.0">
+  <p>Please use this space to provide any additional comments or information.</p>
+  <stringresponse answer="answer" type="ci">
+    <textline size="20"/>
+  </stringresponse>
+</problem>

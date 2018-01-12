@@ -1,0 +1,17 @@
+<problem display_name="Problem 5" markdown="On the [mathjaxinline]p-V[/mathjaxinline] diagram of a simple system, how many times will an isothermal line and an isentropic line intersect each other?&#10;&#10;     ( ) They will not intersect.&#10;     (x) They will intersect just once.&#10;     ( ) They will intersect twice.&#10;     ( ) They may intersect any number of times.&#10;     &#10;[explanation]&#10;A given value of temperature (as represented by the isotherm and a given value of entropy (as represented by the isentrope, determine the state of the simple system uniquely. &#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>On the [mathjaxinline]p-V[/mathjaxinline] diagram of a simple system, how many times will an isothermal line and an isentropic line intersect each other?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">They will not intersect.</choice>
+      <choice correct="true">They will intersect just once.</choice>
+      <choice correct="false">They will intersect twice.</choice>
+      <choice correct="false">They may intersect any number of times.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A given value of temperature (as represented by the isotherm and a given value of entropy (as represented by the isentrope, determine the state of the simple system uniquely. </p>
+    </div>
+  </solution>
+</problem>

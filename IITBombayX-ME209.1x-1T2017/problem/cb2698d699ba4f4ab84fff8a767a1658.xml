@@ -1,0 +1,12 @@
+<problem display_name="Problem 6" markdown="T = 25 [mathjaxinline]^\circ[/mathjaxinline]C, s = 9 kJ/(kg K)&#10;&#10;( ) Wet vapour&#10;( ) Dry saturated vapour&#10;( ) Saturated liquid&#10;(x) Superheated steam&#10;( ) Subcooled liquid&#10;&#10;" max_attempts="4" showanswer="past_due" weight="1.0">
+  <p>T = 25 [mathjaxinline]^\circ[/mathjaxinline]C, s = 9 kJ/(kg K)</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Wet vapour</choice>
+      <choice correct="false">Dry saturated vapour</choice>
+      <choice correct="false">Saturated liquid</choice>
+      <choice correct="true">Superheated steam</choice>
+      <choice correct="false">Subcooled liquid</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

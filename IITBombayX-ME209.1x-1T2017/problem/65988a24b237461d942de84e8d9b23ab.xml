@@ -1,0 +1,18 @@
+<problem display_name="Problem 2" markdown="Which of the laws explains the given phenomenon in nature:&#10;&#10;The bubbles exhaled by a scuba diver grow as they approach the surface of the  ocean.&#10;&#10;[ ] Charle’s Law&#10;[x] Boyle’s Law&#10;[ ] Joule’s Law&#10;[ ] Ideal Gas Equation&#10;&#10;[explanation]&#10;The pressure exerted by the weight of the water decreases with depth, so the volume of the bubbles increases as they rise.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the laws explains the given phenomenon in nature:</p>
+  <p>The bubbles exhaled by a scuba diver grow as they approach the surface of the  ocean.</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">Charle’s Law</choice>
+      <choice correct="true">Boyle’s Law</choice>
+      <choice correct="false">Joule’s Law</choice>
+      <choice correct="false">Ideal Gas Equation</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The pressure exerted by the weight of the water decreases with depth, so the volume of the bubbles increases as they rise.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,10 @@
+<problem display_name="Problem 2" markdown="The one-way work done by a system will always be negative, that is, 'done on the system'&#10;&#10;     (x) True&#10;     ( ) False&#10;     &#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>The one-way work done by a system will always be negative, that is, 'done on the system'</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

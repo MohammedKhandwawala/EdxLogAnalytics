@@ -1,0 +1,29 @@
+<problem display_name="Problem 5" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Refer A-03 from Exercises Set A.</p>
+  <p>Assuming the process 1 to 2 (1 is the initial state and 2 is the final state) to be non-quasi-static, which of the following could be the correct process diagram for the system? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">
+        <img src="/static/aQuiz5.png" height="175" width="175"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/b.png" height="175" width="175"/>
+      </choice>
+      <choice correct="true">
+        <img src="/static/c.png" height="175" width="175"/>
+      </choice>
+      <choice correct="true">
+        <img src="/static/d.png" height="175" width="175"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/e.png" height="175" width="175"/>
+      </choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The process is from 1 to 2, arrow must show this direction.  For a non-quasi-static process, intermediate states are not in equilibrium, so we show them by a dashed line.</p>
+    </div>
+  </solution>
+</problem>

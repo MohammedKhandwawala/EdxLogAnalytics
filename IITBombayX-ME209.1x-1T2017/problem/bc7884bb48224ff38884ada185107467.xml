@@ -1,0 +1,11 @@
+<problem display_name="Problem 4" markdown="&gt;&gt;Which of the following statements are true?&#9;[select one or more]&lt;&lt;&#10;&#10;[ ] Primitive properties are defined by thermodynamics.&#10;[x] Enthalpy (H) is a derived thermodynamic property.&#10;[ ] Temperature is a derived thermodynamic property.&#10;[ ] Pressure is a basic thermodynamic property.&#10;" max_attempts="3" showanswer="past_due" weight="1.0">
+  <p>Which of the following statements are true?	[select one or more]</p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following statements are true? [select one or more]" direction="vertical">
+      <choice correct="false">Primitive properties are defined by thermodynamics.</choice>
+      <choice correct="true">Enthalpy (H) is a derived thermodynamic property.</choice>
+      <choice correct="false">Temperature is a derived thermodynamic property.</choice>
+      <choice correct="false">Pressure is a basic thermodynamic property.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

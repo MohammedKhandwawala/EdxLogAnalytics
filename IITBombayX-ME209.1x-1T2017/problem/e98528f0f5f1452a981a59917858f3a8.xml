@@ -1,0 +1,11 @@
+<problem display_name="Problem 6" markdown="What are the requirements for a process to be reversible?&#10;[x]the process must be quasi-static&#10;[ ]the interactions may include stirrer work&#10;[x]heat transfer, if any, must take place at zero temperature difference&#10;[ ]the process may not include expansion work&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What are the requirements for a process to be reversible?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">the process must be quasi-static</choice>
+      <choice correct="false">the interactions may include stirrer work</choice>
+      <choice correct="true">heat transfer, if any, must take place at zero temperature difference</choice>
+      <choice correct="false">the process may not include expansion work</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

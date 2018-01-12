@@ -1,0 +1,27 @@
+<problem display_name="Problem 5" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Consider a process plotted on the p – T diagram of water. Its initial state is given by p[mathjaxinline]_1[/mathjaxinline] = p[mathjaxinline]_c[/mathjaxinline][mathjaxinline]/[/mathjaxinline]3 and T1 = T[mathjaxinline]_c[/mathjaxinline][mathjaxinline]/[/mathjaxinline]3 where 'p[mathjaxinline]_c[/mathjaxinline]' and 'T[mathjaxinline]_c[/mathjaxinline]' represent the critical point pressure and critical point temperature respectively. </p>
+  <p>The liquid having initial state (p[mathjaxinline]_1[/mathjaxinline],T[mathjaxinline]_1[/mathjaxinline]) is isobarically heated until its temperature becomes 2*T[mathjaxinline]_1[/mathjaxinline]and further it is isothermally compressed until its pressure becomes 3*p[mathjaxinline]_1[/mathjaxinline]. What is the final state of the fluid?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Superheated vapour</choice>
+      <choice correct="true">Subcooled liquid</choice>
+      <choice correct="false">Liquid vapour equilibrium mixture</choice>
+      <choice correct="false">Solid state</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>p[mathjaxinline]_c[/mathjaxinline]= 22.064 MPa, T[mathjaxinline]_c[/mathjaxinline] = 373.946[mathjaxinline] ^\circ[/mathjaxinline]C</p>
+      <p>p[mathjaxinline]_1[/mathjaxinline] = p[mathjaxinline]_c[/mathjaxinline][mathjaxinline]/[/mathjaxinline]3 = 7.35 MPa</p>
+      <p>T[mathjaxinline]_1[/mathjaxinline]= T[mathjaxinline]_c[/mathjaxinline][mathjaxinline]/[/mathjaxinline]3= 124.65 [mathjaxinline] ^\circ[/mathjaxinline]C</p>
+      <p>State 1: Referring to steam tables: Table 2, T[mathjaxinline]_{sat}[/mathjaxinline]
+ (p[mathjaxinline]_1[/mathjaxinline]) = T[mathjaxinline]_{sat}[/mathjaxinline] (7.35 MPa) = 289.15 [mathjaxinline] ^\circ[/mathjaxinline]C</p>
+      <p>  From table 3, we ensure that the given state lies in the subcooled or compressed liquid zone.</p>
+      <p> State 2: T[mathjaxinline]_2[/mathjaxinline] = 2 * T[mathjaxinline]_1[/mathjaxinline] = 249.3 [mathjaxinline] ^\circ[/mathjaxinline]C</p>
+      <p>  p[mathjaxinline]_2[/mathjaxinline] = 3 * p[mathjaxinline]_1[/mathjaxinline] = p[mathjaxinline]_c[/mathjaxinline]= 22.064 MPa</p>
+      <p> As T[mathjaxinline]_2[/mathjaxinline] &lt; T[mathjaxinline]_c[/mathjaxinline], the given state lies in subcooled or compressed liquid zone</p>
+    </div>
+  </solution>
+</problem>

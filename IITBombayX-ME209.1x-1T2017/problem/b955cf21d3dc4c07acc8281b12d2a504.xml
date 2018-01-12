@@ -1,0 +1,11 @@
+<problem display_name="Problem 1" markdown="&gt;&gt;What is thermodynamics?&lt;&lt;&#10;&#10;( ) Science of interaction between mechanical bodies&#10;(x) Science of machines which handle and transfer energy&#10;( ) Science of electrical charges and thier interactions&#10;( ) Science of machines that are used for transportation&#10;&#10;&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What is thermodynamics?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is thermodynamics?" type="MultipleChoice">
+      <choice correct="false">Science of interaction between mechanical bodies</choice>
+      <choice correct="true">Science of machines which handle and transfer energy</choice>
+      <choice correct="false">Science of electrical charges and thier interactions</choice>
+      <choice correct="false">Science of machines that are used for transportation</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

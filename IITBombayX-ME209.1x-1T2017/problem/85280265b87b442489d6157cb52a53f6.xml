@@ -1,0 +1,12 @@
+<problem display_name="Problem 10" markdown="Which of the following assumptions are made in deriving the equation [mathjaxinline]\dot{Q} = \dot{m} (h_e – h_i) [/mathjaxinline]for a boiler&#10;[x] Rate of work transferred to or from the control volume is zero.&#10;[x] Steady state.&#10;[ ]Energy per unit mass at inlet and outlet is the same.&#10;[x] Change in the kinetic energy between the inlet and outlet is negligible.&#10;[x] Change in the potential energy between inlet and outlet is negligible.&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following assumptions are made in deriving the equation [mathjaxinline]\dot{Q} = \dot{m} (h_e – h_i) [/mathjaxinline]for a boiler</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Rate of work transferred to or from the control volume is zero.</choice>
+      <choice correct="true">Steady state.</choice>
+      <choice correct="false">Energy per unit mass at inlet and outlet is the same.</choice>
+      <choice correct="true">Change in the kinetic energy between the inlet and outlet is negligible.</choice>
+      <choice correct="true">Change in the potential energy between inlet and outlet is negligible.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

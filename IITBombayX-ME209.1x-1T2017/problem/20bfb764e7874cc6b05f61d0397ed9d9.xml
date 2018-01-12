@@ -1,0 +1,9 @@
+<problem display_name="Problem 9" markdown="Gas thermometers have a wider range than liquid-in-glass thermometers.&#10;(x) True&#10;( ) False&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Gas thermometers have a wider range than liquid-in-glass thermometers.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

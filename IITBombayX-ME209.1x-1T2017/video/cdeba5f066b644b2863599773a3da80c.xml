@@ -1,0 +1,11 @@
+<video youtube="1.00:kKSNQ-9SZi4" url_name="cdeba5f066b644b2863599773a3da80c" display_name="The Work Interaction 2" download_track="true" download_video="true" edx_video_id="IITME2092014-V001100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001100_100.mp4&quot;]" sub="IITME2092014-V001100_100" track="https://s3.amazonaws.com/ME209x/ME209x_S021_The_Work_Interaction_2_IIT_Bombay.srt" youtube_id_0_75="" youtube_id_1_0="kKSNQ-9SZi4" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001100_100.mp4"/>
+  <track src="https://s3.amazonaws.com/ME209x/ME209x_S021_The_Work_Interaction_2_IIT_Bombay.srt"/>
+  <video_asset client_video_id="ME209x_S021_The_Work_Interaction_2_IIT_Bombay" duration="457.73">
+    <encoded_video bitrate="382" file_size="21873606" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001100_MB1.mp4"/>
+    <encoded_video bitrate="303" file_size="17345795" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001100_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="29795804" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001100_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="56273557" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001100_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V001100_100.mp3"/>
+  </video_asset>
+</video>

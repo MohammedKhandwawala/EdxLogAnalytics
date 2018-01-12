@@ -1,0 +1,16 @@
+<problem display_name="Problem 8" markdown="The definition of 'higher' and 'lower' temperature is a consequence  of &#10;[ ] The Zeroth Law of Thermodynamics&#10;[ ] The First Law of Thermodynamics&#10;[x] The Second Law of Thermodynamics&#10;&#10;[explanation]&#10;The Zeroth law defines 'equality' or otherwise, of temperatures, the First Law does not directly involve temperature.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>The definition of 'higher' and 'lower' temperature is a consequence  of </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">The Zeroth Law of Thermodynamics</choice>
+      <choice correct="false">The First Law of Thermodynamics</choice>
+      <choice correct="true">The Second Law of Thermodynamics</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The Zeroth law defines 'equality' or otherwise, of temperatures, the First Law does not directly involve temperature.</p>
+    </div>
+  </solution>
+</problem>

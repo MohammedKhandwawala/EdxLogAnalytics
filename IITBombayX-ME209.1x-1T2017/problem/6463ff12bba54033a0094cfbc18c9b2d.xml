@@ -1,0 +1,15 @@
+<problem display_name="Problem 2" markdown="For a simple compressible system at rest, the value of[mathjaxinline]\frac{\partial(p,v)}{\partial(s,T)}[/mathjaxinline]equals 1.&#10;( ) True&#10;(x) False&#10;[explanation]&#10;It equals -1 &#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>For a simple compressible system at rest, the value of[mathjaxinline]\frac{\partial(p,v)}{\partial(s,T)}[/mathjaxinline]equals 1.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>It equals -1 </p>
+    </div>
+  </solution>
+</problem>

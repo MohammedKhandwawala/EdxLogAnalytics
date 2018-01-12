@@ -1,0 +1,10 @@
+<video youtube="1.00:47rCLOITqoc" url_name="23de032d8a32404eb6b10b7cda8f04f9" display_name="The Celsius Temperature Scale " download_track="true" download_video="true" edx_video_id="IITME2092014-V007100" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007100_100.mp4&quot;]" sub="47rCLOITqoc" youtube_id_0_75="" youtube_id_1_0="47rCLOITqoc" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007100_100.mp4"/>
+  <video_asset client_video_id="ME209x_S043_The_Celsius_Temperature_Scale_IIT_Bombay" duration="430.51">
+    <encoded_video bitrate="526" file_size="28331862" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007100_MB2.mp4"/>
+    <encoded_video bitrate="729" file_size="39279716" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007100_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="60802645" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007100_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="57926481" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007100_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V007100_100.mp3"/>
+  </video_asset>
+</video>

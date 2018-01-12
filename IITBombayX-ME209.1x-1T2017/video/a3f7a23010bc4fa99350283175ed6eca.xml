@@ -1,0 +1,11 @@
+<video youtube="1.00:-9yye7520Z0" url_name="a3f7a23010bc4fa99350283175ed6eca" display_name="Thermodynamic Definition of Work 1" download_track="true" download_video="true" edx_video_id="IITME2092014-V000900" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000900_100.mp4&quot;]" sub="IITME2092014-V000900_100" track="https://s3.amazonaws.com/ME209x/ME209x_S023_Thermodynamic_Definition_of_Work_1_IIT_Bombay.srt" youtube_id_0_75="" youtube_id_1_0="-9yye7520Z0" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000900_100.mp4"/>
+  <track src="https://s3.amazonaws.com/ME209x/ME209x_S023_Thermodynamic_Definition_of_Work_1_IIT_Bombay.srt"/>
+  <video_asset client_video_id="ME209x_S023_Thermodynamic_Definition_of_Work_1_IIT_Bombay" duration="170.84">
+    <encoded_video bitrate="529" file_size="11317802" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000900_MB2.mp4"/>
+    <encoded_video bitrate="729" file_size="15575838" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000900_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="23859672" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000900_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="22459331" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000900_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V000900_100.mp3"/>
+  </video_asset>
+</video>

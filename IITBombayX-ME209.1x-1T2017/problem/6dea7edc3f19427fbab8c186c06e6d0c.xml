@@ -1,0 +1,12 @@
+<problem display_name="Problem 10" markdown="How many degrees of freedom does the triple point have?&#10;     (x) 0&#10;     ( ) 1&#10;     ( ) 2&#10;     ( ) 3&#10;     &#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>How many degrees of freedom does the triple point have?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">0</choice>
+      <choice correct="false">1</choice>
+      <choice correct="false">2</choice>
+      <choice correct="false">3</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

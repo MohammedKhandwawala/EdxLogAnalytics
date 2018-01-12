@@ -1,0 +1,11 @@
+<problem display_name="Problem 4" markdown="As temperature of two phase liquid vapour mixture of water increases, its h[mathjaxinline]_{fg}[/mathjaxinline] _______&#10;&#10; ( )increases&#10; (x)decreases&#10; ( )remains same&#10; ( )cannot be determined &#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>As temperature of two phase liquid vapour mixture of water increases, its h[mathjaxinline]_{fg}[/mathjaxinline] _______</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">increases</choice>
+      <choice correct="true">decreases</choice>
+      <choice correct="false">remains same</choice>
+      <choice correct="false">cannot be determined</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,16 @@
+<problem display_name="Problem 6" markdown="&gt;&gt; A typical piston cylinder arrangement with both inlet port and exhaust port closed is:&lt;&lt;&#10;     ( ) An Open System&#10;     (x) A Closed System&#10;     ( ) An Isolated System&#10;     &#10;     &#10;[explanation]&#10;In a typical piston cylinder arrangement with inlet and output port closed, mass cannot flow in or out, but heat transfer can happen across the boundaries.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p> A typical piston cylinder arrangement with both inlet port and exhaust port closed is:</p>
+  <multiplechoiceresponse>
+    <choicegroup label=" A typical piston cylinder arrangement with both inlet port and exhaust port closed is:" type="MultipleChoice">
+      <choice correct="false">An Open System</choice>
+      <choice correct="true">A Closed System</choice>
+      <choice correct="false">An Isolated System</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>In a typical piston cylinder arrangement with inlet and output port closed, mass cannot flow in or out, but heat transfer can happen across the boundaries.</p>
+    </div>
+  </solution>
+</problem>

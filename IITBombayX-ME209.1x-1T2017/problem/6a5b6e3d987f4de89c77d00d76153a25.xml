@@ -1,0 +1,10 @@
+<problem display_name="Problem 2" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Two phase mixture of water having dryness fraction x = 0.5 is cooled at constant volume. If it still remains in the two phase region, then new ‘x’ is_____</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">&gt; 0.5</choice>
+      <choice correct="false">= 0.5</choice>
+      <choice correct="true">&lt; 0.5 </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

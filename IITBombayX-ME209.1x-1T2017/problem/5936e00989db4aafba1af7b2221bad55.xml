@@ -1,0 +1,11 @@
+<problem display_name="Problem10" markdown="Which of the following is correct for the analysis of an open system?&#10;[x][mathjaxinline] \frac{dM_{cv}}{dt} = \frac{dm_{in}}{dt} - \frac{dm_{out}}{dt}[/mathjaxinline]&#10;[ ] [mathjaxinline]\frac{dM_{cv}}{dt} = -\frac{dm_{in}}{dt} + \frac{dm_{out}}{dt}[/mathjaxinline]&#10;[ ] [mathjaxinline] \frac{dM_{cv}}{dt} = 0[/mathjaxinline], since mass of control volume cannot change.&#10;[ ] None of the above.&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Which of the following is correct for the analysis of an open system?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">[mathjaxinline] \frac{dM_{cv}}{dt} = \frac{dm_{in}}{dt} - \frac{dm_{out}}{dt}[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]\frac{dM_{cv}}{dt} = -\frac{dm_{in}}{dt} + \frac{dm_{out}}{dt}[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline] \frac{dM_{cv}}{dt} = 0[/mathjaxinline], since mass of control volume cannot change.</choice>
+      <choice correct="false">None of the above.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

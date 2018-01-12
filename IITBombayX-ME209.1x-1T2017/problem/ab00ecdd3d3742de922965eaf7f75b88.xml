@@ -1,0 +1,11 @@
+<problem display_name="Problem 9" markdown="Refer B-03 from Exercises Set B&#10;Which of the following assumptions do we need to make:&#10;[ ] The process is adiabatic.&#10;[x] There is no change in any component of energy, other than thermal energy.&#10;[x] The work done is only expansion work, there are no other modes in operation." max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Refer B-03 from Exercises Set B</p>
+  <p>Which of the following assumptions do we need to make:</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">The process is adiabatic.</choice>
+      <choice correct="true">There is no change in any component of energy, other than thermal energy.</choice>
+      <choice correct="true">The work done is only expansion work, there are no other modes in operation.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:Qij5JubGGGE" url_name="6fc2d4ef1f6443a8a942066d500c944a" display_name="Mollier Diagram" download_track="true" download_video="true" edx_video_id="IITME2092014-V011700" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011700_DTH.mp4&quot;]" sub="IITME2092014-V011700_DTH" youtube_id_0_75="" youtube_id_1_0="Qij5JubGGGE" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011700_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S425A_Mollier_Diagram_IIT_Bombay" duration="483.86">
+    <encoded_video bitrate="151" file_size="9154092" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011700_MB2.mp4"/>
+    <encoded_video bitrate="246" file_size="14923597" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011700_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="38469050" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011700_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="48234516" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011700_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V011700_AUD.mp3"/>
+  </video_asset>
+</video>

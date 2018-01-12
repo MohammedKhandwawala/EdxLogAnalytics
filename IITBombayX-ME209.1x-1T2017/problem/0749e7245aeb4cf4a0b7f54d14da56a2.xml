@@ -1,0 +1,11 @@
+<problem display_name="Problem 2" markdown="In the first law for open systems, which of the following components may be included in the rate of work done [mathjaxinline]\dot{W_s}[/mathjaxinline] ?&#10;[x] Stirrer work&#10;[x] Expansion Work&#10;[ ] Work done in pushing the fluid in at the inlet&#10;[ ] Work done in pushing the fluid out at the exit&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In the first law for open systems, which of the following components may be included in the rate of work done [mathjaxinline]\dot{W_s}[/mathjaxinline] ?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Stirrer work</choice>
+      <choice correct="true">Expansion Work</choice>
+      <choice correct="false">Work done in pushing the fluid in at the inlet</choice>
+      <choice correct="false">Work done in pushing the fluid out at the exit</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Problem 4" markdown="What are the reference points for the thermodynamic Kelvin scale of temperature and the ideal gas Kelvin scale of temperature?&#10;&#10;( )the normal freezing point of water for both&#10;( )the normal boiling point of water for both&#10;(x)the triple point of water for both&#10;( )the two scales have two different reference points&#10;     &#10;" max_attempts="2" weight="1.0">
+  <p>What are the reference points for the thermodynamic Kelvin scale of temperature and the ideal gas Kelvin scale of temperature?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">the normal freezing point of water for both</choice>
+      <choice correct="false">the normal boiling point of water for both</choice>
+      <choice correct="true">the triple point of water for both</choice>
+      <choice correct="false">the two scales have two different reference points</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

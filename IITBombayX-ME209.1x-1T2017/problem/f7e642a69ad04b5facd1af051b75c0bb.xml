@@ -1,0 +1,15 @@
+<problem display_name="Problem 7" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What is the specific entropy change in C2-05 (b) in kJ/kg K?(absolute value)</p>
+  <numericalresponse answer="0.76">
+    <responseparam type="tolerance" default="0.01"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>s[mathjaxinline]_1[/mathjaxinline]= 8.3543kJ/kg K (0.5 MPa, 600[mathjaxinline]^\circ[/mathjaxinline] C)</p>
+      <p>s[mathjaxinline]_2[/mathjaxinline] = 7.5979 kJ/kg K (2.5 MPa, 600 [mathjaxinline]^\circ[/mathjaxinline] C)</p>
+      <p>s[mathjaxinline]_2[/mathjaxinline] - s[mathjaxinline]_1[/mathjaxinline] = 0.76 kJ/kg K</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,17 @@
+<problem display_name="Problem 3" markdown="Under what conditions does a gas follow Boyle’s law to a good approximation?&#10;( ) high temperature and high pressure&#10;(x) high temperature and low pressure&#10;( ) low temperature and high pressure&#10;( ) low temperature and low pressure&#10;[explanation]&#10;Low density of the system is required, this is achieved at high temperature and low pressure.&#10;[explanation]&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Under what conditions does a gas follow Boyle’s law to a good approximation?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">high temperature and high pressure</choice>
+      <choice correct="true">high temperature and low pressure</choice>
+      <choice correct="false">low temperature and high pressure</choice>
+      <choice correct="false">low temperature and low pressure</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Low density of the system is required, this is achieved at high temperature and low pressure.</p>
+    </div>
+  </solution>
+</problem>

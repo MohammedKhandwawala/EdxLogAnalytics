@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown="Latent heat of vapourization for water at 100[mathjaxinline]^\circ[/mathjaxinline]C is____&#10;&#10; ( )u[mathjaxinline]_{fg}[/mathjaxinline]&#10; (x)h[mathjaxinline]_{fg}[/mathjaxinline]&#10; ( )v[mathjaxinline]_{fg}[/mathjaxinline]&#10; ( )s[mathjaxinline]_{fg}[/mathjaxinline]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>Latent heat of vapourization for water at 100[mathjaxinline]^\circ[/mathjaxinline]C is____</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">u[mathjaxinline]_{fg}[/mathjaxinline]</choice>
+      <choice correct="true">h[mathjaxinline]_{fg}[/mathjaxinline]</choice>
+      <choice correct="false">v[mathjaxinline]_{fg}[/mathjaxinline]</choice>
+      <choice correct="false">s[mathjaxinline]_{fg}[/mathjaxinline]</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

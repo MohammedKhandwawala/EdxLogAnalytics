@@ -1,0 +1,12 @@
+<problem display_name="Problem 5 [Part 2]" markdown="null" max_attempts="1" showanswer="past_due" weight="2.0">
+  <p><b>Problem 5F.</b> Which of the following assumptions did you have to make</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">The process is adiabatic.</choice>
+      <choice correct="false">The process is reversible.</choice>
+      <choice correct="true">All work interaction is of the expansion type.</choice>
+      <choice correct="true">Only thermal energy change is significant.</choice>
+      <choice correct="false">The behaviour of the contents of the system is like that of an ideal gas.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,17 @@
+<problem display_name="" markdown="null" max_attempts="0" showanswer="never" weight="0.0">
+  <p>Are you affiliated with IIT Bombay? </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">Not affiliated</choice>
+      <choice correct="false">Student</choice>
+      <choice correct="false">Alumnus/Alumna</choice>
+      <choice correct="false">Staff</choice>
+      <choice correct="false">Faculty</choice>
+      <choice correct="false">Other affiliation with IIT Bombay </choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <p>Please specify other affiliation, if any, with IIT Bombay. </p>
+  <stringresponse answer="answer" type="ci">
+    <textline size="20"/>
+  </stringresponse>
+</problem>

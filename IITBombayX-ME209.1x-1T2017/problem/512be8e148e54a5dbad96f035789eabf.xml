@@ -1,0 +1,15 @@
+<problem display_name="Problem 3" markdown="Any isentropic process must be a reversible process&#10;&#10;     ( ) True&#10;     (x) False&#10;[explanation]&#10;An isentropic process can be an irreversible process in which heat is rejected. &#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Any isentropic process must be a reversible process</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>An isentropic process can be an irreversible process in which heat is rejected. </p>
+    </div>
+  </solution>
+</problem>

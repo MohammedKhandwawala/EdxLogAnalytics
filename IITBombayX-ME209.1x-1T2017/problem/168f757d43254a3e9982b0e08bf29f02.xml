@@ -1,0 +1,17 @@
+<problem display_name="Problem 2" markdown="There is one inlet in an open system. What is the minimum and maximum number of outlets? &#10;( ) Min: 1 max: no limit&#10;(x) Min: 0 max: no limit&#10;( ) Min: 0 max: 1&#10;( ) Min: 1 max: 1&#10;[explanation]&#10;A balloon being inflated is an example.&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>There is one inlet in an open system. What is the minimum and maximum number of outlets? </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Min: 1 max: no limit</choice>
+      <choice correct="true">Min: 0 max: no limit</choice>
+      <choice correct="false">Min: 0 max: 1</choice>
+      <choice correct="false">Min: 1 max: 1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A balloon being inflated is an example.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,9 @@
+<problem display_name="" markdown="&#10;&#10;Are you currently enrolled in school?&#10; ( ) Yes&#10; ( ) No" max_attempts="0" showanswer="never" weight="0.0">
+  <p>Are you currently enrolled in school?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Yes</choice>
+      <choice correct="false">No</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

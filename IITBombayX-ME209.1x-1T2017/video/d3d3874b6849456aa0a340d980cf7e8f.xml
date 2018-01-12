@@ -1,0 +1,10 @@
+<video youtube="1.00:IrtFFOUkYSk" url_name="d3d3874b6849456aa0a340d980cf7e8f" display_name="Inlets and Outlets in Open Systems" download_track="true" download_video="true" edx_video_id="IITME2092014-V020000" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020000_DTH.mp4&quot;]" sub="IITME2092014-V020000_DTH" youtube_id_0_75="" youtube_id_1_0="IrtFFOUkYSk" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020000_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S303_Inlets_and_Outlets_in_Open_Systems_IIT_Bombay" duration="193.54">
+    <encoded_video bitrate="457" file_size="11058812" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020000_MB1.mp4"/>
+    <encoded_video bitrate="194" file_size="4700577" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020000_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="38796138" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020000_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="23429646" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020000_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V020000_AUD.mp3"/>
+  </video_asset>
+</video>

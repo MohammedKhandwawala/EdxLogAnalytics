@@ -1,0 +1,10 @@
+<video youtube="1.00:idbvK-X5rTQ" url_name="bfa9cad0fdf847b0871c731de3469251" display_name="Exercise 5 – Application of Second Law – Nozzle" download_track="true" download_video="true" edx_video_id="IITME2092014-V022200" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022200_DTH.mp4&quot;]" sub="IITME2092014-V022200_DTH" youtube_id_0_75="" youtube_id_1_0="idbvK-X5rTQ" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022200_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S325_Exercise_5_Application_of_Second_Law_Nozzle_IIT_Bombay" duration="741.29">
+    <encoded_video bitrate="138" file_size="12861285" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022200_MB2.mp4"/>
+    <encoded_video bitrate="215" file_size="19933779" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022200_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="49813222" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022200_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="86897977" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022200_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V022200_AUD.mp3"/>
+  </video_asset>
+</video>

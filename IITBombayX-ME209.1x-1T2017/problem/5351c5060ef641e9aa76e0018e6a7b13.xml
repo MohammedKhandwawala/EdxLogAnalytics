@@ -1,0 +1,11 @@
+<problem display_name="Problem 1" markdown="At a particular state, pressure given is more than the saturation pressure for the given temperature(200 deg C). The given state is in ________ zone &#10;&#10;[x] Subcooled liquid&#10;[ ] Supercritical fluid&#10;[x] Compressed liquid&#10;[ ] Superheated vapour&#10;&#10;" max_attempts="4" showanswer="past_due" weight="1.0">
+  <p>At a particular state, pressure given is more than the saturation pressure for the given temperature(200 deg C). The given state is in ________ zone </p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Subcooled liquid</choice>
+      <choice correct="false">Supercritical fluid</choice>
+      <choice correct="true">Compressed liquid</choice>
+      <choice correct="false">Superheated vapour</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

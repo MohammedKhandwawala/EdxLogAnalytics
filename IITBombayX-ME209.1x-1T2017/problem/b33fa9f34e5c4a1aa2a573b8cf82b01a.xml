@@ -1,0 +1,11 @@
+<problem display_name="Problem 4" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A closed system contains an ideal gas with constant specific heats.Its mass is [mathjaxinline]m[/mathjaxinline]. In a process, its pressure doubles, and its volume also doubles. What is the change in entropy of the system?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">[mathjaxinline]m (c_p+c_v) \ln 2[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]m (c_p-c_v) \ln 2[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]m R \ln 2[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]m R \ln 4[/mathjaxinline]</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:dIuhxFc7V4Y" url_name="7b0c3e66c1984bfe97a9fad34d8d51f0" display_name="Exercise 1 – Simple Adiabatic Turbine" download_track="true" download_video="true" edx_video_id="IITME2092014-V021700" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021700_DTH.mp4&quot;]" sub="IITME2092014-V021700_DTH" youtube_id_0_75="" youtube_id_1_0="dIuhxFc7V4Y" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021700_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S320_Exercise_1_Simple_Adiabatic_Turbine_IIT_Bombay" duration="286.36">
+    <encoded_video bitrate="354" file_size="12672574" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021700_MB1.mp4"/>
+    <encoded_video bitrate="175" file_size="6298659" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021700_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="39156525" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021700_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="34237057" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021700_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V021700_AUD.mp3"/>
+  </video_asset>
+</video>

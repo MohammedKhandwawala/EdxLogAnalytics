@@ -1,0 +1,11 @@
+<problem display_name="Problem 4" markdown="For a simple compressible system at rest, which of the following are true?&#10;[ ] [mathjaxinline]T=(\frac{\partial u}{\partial v})_s[/mathjaxinline]&#10;[x] [mathjaxinline]T=(\frac{\partial u}{\partial s})_v[/mathjaxinline]&#10;[x] [mathjaxinline]p=-(\frac{\partial u}{\partial v})_s[/mathjaxinline]&#10;[ ] [mathjaxinline]p=-(\frac{\partial u}{\partial s})_v[/mathjaxinline]&#10;" max_attempts="3" showanswer="past_due" weight="1.0">
+  <p>For a simple compressible system at rest, which of the following are true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="false">[mathjaxinline]T=(\frac{\partial u}{\partial v})_s[/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]T=(\frac{\partial u}{\partial s})_v[/mathjaxinline]</choice>
+      <choice correct="true">[mathjaxinline]p=-(\frac{\partial u}{\partial v})_s[/mathjaxinline]</choice>
+      <choice correct="false">[mathjaxinline]p=-(\frac{\partial u}{\partial s})_v[/mathjaxinline]</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

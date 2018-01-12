@@ -1,0 +1,10 @@
+<video youtube="1.00:i8AyqLNgKKg" url_name="5ff114539cc64358b369a03b7f113141" display_name="The Carnot Cycle 5" download_track="true" download_video="true" edx_video_id="IITME2092014-V015800" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V015800_DTH.mp4&quot;]" sub="i8AyqLNgKKg" youtube_id_0_75="" youtube_id_1_0="i8AyqLNgKKg" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V015800_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S128_The_Carnot_Cycle_5_IIT_Bombay" duration="496.64">
+    <encoded_video bitrate="138" file_size="8571204" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V015800_MB2.mp4"/>
+    <encoded_video bitrate="224" file_size="13942298" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V015800_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="36490185" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V015800_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="66413830" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V015800_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V015800_AUD.mp3"/>
+  </video_asset>
+</video>

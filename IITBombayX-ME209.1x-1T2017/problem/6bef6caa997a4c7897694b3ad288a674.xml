@@ -1,0 +1,17 @@
+<problem display_name="Problem 1" markdown="&gt;&gt; System A is a closed cylinder containing water and air.  Which of the following are not relevant characteristics of the system? [select one or more]&lt;&lt;&#10;&#10;[ ] Pressure&#10;[ ] Temperature&#10;[x] Temperature of surrounding atmosphere&#10;[x] Pressure of surrounding atmosphere&#10;&#10;[explanation]&#10;Properties of the surroundings are never relevant characteristics in defining the state of the system.&#10;[explanation]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p> System A is a closed cylinder containing water and air.  Which of the following are not relevant characteristics of the system? [select one or more]</p>
+  <choiceresponse>
+    <checkboxgroup label=" System A is a closed cylinder containing water and air.  Which of the following are not relevant characteristics of the system? [select one or more]" direction="vertical">
+      <choice correct="false">Pressure</choice>
+      <choice correct="false">Temperature</choice>
+      <choice correct="true">Temperature of surrounding atmosphere</choice>
+      <choice correct="true">Pressure of surrounding atmosphere</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Properties of the surroundings are never relevant characteristics in defining the state of the system.</p>
+    </div>
+  </solution>
+</problem>

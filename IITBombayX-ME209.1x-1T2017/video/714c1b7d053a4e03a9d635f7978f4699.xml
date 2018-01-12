@@ -1,0 +1,10 @@
+<video youtube="1.00:U3G1BzK5c08" url_name="714c1b7d053a4e03a9d635f7978f4699" display_name="Adiabatic | Reversible | Isentropic" download_track="true" download_video="true" edx_video_id="IITME2092014-V016800" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016800_DTH.mp4&quot;]" sub="IITME2092014-V016800_DTH" youtube_id_0_75="" youtube_id_1_0="U3G1BzK5c08" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016800_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S138_Adiabatic_Reversible_Isentropic_IIT_Bombay" duration="605.35">
+    <encoded_video bitrate="271" file_size="20520089" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016800_MB1.mp4"/>
+    <encoded_video bitrate="152" file_size="11565224" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016800_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="58745039" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016800_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="74801585" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016800_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V016800_AUD.mp3"/>
+  </video_asset>
+</video>

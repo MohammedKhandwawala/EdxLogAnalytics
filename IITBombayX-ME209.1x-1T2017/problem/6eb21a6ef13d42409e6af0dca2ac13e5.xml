@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown="A closed system contains water, initially at 1 MPa saturated liquid, executes an adiabatic process to its final state of 1 MPa dry saturated vapour. The process is quasi-static and isobaric. Which of the following is true?&#10;[x] The process is possible, it does not violate the Second Law.&#10;[ ] The process is not possible, since a process cannot be both adiabatic and isobaric&#10;[x] The process is isobaric, isothermal, as well as adiabatic.&#10;[ ] The process violated the Second Law." max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>A closed system contains water, initially at 1 MPa saturated liquid, executes an adiabatic process to its final state of 1 MPa dry saturated vapour. The process is quasi-static and isobaric. Which of the following is true?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">The process is possible, it does not violate the Second Law.</choice>
+      <choice correct="false">The process is not possible, since a process cannot be both adiabatic and isobaric</choice>
+      <choice correct="true">The process is isobaric, isothermal, as well as adiabatic.</choice>
+      <choice correct="false">The process violated the Second Law.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

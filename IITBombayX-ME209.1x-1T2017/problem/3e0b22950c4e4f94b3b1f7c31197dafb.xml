@@ -1,0 +1,16 @@
+<problem display_name="Problem 4" markdown="In C3-01,  the mass of water is changed from 2 kg to 5 kg. Will there be a change in the dryness fraction of the final state?&#10;( ) Yes&#10;(x) No&#10;( ) Cannot be determined&#10;&#10;[explanation]&#10;Both sides of the previous equation will get changed proportionately and we will still get the same x.&#10;[explanation]&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In C3-01,  the mass of water is changed from 2 kg to 5 kg. Will there be a change in the dryness fraction of the final state?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Yes</choice>
+      <choice correct="true">No</choice>
+      <choice correct="false">Cannot be determined</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Both sides of the previous equation will get changed proportionately and we will still get the same x.</p>
+    </div>
+  </solution>
+</problem>

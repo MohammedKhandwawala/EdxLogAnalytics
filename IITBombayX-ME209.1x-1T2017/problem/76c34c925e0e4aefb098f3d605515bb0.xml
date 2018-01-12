@@ -1,0 +1,17 @@
+<problem display_name="Problem 3" markdown="A gas is contained in a cylinder piston arrangement. The gas is heated as a result of which its temperature increases and the piston moves by some distance. This system can be classified as&#10;(x) Control mass&#10;( ) Control volume&#10;( ) Both control mass and control volume&#10;( ) Cannot be classified&#10;&#10;[explanation]&#10;It is a closed system and hence a control mass system.&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>A gas is contained in a cylinder piston arrangement. The gas is heated as a result of which its temperature increases and the piston moves by some distance. This system can be classified as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Control mass</choice>
+      <choice correct="false">Control volume</choice>
+      <choice correct="false">Both control mass and control volume</choice>
+      <choice correct="false">Cannot be classified</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>It is a closed system and hence a control mass system.</p>
+    </div>
+  </solution>
+</problem>

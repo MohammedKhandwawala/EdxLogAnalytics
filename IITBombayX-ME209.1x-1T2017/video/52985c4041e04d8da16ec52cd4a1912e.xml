@@ -1,0 +1,10 @@
+<video youtube="1.00:-S7NJUvhMkk" url_name="52985c4041e04d8da16ec52cd4a1912e" display_name="Phase Diagram:  Additional Learning" download_track="true" download_video="true" edx_video_id="IITME2092014-V010800" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010800_100.mp4&quot;]" sub="-S7NJUvhMkk" youtube_id_0_75="" youtube_id_1_0="-S7NJUvhMkk" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010800_100.mp4"/>
+  <video_asset client_video_id="ME209x_S430_Phase_Diagram _Additional_Learning_IIT_Bombay" duration="377.26">
+    <encoded_video bitrate="729" file_size="34423872" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010800_MB1.mp4"/>
+    <encoded_video bitrate="529" file_size="24993662" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010800_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="53282091" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010800_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="50973016" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010800_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010800_100.mp3"/>
+  </video_asset>
+</video>

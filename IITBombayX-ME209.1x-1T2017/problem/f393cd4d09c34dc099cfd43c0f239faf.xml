@@ -1,0 +1,10 @@
+<problem display_name="Problem 6" markdown="All thermodynamic scales of temperature are independent of the property of any material used in its construction and operation.&#10;&#10;     (x) True&#10;     ( ) False&#10;          &#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>All thermodynamic scales of temperature are independent of the property of any material used in its construction and operation.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>          </p>
+</problem>

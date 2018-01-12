@@ -1,0 +1,10 @@
+<problem display_name="Problem 7" markdown="Triple point of water is an invariant state i.e all properties are fixed.&#10;     (x) True&#10;     ( ) False&#10;     &#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>Triple point of water is an invariant state i.e all properties are fixed.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+</problem>

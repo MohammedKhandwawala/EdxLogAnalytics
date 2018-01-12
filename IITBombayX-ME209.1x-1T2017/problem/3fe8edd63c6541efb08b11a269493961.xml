@@ -1,0 +1,11 @@
+<problem display_name="Problem 3" markdown=" Student X has water substance at a pressure and temperature of 580 N/m[mathjaxinline]^2[/mathjaxinline] and [mathjaxinline]–[/mathjaxinline] 5[mathjaxinline]^\circ[/mathjaxinline]C respectively. She heats this water at isobaric conditions due to which its volume increases. This increase in volume starts when the water substance enters  &#10;( ) Solid phase&#10;(x) Solid [mathjaxinline] +[/mathjaxinline] vapour phase&#10;( ) Liquid [mathjaxinline] +[/mathjaxinline] vapour phase&#10;( ) Vapour phase&#10;&#10;" max_attempts="3" showanswer="past_due" weight="1.0">
+  <p> Student X has water substance at a pressure and temperature of 580 N/m[mathjaxinline]^2[/mathjaxinline] and [mathjaxinline]–[/mathjaxinline] 5[mathjaxinline]^\circ[/mathjaxinline]C respectively. She heats this water at isobaric conditions due to which its volume increases. This increase in volume starts when the water substance enters  </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Solid phase</choice>
+      <choice correct="true">Solid [mathjaxinline] +[/mathjaxinline] vapour phase</choice>
+      <choice correct="false">Liquid [mathjaxinline] +[/mathjaxinline] vapour phase</choice>
+      <choice correct="false">Vapour phase</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

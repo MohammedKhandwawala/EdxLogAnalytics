@@ -1,0 +1,11 @@
+<problem display_name="Problem 7" markdown="While reducing the first law for open systems to Bernoulli's equation, which of the following assumptions are made?&#10;[x] Steady state&#10;[x] No stirrer work&#10;[ ] No substantial potential energy change occurs.&#10;[x] Thermal energy of mass entering at inlet is same as that exiting at the outlet.&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>While reducing the first law for open systems to Bernoulli's equation, which of the following assumptions are made?</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Steady state</choice>
+      <choice correct="true">No stirrer work</choice>
+      <choice correct="false">No substantial potential energy change occurs.</choice>
+      <choice correct="true">Thermal energy of mass entering at inlet is same as that exiting at the outlet.</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

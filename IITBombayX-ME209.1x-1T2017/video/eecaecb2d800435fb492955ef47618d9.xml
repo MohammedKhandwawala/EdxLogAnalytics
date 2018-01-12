@@ -1,0 +1,10 @@
+<video youtube="1.00:aup-ve_3vps" url_name="eecaecb2d800435fb492955ef47618d9" display_name="Tutorial 1: Identify the Zone- Part 4" download_track="true" download_video="true" edx_video_id="IITME2092014-V010700" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010700_100.mp4&quot;]" sub="IITME2092014-V010700_100" youtube_id_0_75="" youtube_id_1_0="aup-ve_3vps" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010700_100.mp4"/>
+  <video_asset client_video_id="ME209x_S426D_Tutorial 1_Identify_the_Zone_Part 4_IIT_Bombay" duration="405.12">
+    <encoded_video bitrate="530" file_size="26843774" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010700_MB2.mp4"/>
+    <encoded_video bitrate="730" file_size="36974131" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010700_MB1.mp4"/>
+    <encoded_video bitrate="1000" file_size="57227684" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010700_100.mp4"/>
+    <encoded_video bitrate="1000" file_size="55148650" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010700_100.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V010700_100.mp3"/>
+  </video_asset>
+</video>

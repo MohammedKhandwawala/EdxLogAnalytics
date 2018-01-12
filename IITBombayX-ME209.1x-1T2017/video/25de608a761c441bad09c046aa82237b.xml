@@ -1,0 +1,10 @@
+<video youtube="1.00:zm_V_P4IrIc" url_name="25de608a761c441bad09c046aa82237b" display_name="Illustration – 3 " download_track="true" download_video="true" edx_video_id="IITME2092014-V018200" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018200_DTH.mp4&quot;]" sub="IITME2092014-V018200_DTH" youtube_id_0_75="" youtube_id_1_0="zm_V_P4IrIc" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018200_DTH.mp4"/>
+  <video_asset client_video_id="ME209x_S152_Illustrations_3_IIT_Bombay" duration="762.01">
+    <encoded_video bitrate="295" file_size="28158747" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018200_MB1.mp4"/>
+    <encoded_video bitrate="162" file_size="15489037" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018200_MB2.mp4"/>
+    <encoded_video bitrate="1000" file_size="76570462" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018200_DTH.mp4"/>
+    <encoded_video bitrate="1000" file_size="97848997" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018200_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/IITME209/IITME2092014-V018200_AUD.mp3"/>
+  </video_asset>
+</video>

@@ -1,0 +1,7 @@
+<problem display_name="Problem 2" markdown="What is the specific entropy, in [kJ/kg k] for wet steam at 10 bar, when the dryness fraction is 0.6The answer is correct if it is within a specified numerical tolerance of the expected answer.&#10;= 4.806 +- .02&#10;&#10;" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>What is the specific entropy, in [kJ/kg k] for wet steam at 10 bar, when the dryness fraction is 0.6The answer is correct if it is within a specified numerical tolerance of the expected answer.</p>
+  <numericalresponse answer="4.806">
+    <responseparam type="tolerance" default=".02"/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

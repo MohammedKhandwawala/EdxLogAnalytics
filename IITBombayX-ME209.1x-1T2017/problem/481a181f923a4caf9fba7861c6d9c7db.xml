@@ -1,0 +1,22 @@
+<problem display_name="Problem 7" markdown="null" max_attempts="2" showanswer="past_due" weight="1.0">
+  <p>In C3-06, what will be the final state of the system?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Wet</choice>
+      <choice correct="false">Saturated liquid/ vapor</choice>
+      <choice correct="false">Super saturated</choice>
+      <choice correct="false">Sub-cooled</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>p[mathjaxinline]_1[/mathjaxinline] = 0.2 MPa</p>
+      <p>V[mathjaxinline]_1[/mathjaxinline] = v[mathjaxinline]_g[/mathjaxinline] = 0.88568 m[mathjaxinline]^3[/mathjaxinline]/kg</p>
+      <p> p[mathjaxinline]_2[/mathjaxinline] = 0.8 MPa </p>
+      <p> Since pV= constant, v[mathjaxinline]_2[/mathjaxinline] = 0.22142 m[mathjaxinline]^3[/mathjaxinline]/kg</p>
+      <p>Now, at p=0.8 MPa, v[mathjaxinline]_{f2}[/mathjaxinline] = 0.00111478 m[mathjaxinline]^3[/mathjaxinline]/kg, v[mathjaxinline]_{g2}[/mathjaxinline]= 0.24034 m[mathjaxinline]^3[/mathjaxinline]/kg</p>
+      <p>Since v[mathjaxinline]_{f2}[/mathjaxinline] &lt; v[mathjaxinline]_2[/mathjaxinline] &lt; v[mathjaxinline]_{g2}[/mathjaxinline],final state is wet steam.</p>
+    </div>
+  </solution>
+</problem>

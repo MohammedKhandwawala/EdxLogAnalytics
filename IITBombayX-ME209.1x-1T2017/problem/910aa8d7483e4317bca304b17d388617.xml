@@ -1,0 +1,15 @@
+<problem display_name="Problem 10" markdown="The heat absorbed is completely converted into work.&#10;     (x) True&#10;     ( ) False&#10;     &#10;[explanation]&#10;This is straightforward application of the First Law, and Joule's Law.&#10;[explanation]&#10;" max_attempts="1" showanswer="past_due" weight="1.0">
+  <p>The heat absorbed is completely converted into work.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>This is straightforward application of the First Law, and Joule's Law.</p>
+    </div>
+  </solution>
+</problem>
