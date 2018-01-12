@@ -6,7 +6,7 @@
       	  /_/
 
 '''      	  
-import re, sys, os, pandas
+import re, sys, os, pandas, math
 from pyspark.sql.functions import when , lit
 from matplotlib import pyplot
 
@@ -14,9 +14,9 @@ log_file_path = '/home/mohammed/log/files/'
 
 file_path_list = []
 for i in range(1,15):
-	#if i != 11 :
-		#file_path_list.append(log_file_path + str(i) +"-1-2017.log")
-	file_path_list.append(log_file_path + str(i) +"-2-2017.log")
+	if i != 11 :
+		file_path_list.append(log_file_path + str(i) +"-1-2017.log")
+	#file_path_list.append(log_file_path + str(i) +"-2-2017.log")
 
 
 base_df = sqlContext.read.json(file_path_list)
@@ -54,11 +54,15 @@ df_temp = df_beta.groupBy("course_id").count()
 df_temp = df_temp[df_temp["count"] >= 50000]
 unique_courses = [i.course_id for i in df_temp.select('course_id').distinct().collect()]
  
-df_gamma = df_beta.where(df_beta.course_id == unique_courses[2]) 
+df_gamma = df_beta.where(df_beta.course_id == unique_courses[1]) 
 
 df_gamma = df_gamma.toPandas()
 df_gamma["name"].value_counts()
 df_gamma["grade"] = -1
+df_gamma["age"] = -1
+
+user_data = pandas.read_csv("/home/mohammed/log/log_new/IITBombayX-ME209.1x-1T2017-auth_userprofile-prod-analytics.csv",sep="\t", error_bad_lines=False)
+user_data["year_of_birth"].fillna(2018, inplace=True)
 
 for index, row in df_gamma.iterrows():
 	if (row["name"]=="edx.course.enrollment.mode_changed") or (row["name"]=="edx.course.enrollment.activated"):
@@ -75,10 +79,22 @@ for index, row in df_gamma.iterrows():
 		stop = row["event"][start+11:].find(",")
 		max_grade = float(row["event"][start+11:stop+start+11])
 		df_gamma.loc[index, "grade"] = (grade_obtained/max_grade)*100
-	
+	try:
+		temp1=user_data.loc[user_data["user_id"] == row["user_id"]]["year_of_birth"]
+		if(len(temp1)!=0):
+			year_of_birth = float(temp1)
+		df_gamma.at[index, "age"] = 2017-year_of_birth
+	except IndexError:		
+		print "does not exist"
+
+
+df_gamma["age"]
 
 users = df_gamma["username"].unique()
+
 data = {}
+user_age = []
+performance = []
 test_score = []
 test_views = []
 test_score_deroll = []
@@ -91,7 +107,9 @@ for user in users:
 	GRADE_COUNT = 0
 	VIEW_COUNT_DENROLL = 0
 	GRADE_COUNT_DENROLL = 0
+	age = 0
 	for index, row in df_temp1.iterrows():
+		age = row["age"]
 		if row["name"] != "seek_video" : 	
 			start = row["event"].find("currentTime")
 			stop = row["event"][start:].find("}")
@@ -121,11 +139,15 @@ for user in users:
 	for index, row in df_temp.iterrows():
 		if row["grade"] != 0 and row["grade"] != -1:
 			GRADE_COUNT+=(row["grade"]/100.0)
+	if(age!=-1 and VIEW_COUNT <= 202 and GRADE_COUNT <= 271 and VIEW_COUNT>=0 and GRADE_COUNT >= 0):
+		user_age.append(age)
+		performance.append(math.sqrt(VIEW_COUNT**2 + GRADE_COUNT**2))
 	data[user]=[VIEW_COUNT, GRADE_COUNT]
-	test_views.append(VIEW_COUNT)
-	test_score.append(GRADE_COUNT)
-	test_views_deroll.append(VIEW_COUNT_DENROLL)
-	test_score_deroll.append(GRADE_COUNT_DENROLL)
+	if(VIEW_COUNT <= 202 and GRADE_COUNT <= 271 and VIEW_COUNT>=0 and GRADE_COUNT >= 0):
+		test_views.append(VIEW_COUNT)
+		test_score.append(GRADE_COUNT)
+		test_views_deroll.append(VIEW_COUNT_DENROLL)
+		test_score_deroll.append(GRADE_COUNT_DENROLL)	
 
 
 pyplot.scatter(test_views ,test_score ,marker='o')
@@ -133,6 +155,8 @@ pyplot.scatter(test_views_deroll, test_score_deroll, c='g', marker='o')
 
 pyplot.show()
 
+pyplot.scatter(user_age , performance , marker='o')
+pyplot.show()
 
 '''
         name      page session  user_id
